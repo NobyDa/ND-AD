@@ -9539,7 +9539,6 @@
 .go-mpulse
 .optimizely.com
 .umsns.com
-.x.jd.com
 .ads.api.vungle.com
 .ads.wakamoment.tk
 .dsp.edm.weibo.cn
@@ -38767,7 +38766,6 @@
 .img2.tanv.com
 .tanzhen.info
 .advertisement.taobao.com
-.amdc.m.taobao.com
 .amdcopen.m.taobao.com
 .bcfeedback.taobao.com
 .detail.taobao.com

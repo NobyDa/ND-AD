@@ -9540,7 +9540,6 @@ host-suffix, crunchyroll.com, reject
 host-suffix, go-mpulse, reject
 host-suffix, optimizely.com, reject
 host-suffix, umsns.com, reject
-host-suffix, x.jd.com, reject
 host-suffix, ads.api.vungle.com, reject
 host-suffix, ads.wakamoment.tk, reject
 host-suffix, dsp.edm.weibo.cn, reject
@@ -38767,7 +38766,6 @@ host-suffix, tantoporno.com, reject
 host-suffix, img2.tanv.com, reject
 host-suffix, tanzhen.info, reject
 host-suffix, advertisement.taobao.com, reject
-host-suffix, amdc.m.taobao.com, reject
 host-suffix, amdcopen.m.taobao.com, reject
 host-suffix, bcfeedback.taobao.com, reject
 host-suffix, detail.taobao.com, reject
