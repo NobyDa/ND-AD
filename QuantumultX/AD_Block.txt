@@ -32339,7 +32339,6 @@ host-suffix, microsoftaffiliates.net, reject
 host-suffix, dl.microsword.net, reject
 host-suffix, midas-i.com, reject
 host-suffix, midas-network.com, reject
-host-suffix, apiwz.midukanshu.com, reject
 host-suffix, www.mie99.net, reject
 host-suffix, miegpokitjxm.com, reject
 host-suffix, daima.miercn.com, reject
@@ -35458,9 +35457,6 @@ host-suffix, psoonsod.com, reject
 host-suffix, psoptopi.com, reject
 host-suffix, psoultar.net, reject
 host-suffix, psozoult.net, reject
-host-suffix, sf1-ttcdn-tos.pstatp.com, reject
-host-suffix, sf3-ttcdn-tos.pstatp.com, reject
-host-suffix, sf6-ttcdn-tos.pstatp.com, reject
 host-suffix, pstats.com, reject
 host-suffix, psulsobi.net, reject
 host-suffix, psurdoak.com, reject
@@ -37964,7 +37960,6 @@ host-suffix, bds.snssdk.com, reject
 host-suffix, mon.snssdk.com, reject
 host-suffix, toblog.snssdk.com, reject
 host-suffix, ug.snssdk.com, reject
-host-suffix, is.snssdk.com, reject
 host-suffix, sntzq.com, reject
 host-suffix, c.sntzq.com, reject
 host-suffix, snuokyvjn.com, reject

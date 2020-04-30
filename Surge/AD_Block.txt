@@ -32339,7 +32339,6 @@
 .dl.microsword.net
 .midas-i.com
 .midas-network.com
-.apiwz.midukanshu.com
 .www.mie99.net
 .miegpokitjxm.com
 .daima.miercn.com
@@ -35458,9 +35457,6 @@
 .psoptopi.com
 .psoultar.net
 .psozoult.net
-.sf1-ttcdn-tos.pstatp.com
-.sf3-ttcdn-tos.pstatp.com
-.sf6-ttcdn-tos.pstatp.com
 .pstats.com
 .psulsobi.net
 .psurdoak.com
@@ -37964,7 +37960,6 @@
 .mon.snssdk.com
 .toblog.snssdk.com
 .ug.snssdk.com
-.is.snssdk.com
 .sntzq.com
 .c.sntzq.com
 .snuokyvjn.com
