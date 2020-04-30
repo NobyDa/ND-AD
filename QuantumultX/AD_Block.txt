@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.4.29 - 1:30
+# Update time : 2020.4.30-19:30
 
 # AdRule
 host-suffix, mcupdate.gstarcad.com, reject
@@ -4023,7 +4023,6 @@ host-suffix, in.zog.link, reject
 host-suffix, in1.feed.uu.cc, reject
 host-suffix, in1.secure.uu.cc, reject
 host-suffix, inad.com, reject
-host-suffix, inapp.1sapp.com, reject
 host-suffix, inccnd.com, reject
 host-suffix, inclk.com, reject
 host-suffix, include.xs2345.com, reject
@@ -17837,7 +17836,6 @@ host-suffix, 1rx.io, reject
 host-suffix, 1rxntv.io, reject
 host-suffix, ee.1s8pj.cn, reject
 host-suffix, m.1s8pj.cn, reject
-host-suffix, 1sapp.com, reject
 host-suffix, 1sen-pit-fan.com, reject
 host-suffix, m.1sur6d.cn, reject
 host-suffix, ad.1ting.com, reject

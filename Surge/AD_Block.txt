@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.4.29 - 1:30
+# Update time : 2020.4.30-19:30
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -4022,7 +4022,6 @@
 .in1.feed.uu.cc
 .in1.secure.uu.cc
 .inad.com
-.inapp.1sapp.com
 .inccnd.com
 .inclk.com
 .include.xs2345.com
@@ -17836,7 +17835,6 @@
 .1rxntv.io
 .ee.1s8pj.cn
 .m.1s8pj.cn
-.1sapp.com
 .1sen-pit-fan.com
 .m.1sur6d.cn
 .ad.1ting.com
