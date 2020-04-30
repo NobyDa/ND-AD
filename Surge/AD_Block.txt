@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.4.30-19:30
+# Update time : 2020.4.30-22:00
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -2496,7 +2496,6 @@
 .d31qbv1cthcecs.cloudfront.net
 .d36eyd5j1kt1m6.cloudfront.net
 .d3f.houyi.baofeng.net
-.d3g.qq.com
 .d3v1lb83psg9di.cloudfront.net
 .d4.sina.com.cn
 .d5.sina.com.cn
@@ -3638,7 +3637,6 @@
 .h5.taihao.cc
 .h8.bec.com
 .h9377c.com
-.haitaoad.nosdn.127.net
 .haiwai-ic.ksosoft.com
 .haiwengji.net
 .haiyunpush.com
@@ -4479,7 +4477,6 @@
 .knnwdyou.com
 .kob.adxkj.com
 .kod4pc293.com
-.koowo.com
 .koukou7.com
 .kovjo.com
 .kqy1.com
@@ -4518,7 +4515,6 @@
 .l.mnjkw.cn
 .lives.l.qq.com
 .livep.l.qq.com
-.mi.gdt.qq.com
 .l.supfast.net
 .l.ujian.cc
 .l.yidianzixun.com
@@ -4963,7 +4959,6 @@
 .m.twldmx.com
 .m.txtxr.com
 .m.uc123.com
-.m.uczzd.cn
 .m.ueram.com
 .m.uissm.com
 .m.vaxyz.com
@@ -5780,7 +5775,6 @@
 .plwan.com
 .plz.jandan.net
 .pm.sdaiv.com
-.pmir.3g.qq.com
 .pmm.people.com.cn
 .pmptrack-autohome.gentags.net
 .pmptrack-letv.gentags.net
@@ -5922,7 +5916,6 @@
 .py2.qlogo.cn
 .pyerc.com
 .pyzkk.com
-.q.i.gdt.qq.com
 .q.ox11.com
 .q.s.cr-nielsen.com
 .q1scv.vov0.com
@@ -6188,7 +6181,6 @@
 .s.6travel.com
 .s.abcache.com
 .s.alitui.weibo.com
-.s.baidu.com
 .s.bmgan.com
 .s.caduka.cn
 .s.cdn.u17t.com
@@ -6525,7 +6517,6 @@
 .sobar.baidu.com
 .sobartop.baidu.com
 .social-touch.com
-.sod.onelink.me
 .soft.chaomeng8.com
 .soft.zhidian3g.cn
 .sohu.irs01.com
@@ -8061,7 +8052,6 @@
 .adserver.pandora.com
 .adui.tg.meitu.com
 .adv.bandi.so
-.goblin.hupu.com
 .adx.hupu.com
 .adx-api.hupu.com
 .adxserver.ad.cmvideo.cn
@@ -8383,7 +8373,6 @@
 .click.tz.simba.taobao.com
 .stat.simba.taobao.com
 .m-adash.m.taobao.com
-.adashbc.m.taobao.com
 .applovin.com
 .applvn.com
 .inner-active.mobi
@@ -8507,7 +8496,6 @@
 .hpplay.com.cn
 .i.stat.nearme.com.cn
 .ias816.ujikdd041o.cn
-.iflow.uczzd.cn
 .iflow.uczzd.com.cn
 .ipinyou.com.cn
 .jifendownload.2345.cn
@@ -8623,7 +8611,6 @@
 .if.mingxing.qq.com
 .imc.l.qq.com
 .img1.sj.qq.com
-.info.3g.qq.com
 .jingjia.qq.com
 .l2.l.qq.com
 .lb.l.qq.com
@@ -8632,7 +8619,6 @@
 .log.tbs.qq.com
 .ls.l.qq.com
 .mapp.qzone.qq.com
-.mazu.3g.qq.com
 .mta.qq.com
 .openapi.guanjia.qq.com
 .p.l.qq.com
@@ -8662,7 +8648,6 @@
 .t.l.qq.com
 .tj.b.qq.com
 .tj.video.qq.com
-.tools.3g.qq.com
 .trace.qq.com
 .union.discuz.qq.com
 .up-hl.3g.qq.com
@@ -9588,7 +9573,6 @@
 .similarweb.com
 .stargame.com
 .ugdtimg.com
-.umtrack.com
 .union001.com
 .uuzu.com
 .yongyuelm.com
@@ -15888,7 +15872,6 @@
 .log.invodo.com
 .log.kcisa.kr
 .log.kibboko.com
-.log.kuwo.cn
 .log.m.sm.cn
 .log.mappy.net
 .log.mediacategory.com
@@ -17297,7 +17280,6 @@
 .shouji.360.cn
 .wan.360.cn
 .stat.xgo.com.cn
-.adash-c.m.taobao.com
 .g.click.taobao.com
 .g.tbcdn.cn
 .gtmsdd.alicdn.com
@@ -17374,9 +17356,6 @@
 .policy.jd.com
 .bssdl.kugou.com
 .bssdlbig.kugou.com
-.apk.shouji.koowo.com
-.g.koowo.com
-.g.kuwo.cn
 .api-flow.meizu.com
 .ebook.meizu.com
 .a.market.xiaomi.com
@@ -17470,7 +17449,6 @@
 .yule.sohu.com
 .aiseet.aa.atianqi.com
 .aiseet.atianqi.com
-.livew.l.qq.com
 .mcgi.v.qq.com
 .mdevstat.qqlive.qq.com
 .omgmta1.qq.com
@@ -17701,7 +17679,6 @@
 .pg-ad-b1.ws.126.net
 .pg-ad-b2.ws.126.net
 .12648afd00d93.com
-.iadmat.nosdn.127.net
 .1298bab69bbc4.com
 .12dc71b7cb820f2a.com
 .12i.cn
@@ -19087,7 +19064,6 @@
 .abmr.net
 .abnad.net
 .abodealley.com
-.www.aboluowang.com
 .abonmgghehh.com
 .sba.about.co.kr
 .abserv123.com
@@ -21665,7 +21641,6 @@
 .e.banmamedia.com
 .un2.banmamedia.com
 .www.banmamedia.com
-.www.bannedbook.org
 .banner-rotation.com
 .bannerbank.ru
 .bannerbit.com
@@ -22060,8 +22035,6 @@
 .bildirnet.com
 .bildirt.com
 .bileth.pw
-.dataflow.biliapi.com
-.data.bilibili.com
 .biliqpvehf.com
 .www.billionfocus.com
 .billypub.com
@@ -25282,7 +25255,6 @@
 .domslc.com
 .donecooler.com
 .dongbeisurewin.com
-.dongtaiwang.org
 .donhyxngg.com
 .doniv.net
 .www.donneuropa.it
@@ -25320,7 +25292,6 @@
 .ad-apac.doubleclick.net
 .ad-emea.doubleclick.net
 .ad.doubleclick.net
-.g.doubleclick.net
 .ff.doubleclick.net
 .gan.doubleclick.net
 .iv.doubleclick.net
@@ -26403,7 +26374,6 @@
 .fabrkrup.com
 .fabrtgzehf.com
 .badge.facebook.com
-.graph.facebook.com
 .pixel.facebook.com
 .facebookicon.net
 .faceporn.com
@@ -29611,7 +29581,6 @@
 .search.video.iqiyi.com
 .subscription.iqiyi.com
 .api.yuedu.iqiyi.com
-.hotchat-im.iqiyi.com
 .puma-api.iqiyi.com
 .puma.api.iqiyi.com
 .www.iqiyi.space
@@ -32246,7 +32215,6 @@
 .mhmgeilfkcgov.com
 .mhogb.space
 .mhorwseoai.com
-.www.mhradio.org
 .mhviessolums.com
 .hy-brasil.mhwang.com
 .marx-brothers.mhwang.com
@@ -36072,8 +36040,6 @@
 .xmaterial.tu.qq.com
 .zhizi.qq.com
 .adsmind.apdcdn.tc.qq.com
-.appsupport.qq.com
-.i.gdt.qq.com
 .omgmta.play.ott.video.qq.com
 .omgmta.qq.com
 .op.ssp.qq.com
@@ -36264,7 +36230,6 @@
 .qxxyzmukttyp.com
 .qxykytqzwagqj.com
 .api.ts.feedback.qy.net
-.msg.qy.net
 .msgv6.qy.net
 .qydhjirz.com
 .qydzycrxlkdlin.com
@@ -37558,7 +37523,6 @@
 .www.shenyun.org
 .www.shenyunperformingarts.org
 .ecard.shenzhentong.com
-.www.shenzhoufilm.com
 .shermore.info
 .shesubscriptions.com
 .mo.shezhuang.top
@@ -38085,7 +38049,6 @@
 .f3.souid.com
 .pmh.souid.com
 .www.souid.com
-.www.soundofhope.org
 .sourcecode.pro
 .sourl.cn
 .tongji.southmoney.com
@@ -38763,8 +38726,6 @@
 .detail.taobao.com
 .eco.taobao.com
 .top.taobao.com
-.adash.m.taobao.com
-.c-adash.m.taobao.com
 .umengacs.m.taobao.com
 .fourier.taobao.com
 .accscdn.m.taobao.com
@@ -41727,7 +41688,6 @@
 .wufel.ml
 .wugwwssgjcn.com
 .manage.wuhancloud.cn
-.www.wujieliulan.com
 .wuldvrdfie.com
 .wultaikr.net
 .wundercounter.com
@@ -42550,7 +42510,6 @@
 .asd.yhzbjz.com
 .tongji.yicha.cn
 .www.yichunrz.com
-.mb.yidianzixun.com
 .yidu.cc
 .yidxvzosvwsd.com
 .yie4zooseif.info

@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block_Plus.txt,REJECT
 
-# Current total domain name : 70,000+ 
-# Update time : 2020.4.30 - 17:50
+# Current total domain name : 69,000+ 
+# Update time : 2020.4.30 - 22:00
 
 .yhcw.org.cn
 .vns4398.com
@@ -17547,7 +17547,6 @@
 .cdn.mercent.com
 .ad.adzmedia.com
 .ac-feedback.com
-.1.qualtrics.com
 .1.hidemyass.com
 .cdn.m-pathy.com
 .cdn.mplxtms.com
@@ -18509,7 +18508,6 @@
 .zm.shzgjx88.com
 .rtr.innovid.com
 .reviewguild.com
-.th-facebook.com
 .rtpibuckwnp.com
 .thesnaphack.net
 .rtm-d.openx.net
@@ -19684,14 +19682,12 @@
 .fppupmqbydpk.com
 .hcyxksgsxnzb.com
 .elite888-ico.com
-.gm.qualtrics.com
 .drtqfejznjnl.com
 .eu.sushipool.com
 .elite-cheats.net
 .fpqxcvrewdqd.com
 .facsowlaufzk.com
 .elitedollars.com
-.eu.qualtrics.com
 .hljiofrtqenc.com
 .glunhb.txzj88.cn
 .fxwkhwcmsqne.com
@@ -19732,7 +19728,6 @@
 .fxcayktrneld.com
 .fqazjwxovxlu.com
 .hkm-aviation.com
-.go.qualtrics.com
 .fwzqogrlgsdl.com
 .fwzlsugrflhh.com
 .eljjyutgjiuh.com
@@ -20074,7 +20069,6 @@
 .esoftcontent.com
 .files.criteo.com
 .get.leanplum.com
-.ea.qualtrics.com
 .esnirgskobfj.com
 .eslydbnukkme.com
 .eslgydoqbedo.com
@@ -23373,7 +23367,6 @@
 .whgsyczcofwf.com
 .yxhyxfyibqhd.com
 .yxjvmjlhyfrp.com
-.us.qualtrics.com
 .whatyoufound.com
 .yxlibrsxbycm.com
 .yxmkiqdvnxsk.com
@@ -24069,7 +24062,6 @@
 .rryodgeerrvn.com
 .ssc.33across.com
 .sofia.trustx.org
-.ss.qualtrics.com
 .rsc.scmspain.com
 .rscdn.cxense.com
 .ss.beeketing.com
@@ -24889,7 +24881,6 @@
 .krovrhmqgupd.com
 .krone.nuggad.net
 .iuabiwhclldt.com
-.iu.qualtrics.com
 .krmuxxubtkrg.com
 .krmowaretedc.com
 .redirectzone.com
@@ -25505,7 +25496,6 @@
 .nicesearches.com
 .odpjcjreznno.com
 .ohrdpvkzhzbg.com
-.nd.qualtrics.com
 .mhfvtafbraql.com
 .oranngtonbea.com
 .mhcttlcbkwvp.com
@@ -26133,7 +26123,6 @@
 .ebookdatabase.org
 .ht.c1exchange.com
 .cheapticketes.com
-.ebl.qualtrics.com
 .digital-hacks.com
 .digitallyours.com
 .gguvdsglzjyca.com
@@ -26176,7 +26165,6 @@
 .hub.appsflyer.com
 .hub.automatad.com
 .cheatengineer.com
-.hub.qualtrics.com
 .global.adform.net
 .cheatenginetv.com
 .diretctrishta.com
@@ -26283,7 +26271,6 @@
 .go-free-gifts.com
 .elvisandlaura.com
 .cheatspcgames.net
-.hms.qualtrics.com
 .ds.eyeblaster.com
 .dummy.112.2o7.net
 .decentralland.org
@@ -26345,7 +26332,6 @@
 .down.tututool.com
 .cheatsrelease.com
 .down.upantool.com
-.hnu.qualtrics.com
 .internetcalxa.com
 .eheewlwlebwpd.com
 .go.searchlock.com
@@ -26428,7 +26414,6 @@
 .vastx.moatads.com
 .zerowastecity.org
 .user-softbank.com
-.usf.qualtrics.com
 .vip.xiehuizhi.com
 .root--servers.org
 .sippisoftware.com
@@ -26494,7 +26479,6 @@
 .isabellebride.com
 .ns1.mediaplex.com
 .reklam9.adk2x.com
-.isb.qualtrics.com
 .ns1.puserving.com
 .ns1.stg.fwmrm.net
 .reklam.arabul.com
@@ -26532,11 +26516,8 @@
 .redirectingat.com
 .ns3.ishosting.net
 .ns3.mediaplex.com
-.iup.qualtrics.com
-.ius.qualtrics.com
 .redir.intsrvr.com
 .redcrossworld.com
-.niu.qualtrics.com
 .redaksi4jovem.com
 .rectangletrkr.com
 .recreatestate.org
@@ -26594,7 +26575,6 @@
 .jagritisocial.com
 .rbs.sc.omtrdc.net
 .jailanta-asli.com
-.rbs.qualtrics.com
 .jailbreak-app.com
 .jailbreak-ios.org
 .nexisicurezza.com
@@ -26634,9 +26614,7 @@
 .jdavidfranzke.com
 .jdd01.198game.net
 .nysubwayoffer.com
-.nyt.qualtrics.com
 .rathibearings.com
-.nyu.qualtrics.com
 .nyulmc.demdex.net
 .jdgilrlyqtrly.com
 .nywpxugigwfzb.com
@@ -26656,7 +26634,6 @@
 .newads.cmpnet.com
 .jeuqrslzoxdcz.com
 .raovathouston.net
-.jfe.qualtrics.com
 .jg.hack-inter.net
 .o5gee.from-ks.com
 .jgophcykrckik.com
@@ -26684,7 +26661,6 @@
 .oblbewqykouak.com
 .obpzuctfozram.com
 .rajulbuilders.com
-.jmu.qualtrics.com
 .nessus2.lijit.com
 .neref.112.2o7.net
 .jn.redirectme.net
@@ -26770,7 +26746,6 @@
 .jsonp.moatads.com
 .jssdk.rayjump.com
 .qwufihkhgxphq.com
-.jsu.qualtrics.com
 .jtbmxdoadktnm.com
 .jtt.sc.omtrdc.net
 .jtt.tt.omtrdc.net
@@ -26952,7 +26927,6 @@
 .qpjrrhbfglrly.com
 .myetherwllaet.com
 .latishaweekly.com
-.pwc.qualtrics.com
 .myetherwatlet.com
 .myetherwaltet.com
 .vdtaajlfocecy.com
@@ -26978,8 +26952,6 @@
 .openx.4shared.com
 .law-check-two.xyz
 .lawvcpqtapzsh.com
-.msu.qualtrics.com
-.mst.qualtrics.com
 .pushedwebnews.com
 .oscdn.batmobi.net
 .osearch.media.net
@@ -26998,7 +26970,6 @@
 .kraken-wallet.com
 .onlineitdeals.com
 .onlinesupaads.com
-.osu.qualtrics.com
 .mychterwallet.com
 .punfbtrcvfdxl.com
 .krghheqkkcght.com
@@ -27034,7 +27005,6 @@
 .ou.shutterfly.com
 .mybannermaker.com
 .lds.hb.omtrdc.net
-.lds.qualtrics.com
 .ksrcnyrntlyfo.com
 .khochmanjomaa.com
 .myasianfetish.com
@@ -27344,7 +27314,6 @@
 .pd1.funnyhost.com
 .load.adlegend.com
 .progwaveradio.com
-.oxy.qualtrics.com
 .peyttlwbznahi.com
 .peypall-xdxsb.com
 .p110701.inclk.com
@@ -27362,7 +27331,6 @@
 .p112541.inclk.com
 .oyiqurfqulhuq.com
 .p112690.inclk.com
-.pct.qualtrics.com
 .load.exelator.com
 .linkdebrideur.xyz
 .p176113.inclk.com
@@ -27707,7 +27675,6 @@
 .mightalthough.net
 .practicefixer.com
 .pr-a.adtechus.com
-.lvc.qualtrics.com
 .possibleboats.com
 .luxeblisshair.com
 .lowgraveleron.com
@@ -27776,7 +27743,6 @@
 .silkysquirrel.com
 .vapden1.lijit.com
 .tegna-d.openx.net
-.usc.qualtrics.com
 .silentalarmhq.com
 .retarget.smi2.net
 .t.dlx.addthis.com
@@ -27822,7 +27788,6 @@
 .usa.dauid-iep.com
 .usa.bravo-dog.com
 .swahobrjdddri.com
-.us2.qualtrics.com
 .sock-ha.subiz.com
 .revenuedirect.com
 .telomereboost.com
@@ -27987,7 +27952,6 @@
 .soma.adlegend.com
 .textads.opera.com
 .youngorfabric.com
-.vsu.qualtrics.com
 .vfstdqercaffu.com
 .rightbusiness.net
 .rtb.serverbid.com
@@ -28011,7 +27975,6 @@
 .smashingdealz.com
 .rimgak.mmtcdn.com
 .skinstroopers.com
-.vuw.qualtrics.com
 .smetrics.aetn.com
 .tfokrtmrwlkzv.com
 .uploadjunkies.com
@@ -28046,7 +28009,6 @@
 .surge.bombora.com
 .shoppingminds.net
 .rjszckwlctpup.com
-.rtc.qualtrics.com
 .zirhuqksdqeyg.com
 .smibs.112.2o7.net
 .shoppingdaily.com
@@ -28136,13 +28098,10 @@
 .shockingswing.com
 .shockingrates.com
 .rmm1u.checkm8.com
-.uwa.qualtrics.com
-.uvu.qualtrics.com
 .rnhbhnlmpvvdt.com
 .shockinganals.com
 .unwrittenspot.com
 .unwashedsound.com
-.smu.qualtrics.com
 .rniiylqxvxybv.com
 .shmdigitalllc.com
 .video.moatads.com
@@ -28187,7 +28146,6 @@
 .shareuptodate.com
 .sharepointads.com
 .snapytogether.com
-.tcb.qualtrics.com
 .snare.iesnare.com
 .sharefileland.com
 .ruthlessrobin.com
@@ -28219,13 +28177,11 @@
 .rwcdoeigzraeu.com
 .utakatikmesin.com
 .shanafishbein.com
-.uta.qualtrics.com
 .shallowschool.com
 .ydolseawnutnf.com
 .rochesterdata.com
 .shahjalalbank.com
 .ydfntydegmdbk.com
-.ut1.qualtrics.com
 .w3.extreme-dm.com
 .theroamingjew.com
 .zdads.e-media.com
@@ -28265,7 +28221,6 @@
 .rysengcp.kksmc.cn
 .ustat.batmobi.net
 .uniquecaptcha.com
-.ust.qualtrics.com
 .yaujmwnwurdhm.com
 .viewer.peer39.com
 .sfzfjiefentwe.com
@@ -28276,7 +28231,6 @@
 .rogers.demdex.net
 .sixpack.udimg.com
 .zbcsmoopwqyze.com
-.soa.qualtrics.com
 .sfrmobile.inq.com
 .s.cm.ksmobile.com
 .s.dlx.addthis.com
@@ -28306,7 +28260,6 @@
 .severalthrown.net
 .vimalbearings.com
 .spark.marketo.com
-.und.qualtrics.com
 .roi.mediaplex.com
 .w9.extreme-dm.com
 .roibwbjaclwgg.com
@@ -28348,7 +28301,6 @@
 .s003.monerise.com
 .umutkasimoglu.com
 .thisgreenblog.com
-.umt.qualtrics.com
 .umsv-steyrtal.com
 .status.adroll.com
 .serviciosguru.com
@@ -28362,7 +28314,6 @@
 .web-adservice.com
 .s1.buysellads.com
 .status.adacts.com
-.umn.qualtrics.com
 .waikikitarifa.com
 .s-telecharger.com
 .s1.hit.stat24.com
@@ -28383,10 +28334,8 @@
 .serve.adplxmd.com
 .tools4everone.com
 .s10.sitemeter.com
-.ucf.qualtrics.com
 .xia.xmindchina.cn
 .webdisk.one88.com
-.ume.qualtrics.com
 .toolsa.hitbox.com
 .ssp.api.tappx.com
 .serv99.vizury.com
@@ -28437,7 +28386,6 @@
 .s17.sitemeter.com
 .tiads.instyle.com
 .tiads.timeinc.net
-.ssd.qualtrics.com
 .ultraadserver.com
 .xxhgzzinkrbbo.com
 .ultjaimlrjlfl.com
@@ -28513,12 +28461,10 @@
 .s248.meetrics.net
 .uabdikmdwqdbr.com
 .s24-analytics.com
-.spf.qualtrics.com
 .stats2.dooyoo.com
 .srslogisticts.com
 .toddschneider.com
 .s25.sitemeter.com
-.uaa.qualtrics.com
 .s26.sitemeter.com
 .xmrchaqjwqyvz.com
 .s27.sitemeter.com
@@ -28577,7 +28523,6 @@
 .saim.pubmatic.com
 .stats.vidyome.com
 .ujvmzzwsxzrd3.com
-.wau.qualtrics.com
 .xml.explorads.com
 .semanadeverao.com
 .tiptwfbksobui.com
@@ -28615,11 +28560,9 @@
 .srvcc-e.media.net
 .xmh-resc.9icph.cn
 .vastuvedinfra.org
-.wbs.qualtrics.com
 .weemanmilitia.com
 .uicybyysyllad.com
 .s41.sitemeter.com
-.uic.qualtrics.com
 .server1.affiz.net
 .sendfileworld.com
 .ui2.ensighten.com
@@ -28640,8 +28583,6 @@
 .server.popads.net
 .uhboiygnytbql.com
 .s48.sitemeter.com
-.stc.qualtrics.com
-.wcu.qualtrics.com
 .sentrapromosi.com
 .sento.122.2o7.net
 .stats.storify.com
@@ -28664,7 +28605,6 @@
 .xqfqftrtkdxdi.com
 .xq.7489rwxacx.xyz
 .srvjsru.media.net
-.ufl.qualtrics.com
 .wdig.vo.llnwd.net
 .saadiqratrust.com
 .sales.choozle.com
@@ -28715,7 +28655,6 @@
 .st.valueclick.com
 .st-1.1fichier.com
 .st1.ifbyphone.com
-.st3.qualtrics.com
 .whatdslrtobuy.com
 .turbonamestore.cn
 .turbinetechit.com
@@ -28773,7 +28712,6 @@
 .sawdfbwxqcpcs.com
 .why-outsource.net
 .whzavlaamjcnt.com
-.ttu.qualtrics.com
 .ttegjzxzxyetf.com
 .x3.extreme-dm.com
 .tr.contextweb.com
@@ -28970,7 +28908,6 @@
 .help.appnexus.com
 .download-fast.net
 .drealvog.ddns.net
-.get.qualtrics.com
 .go.mobstitial.com
 .dotcomsecrets.com
 .goautofinance.com
@@ -28978,7 +28915,6 @@
 .hk168.edo2008.com
 .cf-ads.pinger.com
 .de.intellitxt.com
-.dvg.qualtrics.com
 .drawanimefast.com
 .download-hack.net
 .download-hack.org
@@ -29156,7 +29092,6 @@
 .count76.51yes.com
 .count75.51yes.com
 .data.nal.usda.gov
-.fen.qualtrics.com
 .ibis.lgappstv.com
 .fenc.daewonit.com
 .fengrtnoxuwwe.com
@@ -29220,7 +29155,6 @@
 .clinicfordiet.com
 .h.switchadhub.com
 .h.dlx.addthis.com
-.hci.qualtrics.com
 .corp.outbrain.com
 .corp.leanplum.com
 .euroabilitato.com
@@ -29250,7 +29184,6 @@
 .ft8-de.adhigh.net
 .ft7-us.adhigh.net
 .ijvolcqtnxohl.com
-.hbs.qualtrics.com
 .fghtrrasovlsu.com
 .ingdirrection.com
 .corapersianas.com
@@ -29323,7 +29256,6 @@
 .d34fa.lasmeio.com
 .cialis-finder.com
 .gxgtmttcaofiq.com
-.fsu.qualtrics.com
 .hb.adx.adform.net
 .iklandenpasar.com
 .d2eb561c06fa6.com
@@ -29440,7 +29372,6 @@
 .finders.hopto.org
 .freexboxlivee.com
 .exvmxqexedomi.com
-.cvs.qualtrics.com
 .findid-icloud.com
 .gammaplatform.com
 .grandeveryday.com
@@ -29495,7 +29426,6 @@
 .f10-de.adhigh.net
 .cubeworldhack.com
 .f11-de.adhigh.net
-.fiu.qualtrics.com
 .f12-de.adhigh.net
 .fiuazbmlycese.com
 .f13-de.adhigh.net
@@ -29625,7 +29555,6 @@
 .f6ec580c1baa2.com
 .csgoturbobets.com
 .freeplaycards.com
-.fma.qualtrics.com
 .fmoihhvbehopc.com
 .clanshacktool.com
 .csgotradegear.com
@@ -29778,7 +29707,6 @@
 .fantasy-hacks.com
 .fantasyherald.com
 .galahadphotos.com
-.co1.qualtrics.com
 .cnt3.xhamster.com
 .crl4.digicert.com
 .crl3.digicert.com
@@ -29799,7 +29727,6 @@
 .fr.best-hacks.net
 .cleandownload.net
 .freeguildwars.com
-.gsu.qualtrics.com
 .free-groupsex.com
 .img.pt2.atdmt.com
 .gsthstreturns.com
@@ -29818,12 +29745,10 @@
 .cleveland.sla.org
 .hack-ultimate.com
 .grkrkurbyykok.com
-.gse.qualtrics.com
 .clg.doublemax.net
 .cmyzmrgrtyrkt.com
 .hacktools2013.com
 .hacktoolninja.com
-.cmu.qualtrics.com
 .click.adimmix.com
 .grupowsbrasil.com
 .grlehzdbzmstb.com
@@ -29911,7 +29836,6 @@
 .lpxxafsupgsho.com
 .miamiboatgate.com
 .ppcpsjihmydhr.com
-.lsu.qualtrics.com
 .lt.retargeter.com
 .mhfivsdhbpfgk.com
 .micro.marketo.com
@@ -29955,7 +29879,6 @@
 .devinpmerullo.com
 .hgfgzqwbjnebd.com
 .giovanggarena.com
-.hhs.qualtrics.com
 .hhleomgyiruth.com
 .hhetqpirahub4.com
 .hr.icubeswire.com
@@ -30185,7 +30108,6 @@
 .wkdyvxuornxnh.com
 .static.woopra.com
 .track.nvoluum.com
-.wku.qualtrics.com
 .wkwakmsttsehi.com
 .www2.outbrain.com
 .wl.duoshitong.com
@@ -30259,7 +30181,6 @@
 .tracker.mtrax.net
 .tracker.mtrtb.com
 .wpad.cinci.rr.com
-.wpi.qualtrics.com
 .tracker.rqmob.com
 .trane.112.2o7.net
 .sdf.jiupinshan.cn
@@ -30282,12 +30203,10 @@
 .ww1.tongji123.com
 .sdk.beeketing.com
 .sdk.native123.com
-.wvu.qualtrics.com
 .wvetuwwcojfgw.com
 .wuyednuhrxvsr.com
 .static.mepuzz.com
 .sdk-ads.adk2x.com
-.wur.qualtrics.com
 .wqpyqirgzfqsc.com
 .wunccmpzjqvxe.com
 .searchencrypt.com
@@ -30495,7 +30414,6 @@
 .5d0b6.v.fwmrm.net
 .account.youzu.com
 .2ab7f.v.fwmrm.net
-.aaa.qualtrics.com
 .38486e2886986.com
 .1tr.cqcounter.com
 .23315.hittail.com
@@ -30547,7 +30465,6 @@
 .8d6274.t.axf8.net
 .1c6e2.s.fwmrm.net
 .1f2e7.v.fwmrm.net
-.aba.qualtrics.com
 .5cfe7.s.fwmrm.net
 .2df7d.v.fwmrm.net
 .247590.r.axf8.net
@@ -30710,7 +30627,6 @@
 .ad.adverticum.net
 .bbzassociates.com
 .ads.mediaturf.net
-.bbk.qualtrics.com
 .cdn.mm.atwola.com
 .ads.megaproxy.com
 .cdn.merchenta.com
@@ -30955,7 +30871,6 @@
 .caixa-cliente.net
 .ad10.speedbit.com
 .azfilesharing.com
-.az1.qualtrics.com
 .ad11.focalink.com
 .aytunmbagbeki.xyz
 .caf-fr-espace.com
@@ -30979,7 +30894,6 @@
 .caananlimited.com
 .axfihweksrgor.com
 .ads.swiftnews.com
-.ca1.qualtrics.com
 .aws.go.sonobi.com
 .ads.tarrobads.com
 .c7.adforgeinc.com
@@ -31024,7 +30938,6 @@
 .augur-network.com
 .audiencetrust.com
 .ads.vnuemedia.com
-.au1.qualtrics.com
 .atxinspection.com
 .ads.watchmygf.net
 .ads.webattack.com
@@ -31072,7 +30985,6 @@
 .asd.kippsmart.com
 .ads2.speedbit.com
 .asbeirasporto.com
-.asb.qualtrics.com
 .as3ws.fopyirr.com
 .as1.inoventiv.com
 .ads3.gamecity.net
@@ -31164,7 +31076,6 @@
 .adclick.eqmob.com
 .byuwgtzpawzzd.com
 .adclickxpress.com
-.byu.qualtrics.com
 .appleid-token.com
 .adcode.rontar.com
 .appleidstoree.com
@@ -31264,7 +31175,6 @@
 .apolloprogram.com
 .adv.bullguard.com
 .aplopalsecure.com
-.bsu.qualtrics.com
 .adv.dontcrack.com
 .adm.shacknews.com
 .aplfkrppjsutf.com
@@ -31305,7 +31215,6 @@
 .api.safegraph.com
 .admpagesystem.com
 .broadboundary.com
-.api.qualtrics.com
 .adn.fusionads.net
 .adn.go.sonobi.com
 .api.pubnative.net
@@ -31589,7 +31498,6 @@
 .fb.deluxecheat.com
 .fb.cashtraffic.com
 .in.tags.vizury.com
-.cofc.qualtrics.com
 .ifghealthmedia.com
 .covenantoffire.com
 .iffywords.890m.com
@@ -31704,7 +31612,6 @@
 .fzpseyhkanhopd.com
 .fzqxefkbjzwiqa.com
 .hackscommunity.com
-.fmru.qualtrics.com
 .fzrqfakeaqikwm.com
 .colway-kolagen.com
 .hacks-download.com
@@ -31935,13 +31842,11 @@
 .harshita-india.com
 .dev.doublepimp.com
 .cityville-cash.com
-.cwru.qualtrics.com
 .engine.trklnks.com
 .huvzwmithltjia.com
 .esl-tournament.net
 .elisehagedoorn.com
 .ctrsopfwiadfjn.com
-.esmt.qualtrics.com
 .getbesttraffic.com
 .facebookfbhack.com
 .cityville2hack.com
@@ -31958,7 +31863,6 @@
 .dap.digitalgov.gov
 .hulfingtonpost.com
 .deniseinspires.com
-.chat.qualtrics.com
 .ethzero-wallet.com
 .cttnlnsnwdokqb.com
 .ehg-rfa.hitbox.com
@@ -31977,7 +31881,6 @@
 .detect.rayjump.com
 .ethzero-wallet.org
 .espn.hb.omtrdc.net
-.espn.qualtrics.com
 .csgomagnatcase.com
 .games-paradise.com
 .icloud-support.net
@@ -32063,7 +31966,6 @@
 .esubeqnbfinans.com
 .cubeworldhacks.net
 .getleakedsnaps.com
-.gov1.qualtrics.com
 .def.gbc.criteo.com
 .eu.crittercism.com
 .demobl.cityads.com
@@ -32124,7 +32026,6 @@
 .info.taplytics.com
 .desertedbreath.com
 .icloud-shouhou.com
-.cumc.qualtrics.com
 .gcirm.injersey.com
 .cumcrazedcoeds.com
 .chuknu.sokrati.com
@@ -32245,7 +32146,6 @@
 .cheatsandhacks.net
 .eloqua.122.2o7.net
 .icuazeczpeoohx.com
-.elps.qualtrics.com
 .emmyunfiltered.com
 .giftcards4fans.com
 .hbbtv.mediaset.net
@@ -32263,7 +32163,6 @@
 .delb.mspaceads.com
 .dadllrpazourna.com
 .eyinwxkojgkfgs.com
-.dcsg.qualtrics.com
 .hengyongonline.com
 .ctcpwymaeuwnqd.com
 .dcstest.wtlive.com
@@ -32432,7 +32331,6 @@
 .justourwedding.com
 .razor1991games.org
 .quiclamansures.com
-.pace.qualtrics.com
 .jasper.112.2o7.net
 .lucidsexdreams.com
 .junsunlighting.com
@@ -32480,12 +32378,10 @@
 .na-sjn.marketo.com
 .na-sjo.marketo.com
 .na-sjp.marketo.com
-.ohio.qualtrics.com
 .plugin.batmobi.net
 .manolo.orgfree.com
 .nasoulkkytrane.com
 .meez.crwdcntrl.net
-.ohed.qualtrics.com
 .manqsuilainsre.com
 .meetme-d.openx.net
 .meyetherwallet.com
@@ -32611,7 +32507,6 @@
 .ntrb.qc.coccoc.com
 .m.clickability.com
 .market.appnext.com
-.ncaa.qualtrics.com
 .metrics.mcafee.com
 .nicoletteweber.com
 .market.cityads.com
@@ -32630,7 +32525,6 @@
 .jprtqxwhtrjejx.com
 .mediafiregames.net
 .metrics.ioffer.com
-.ncsu.qualtrics.com
 .nijksigqjzalcf.com
 .mediafirefiles.net
 .panther.adform.net
@@ -32652,7 +32546,6 @@
 .nikkei.112.2o7.net
 .jounkh.5gbfree.com
 .media-bofa.inq.com
-.real.qualtrics.com
 .m.widget.subiz.com
 .josemoralesinc.com
 .marketplacesms.com
@@ -32725,13 +32618,11 @@
 .redirectvoluum.com
 .perinstallcash.com
 .ocm.revcontent.com
-.rady.qualtrics.com
 .redroomnetwork.com
 .itunescodesnow.com
 .massimospinosa.com
 .massivehacking.com
 .partage-facile.com
-.neiu.qualtrics.com
 .ocixtsnyxxvyaw.com
 .refer1.outster.com
 .nl4.hit.stat24.com
@@ -32861,7 +32752,6 @@
 .pilot.unbounce.com
 .jiktnv.122.2o7.net
 .ipxdoldjsvnjvw.com
-.mays.qualtrics.com
 .oas.dallasnews.com
 .oas.aurasports.com
 .maytinhcaobang.net
@@ -32987,7 +32877,6 @@
 .invite.gezinti.com
 .nfshacksreborn.com
 .news.newinform.com
-.jcca.qualtrics.com
 .poemslagtexaco.com
 .raycom-d.openx.net
 .pb.switchadhub.com
@@ -33036,7 +32925,6 @@
 .s2.statcounter.com
 .s.spolecznosci.net
 .timcarterphoto.com
-.yale.qualtrics.com
 .s2150.t.eloqua.com
 .yamaha.122.2o7.net
 .s.nz.gt.igexin.com
@@ -33314,7 +33202,6 @@
 .img.revcontent.com
 .feltrecoilshow.com
 .hackcheatstool.com
-.gssw.qualtrics.com
 .downloadupload.com
 .hotelbeds-omni.com
 .hit.clickaider.com
@@ -33337,7 +33224,6 @@
 .freegameserver.net
 .divyanshunayak.com
 .dzqoubtxsaskdl.com
-.cgi.connect.qq.com
 .cndsp.mobvista.com
 .intranet.lijit.com
 .cna.rtb.adsrvr.org
@@ -33412,11 +33298,9 @@
 .dkb01.webtrekk.net
 .gm.preferences.com
 .fgsjjpjhdlfthp.com
-.gmac.qualtrics.com
 .fgyeepfitnvkzz.com
 .copperchickens.com
 .dwxaciqlebqemh.com
-.copa.qualtrics.com
 .dkspqpprnsmmte.com
 .hosting.adhigh.net
 .fhm.valueclick.net
@@ -33469,7 +33353,6 @@
 .dulfweycnqfoka.com
 .contentcleaner.com
 .content.tapjoy.com
-.duke.qualtrics.com
 .content.rmxads.com
 .content.mkt941.com
 .duffanndphelps.com
@@ -33775,7 +33658,6 @@
 .limitesdlogins.net
 .mixdescontosbr.com
 .limitupgreaded.net
-.kmrc.qualtrics.com
 .kmjexpirqstyzv.com
 .monk.webengage.com
 .kmetija-ploder.com
@@ -33982,7 +33864,6 @@
 .ordie.adbureau.net
 .orderviagradsb.com
 .lon.rtb.adsrvr.org
-.kent.qualtrics.com
 .kenken-d.openx.net
 .ordermedonline.com
 .lmcoiiwpguaorp.com
@@ -34053,7 +33934,6 @@
 .mw.casalemedia.com
 .opt-west.media.net
 .kzqjwdxxussshe.net
-.katz.qualtrics.com
 .migliorigadget.com
 .prajyainfotech.com
 .n.zeroredirect.com
@@ -34186,7 +34066,6 @@
 .p91869.clksite.com
 .pprcfwhlmtagay.com
 .jbqolazohwqesu.com
-.lrsc.qualtrics.com
 .p94825.clksite.com
 .nycops01.fwmrm.net
 .jbcadlpdfsxsfe.com
@@ -34203,7 +34082,6 @@
 .buypartylights.com
 .a10.reflexcash.com
 .buxomcosmetics.com
-.cass.qualtrics.com
 .anycast.popads.net
 .821d55eca272fd.com
 .casinotreasure.com
@@ -34242,7 +34120,6 @@
 .312elementsweb.com
 .312.1d27c9b8fb.com
 .bundasnovinhas.com
-.aopa.qualtrics.com
 .caxton-d.openx.net
 .30horas-acesso.com
 .aorta.clickagy.com
@@ -34266,7 +34143,6 @@
 .2spl.ir.zeotap.com
 .bank0famerikan.com
 .apawestflorida.com
-.cbcs.qualtrics.com
 .bango.combango.org
 .alexbensonship.com
 .achromatdesign.com
@@ -34332,7 +34208,6 @@
 .aleksandr-usov.com
 .angmar.112.2o7.net
 .bturlzbakbcsdd.com
-.cars.qualtrics.com
 .bttmtkg.btttag.com
 .carry.myeffect.net
 .btr.vertamedia.com
@@ -34451,7 +34326,6 @@
 .ads13.focalink.com
 .aplicativo-seg.com
 .38f30081974c52.com
-.byui.qualtrics.com
 .2-art-coliseum.com
 .ads12.focalink.com
 .botnetdownload.com
@@ -34778,7 +34652,6 @@
 .as.featurelink.com
 .binullxzwnsqws.com
 .ads.bloodhorse.com
-.bino.qualtrics.com
 .ads.blogherads.com
 .ads.bittorrent.com
 .22088.t.domdex.com
@@ -34842,12 +34715,10 @@
 .adops.cricbuzz.com
 .ashleyfurn.inq.com
 .adoffer.lenzmx.com
-.ashp.qualtrics.com
 .bidder2.criteo.com
 .bidder.vrtzads.com
 .asia.bm.traakr.com
 .56ecc.dfqdxsb6.com
-.asia.qualtrics.com
 .asiabizconsult.com
 .affiliate.mogs.com
 .asiana-d.openx.net
@@ -34958,8 +34829,6 @@
 .adf.hdkinoshka.net
 .adextent.adk2x.com
 .aszdmbftkccdkj.com
-.adec.qualtrics.com
-.adea.qualtrics.com
 .cdn.yieldmedia.net
 .1c6e9c.v.fwmrm.net
 .adds1.trafflow.com
@@ -35117,7 +34986,6 @@
 .a.thoughtleadr.com
 .ad.trafficshop.com
 .bb.dugesheying.com
-.aida.qualtrics.com
 .baypirateproxy.org
 .baxshop.btttag.com
 .cdn3ncal.media.net
@@ -35243,7 +35111,6 @@
 .sureshmehrotra.com
 .yylimg.clsj365.com
 .www-la.addthis.com
-.tamu.qualtrics.com
 .rockersreunion.com
 .riwdydttgbczku.com
 .www2.cqcounter.com
@@ -35310,7 +35177,6 @@
 .ri.appvirality.com
 .rhzpcnueogbexb.com
 .rhythmnewmedia.com
-.tcnj.qualtrics.com
 .track.hopemobi.net
 .rhqrfnkngrhrha.com
 .sungai-teratai.com
@@ -35466,7 +35332,6 @@
 .retail.renodio.com
 .search.addthis.com
 .sbudbyidtdrgey.com
-.wsbe.qualtrics.com
 .wsb.wangketuan.com
 .zwxrhsxa.goghh.top
 .trac.tubemogul.com
@@ -35743,7 +35608,6 @@
 .secure.fhserve.com
 .vantis-holding.com
 .utm.popswatter.com
-.sncr.qualtrics.com
 .us-geo.cityads.com
 .viarnd.112.2o7.net
 .viay2m.112.2o7.net
@@ -35782,7 +35646,6 @@
 .triblabla.awasr.cn
 .securedopen-bp.com
 .ushqvpdtwoecis.com
-.uwrf.qualtrics.com
 .starstablehack.net
 .sl22.clicktale.net
 .uwqrwgxxkaoydo.com
@@ -35791,10 +35654,8 @@
 .static.actionx.com
 .tr-ziraattbank.com
 .ts.clickadilla.com
-.utep.qualtrics.com
 .smaato-d.openx.net
 .wjpdgueqasdgeq.com
-.snhu.qualtrics.com
 .sl21.clicktale.net
 .staging.adgear.com
 .static.2mdnsys.com
@@ -35819,7 +35680,6 @@
 .whisperingcrib.com
 .vid-cdn.adhigh.net
 .securefastmall.com
-.sjsu.qualtrics.com
 .sl12.clicktale.net
 .sip.vertamedia.com
 .stat-c.maxthon.com
@@ -35828,12 +35688,10 @@
 .vaishalimotors.com
 .securejoinsite.com
 .vaishaligarden.com
-.tuck.qualtrics.com
 .secureldrtrack.com
 .secure-liverez.com
 .sl11.clicktale.net
 .sl10.clicktale.net
-.uwex.qualtrics.com
 .wirausahaundip.com
 .us-pl-d.vizury.com
 .wipeoutsystems.net
@@ -35932,7 +35790,6 @@
 .vnnimg.clsj365.com
 .usa.quebec-bin.com
 .vns-88nsv-fafa.top
-.sshs.qualtrics.com
 .tw-tags.vizury.com
 .txads.buzzcity.com
 .webwatcherdata.com
@@ -35999,7 +35856,6 @@
 .vrtcal-d.openx.net
 .srnartevent-lb.com
 .uqmkkfaoqnnmlx.com
-.uark.qualtrics.com
 .vs.blackplanet.com
 .uat.icubeswire.com
 .uqihbnpqtwwzdv.com
@@ -36014,14 +35870,11 @@
 .upsight.adsrvr.org
 .squareup-admin.com
 .squaresupportn.net
-.soma.qualtrics.com
 .vtmkgqcvzvlsdt.com
 .showcase.vemba.com
 .webdev.marketo.com
 .serve.5visions.com
 .web-counter.5u.com
-.vuau.qualtrics.com
-.ucla.qualtrics.com
 .webclick.yeshj.com
 .serviowa.sytes.net
 .sombersquirrel.com
@@ -36059,7 +35912,6 @@
 .ugwkyqdbmpwbbi.com
 .updatelimiteds.com
 .shopcom.btttag.com
-.sony.qualtrics.com
 .uhhvhjqowpgopq.xyz
 .uhpdodqzxewhcv.com
 .wclpvyexgrmart.com
@@ -36081,7 +35933,6 @@
 .uiqefowmmxciwe.com
 .wazimo-d.openx.net
 .uisrihozphejjt.com
-.uiuc.qualtrics.com
 .sorchawilliams.com
 .uj5nj.onanwhit.com
 .ujjotriglqpkjh.com
@@ -36157,10 +36008,8 @@
 .seucredifinaci.com
 .serviciomipago.com
 .serviciopaypal.com
-.umsl.qualtrics.com
 .servicoconsole.com
 .servicosbresco.com
-.uncg.qualtrics.com
 .unblocktheship.org
 .serving.plexop.net
 .ajcclassifieds.com
@@ -36412,7 +36261,6 @@
 .u4396.79.spylog.com
 .u4443.84.spylog.com
 .www13.clicktale.net
-.scuau.qualtrics.com
 .u4556.11.spylog.com
 .u5234.87.spylog.com
 .u5234.98.spylog.com
@@ -36480,7 +36328,6 @@
 .scrooge.click10.com
 .secure.juicyads.com
 .track.tapgerine.net
-.wmsas.qualtrics.com
 .scritp.crazyegg.com
 .wmr1f.voluumtrk.com
 .www2.clustrmaps.com
@@ -36520,9 +36367,7 @@
 .wkfaj.voluumtrk.com
 .webappsverified.com
 .safehandlersurf.com
-.uconn.qualtrics.com
 .statsv3.gaycash.com
-.ucsas.qualtrics.com
 .www2.sellhealth.com
 .webadvertise123.com
 .track.mybloglog.com
@@ -36568,7 +36413,6 @@
 .securemail-bbva.com
 .trk.kissmetrics.com
 .winter.metacafe.com
-.tlpdc.qualtrics.com
 .sac-atendimento.com
 .server.aadcomed.com
 .springaftermath.com
@@ -36619,7 +36463,6 @@
 .winafreeiphone5.net
 .uinvg.voluumtrk.com
 .s3-fast.addthis.com
-.uiowa.qualtrics.com
 .titanfallhacked.com
 .uipglob.semasio.net
 .track.mdirector.com
@@ -36629,7 +36472,6 @@
 .track.mailvalue.net
 .track.linkmails.net
 .track.lfstmedia.com
-.wiley.qualtrics.com
 .steamcommunlcty.com
 .wauncvddanpqslh.com
 .track.justcloud.com
@@ -36730,7 +36572,6 @@
 .wallet-ethereum.org
 .wallet-ethereum.net
 .ts.us.p.xpanama.net
-.umass.qualtrics.com
 .wallet-ethereum.com
 .s11.flagcounter.com
 .wallet.brominer.com
@@ -36739,7 +36580,6 @@
 .s10.flagcounter.com
 .walgrns.112.2o7.net
 .services.xg4ken.com
-.umich.qualtrics.com
 .static3.lucky88.com
 .thoughttogether.net
 .wakanfoundation.com
@@ -36788,7 +36628,6 @@
 .systemalertmac1.xyz
 .responsive-test.net
 .vlog.leadformix.com
-.zynga.qualtrics.com
 .vkspcdn.batmobi.net
 .thewritersniche.com
 .unblog.unbounce.com
@@ -36820,7 +36659,6 @@
 .syndicate.purch.com
 .teiwj.voluumtrk.com
 .zzovq.voluumtrk.com
-.vault.qualtrics.com
 .s.targetserving.com
 .vault.g.bouncex.com
 .vatsana-d.openx.net
@@ -36834,7 +36672,6 @@
 .silkenwindhound.com
 .us-clk.adiquity.com
 .success.marketo.com
-.sfasu.qualtrics.com
 .s.skimresources.com
 .vivad.at.atwola.com
 .tecoassociation.org
@@ -37034,7 +36871,6 @@
 .rnyetlherwallet.com
 .tbtrack.zutrack.com
 .ru.theswiftones.com
-.uohio.qualtrics.com
 .videoburner2015.com
 .supportfacebook.xyz
 .snagajob.demdex.net
@@ -37096,7 +36932,6 @@
 .shopping.coccoc.com
 .smilingfaceband.com
 .ziraatislemleri.net
-.upenn.qualtrics.com
 .thaiticketmajor.com
 .rk.revolvermaps.com
 .thaigolfbooking.com
@@ -37128,7 +36963,6 @@
 .uploads.adbucks.com
 .tally-education.com
 .you.tubetitties.com
-.vuass.qualtrics.com
 .showdevelopment.com
 .tfbi5.voluumtrk.com
 .stubhub.122.2o7.net
@@ -37145,7 +36979,6 @@
 .riotpointscodes.net
 .ringtonematcher.com
 .znj35.voluumtrk.com
-.smeal.qualtrics.com
 .vslider.admedia.com
 .v3.toolbar.soso.com
 .yourcamera4free.com
@@ -37161,17 +36994,14 @@
 .v7pjo.voluumtrk.com
 .vse37.voluumtrk.com
 .vs-api.wshareit.com
-.ricoh.qualtrics.com
 .yourfreenetbook.com
 .v9ds9.voluumtrk.com
-.uq360.qualtrics.com
 .v9ybc.voluumtrk.com
 .vflto.voluumtrk.com
 .uq6u3.voluumtrk.com
 .testrtg.solocpm.com
 .survicetwoweeks.net
 .richersonfamily.com
-.uqbel.qualtrics.com
 .vfdeprod.amobee.com
 .tagserverv3.inq.com
 .skullandprophet.com
@@ -37229,9 +37059,7 @@
 .sidhiconsulting.com
 .uruam.voluumtrk.com
 .siemens.112.2o7.net
-.terry.qualtrics.com
 .taboola-d.openx.net
-.siena.qualtrics.com
 .verifiedaccess0.com
 .us.ad.lgsmartad.com
 .tableau.marketo.com
@@ -37299,7 +37127,6 @@
 .subehalkbank-tr.com
 .sube-halkbanlki.com
 .vast.quantserve.com
-.socsi.qualtrics.com
 .socmedfollowers.com
 .szybka-pozyczka.com
 .zxr2k.voluumtrk.com
@@ -37334,7 +37161,6 @@
 .whe.medai-gruop.com
 .segment.hotstar.com
 .tpjz.tmuurnthtf.xyz
-.tufts.qualtrics.com
 .tueresmasclinic.com
 .savasdenizcilik.com
 .tpono.voluumtrk.com
@@ -37415,7 +37241,6 @@
 .ofiraplicativos.com
 .pranayogastudio.com
 .pages.kameleoon.com
-.pages.qualtrics.com
 .office-login365.com
 .officedocuments.net
 .paidonlinesites.com
@@ -37597,7 +37422,6 @@
 .p198531.clksite.com
 .p197307.clksite.com
 .p196823.clksite.com
-.poll1.qualtrics.com
 .p194737.clksite.com
 .rapidgameshacks.com
 .polietilentorba.com
@@ -37632,7 +37456,6 @@
 .prkhg.voluumtrk.com
 .pokemonxetyroms.com
 .paypal-exchange.com
-.nyumc.qualtrics.com
 .paypaltetewewew.com
 .paypal-updateco.com
 .qemmoxewstullmu.com
@@ -37736,7 +37559,6 @@
 .pump.msas.media.net
 .ns2.advertising.com
 .nusk021.112.2o7.net
-.q.ca1.qualtrics.com
 .oyhqc.voluumtrk.com
 .playdownstation.net
 .playdownstation.com
@@ -37756,7 +37578,6 @@
 .pull-3045.kxcdn.com
 .pl.centrumofert.com
 .reklam.memurlar.net
-.pucrs.qualtrics.com
 .ox-d.rantsports.com
 .ox-d.popmatters.com
 .pcfullgamesfree.com
@@ -37790,7 +37611,6 @@
 .pzmrk.voluumtrk.com
 .relay3.mobvista.com
 .pks.a.mobimagic.com
-.ouhsc.qualtrics.com
 .p183831.clksite.com
 .pmqse.voluumtrk.com
 .promisingnews24.com
@@ -38034,10 +37854,8 @@
 .newsite.yieldmo.com
 .mamsy.go2affise.com
 .nncyz.voluumtrk.com
-.loans.qualtrics.com
 .netserriesvideo.com
 .marlinaquarindo.com
-.malta.qualtrics.com
 .marriott.btttag.com
 .marryinamansion.com
 .na-ab14.marketo.com
@@ -38289,7 +38107,6 @@
 .janellerealtors.com
 .jantamanagement.com
 .netflixaccounts.com
-.leeds.qualtrics.com
 .jaqny.voluumtrk.com
 .jasdeepbuildcon.com
 .leakedsnapchats.net
@@ -38450,11 +38267,9 @@
 .mps-ws.adtechus.com
 .kwzws.voluumtrk.com
 .mq7jf.voluumtrk.com
-.mqedu.qualtrics.com
 .mr.media-bucket.com
 .msapi.appsflyer.com
 .kundendienst.de.com
-.msloc.qualtrics.com
 .napi.lanistaads.com
 .msn.serving-sys.com
 .nanaimo-info.in.net
@@ -38565,7 +38380,6 @@
 .checkroutineowa.org
 .engine.adsupply.com
 .i3pw2.voluumtrk.com
-.drake.qualtrics.com
 .christiannice12.com
 .generationgirls.com
 .dotster.112.2o7.net
@@ -38721,7 +38535,6 @@
 .fj-construction.com
 .free-steam-code.com
 .free-steamgames.com
-.hwdsb.qualtrics.com
 .hkng001.batmobi.net
 .iniua.voluumtrk.com
 .deals.bullguard.com
@@ -38747,7 +38560,6 @@
 .com-storesiclod.com
 .dsp.adtelligent.com
 .dashboard.fyber.com
-.doane.qualtrics.com
 .ic2yb.voluumtrk.com
 .ingest.unbounce.com
 .hd.lanhai365.net.cn
@@ -38789,7 +38601,6 @@
 .dsr2u.voluumtrk.com
 .cloreautomotive.com
 .freexblgoldcode.com
-.emory.qualtrics.com
 .cloed.go2affise.com
 .gd3.doubleclick.net
 .debtbusterloans.com
@@ -39009,7 +38820,6 @@
 .haynet.adbureau.net
 .count.qiqipower.com
 .ffbqk.voluumtrk.com
-.huron.qualtrics.com
 .info.localytics.com
 .elk.stickyadstv.com
 .ff81k.voluumtrk.com
@@ -39221,7 +39031,6 @@
 .ebayadvertising.com
 .htapi.coofinder.com
 .cozjj.voluumtrk.com
-.citi1.qualtrics.com
 .fastleakedmedia.com
 .ebaydeb-d.openx.net
 .fasthealthycare.com
@@ -39376,26 +39185,22 @@
 .fast.ecs.demdex.net
 .fast.dsg.demdex.net
 .goodmoneywealth.com
-.csulb.qualtrics.com
 .hackteam-adreon.com
 .hacktelecharger.net
 .incoming.hotjar.com
 .chasebanklogon5.xyz
 .csud.contextweb.com
 .click.adstailor.com
-.csuci.qualtrics.com
 .click.adpremium.org
 .fast.cox.demdex.net
 .cstest.adtechus.com
 .creative.nscash.com
 .creative.sonobi.com
-.ieseg.qualtrics.com
 .ecto-stg.flurry.com
 .hack-top-eleven.com
 .ehg-apcc.hitbox.com
 .csshtlak.mmtcdn.com
 .cleverlearncebu.com
-.ecuau.qualtrics.com
 .e-currencyhacks.com
 .f3qxb.voluumtrk.com
 .hack-und-cheats.net
@@ -39543,7 +39348,6 @@
 .myb.statcounter.com
 .myarsenalsupply.com
 .kaq5y.voluumtrk.com
-.mylmu.qualtrics.com
 .mylolriotpoints.com
 .kasihfoundation.org
 .myap.liveperson.com
@@ -39562,7 +39366,6 @@
 .mxh8w.voluumtrk.com
 .mx1.casalemedia.com
 .js.selectornews.com
-.kclbs.qualtrics.com
 .myoffertracking.com
 .kddfv.voluumtrk.com
 .mwsxc.voluumtrk.com
@@ -39706,7 +39509,6 @@
 .fpo.petametrics.com
 .cnxef.voluumtrk.com
 .ensign.unbounce.com
-.fppvu.qualtrics.com
 .freehacks4games.com
 .healthcarestock.net
 .img.lavanetwork.net
@@ -39902,7 +39704,6 @@
 .c42.statcounter.com
 .c43.statcounter.com
 .carehomecalicut.org
-.carey.qualtrics.com
 .akbankwebsubesi.com
 .ameliservc-remb.com
 .c44.statcounter.com
@@ -39910,7 +39711,6 @@
 .ak-pdn.applovin.com
 .c23.statcounter.com
 .c0act425.caspio.com
-.akron.qualtrics.com
 .akrpublicschool.com
 .a1.greenadworks.net
 .1rcu4.voluumtrk.com
@@ -40427,7 +40227,6 @@
 .bluescreenalert.com
 .ads.pilotonline.com
 .ads.phillyburbs.com
-.blueq.qualtrics.com
 .cdn.idtargeting.com
 .approval.reporo.net
 .apps.ad.snappea.com
@@ -41109,7 +40908,6 @@
 .babgod.hostmecom.com
 .a151.casalemedia.com
 .a698.casalemedia.com
-.atrial.qualtrics.com
 .blportal.rapidns.com
 .apps2.ctnetpass2.com
 .apps.shareaholic.com
@@ -41191,7 +40989,6 @@
 .ambus2.clicktale.net
 .aff.gittigidiyor.com
 .ambus1.clicktale.net
-.bm.co1.qualtrics.com
 .a692.casalemedia.com
 .applog.camera360.com
 .a691.casalemedia.com
@@ -41681,7 +41478,6 @@
 .a226.casalemedia.com
 .a058.casalemedia.com
 .a061.casalemedia.com
-.baruch.qualtrics.com
 .a060.casalemedia.com
 .a059.casalemedia.com
 .ads9.stickyadstv.com
@@ -41715,7 +41511,6 @@
 .warcommanderhack.com
 .sfb-rtb.applovin.com
 .warunkmp3.aoredi.com
-.yaleas.qualtrics.com
 .yalovacimenemlak.com
 .service.cmp.oath.com
 .s.newsportalssl1.top
@@ -41779,7 +41574,6 @@
 .web4.realtracker.com
 .yhelper.188jinbi.com
 .shivafurnishings.com
-.rug.eu.qualtrics.com
 .serve.mytimesnow.com
 .serve.freegaypix.com
 .yieldmedia.adk2x.com
@@ -41887,7 +41681,6 @@
 .sandbox.auditude.com
 .sandbox.exelator.com
 .sandbox.outbrain.com
-.wested.qualtrics.com
 .westerntaneyfire.com
 .wetpaint-d.openx.net
 .sanprahealthcare.com
@@ -41951,7 +41744,6 @@
 .sites.chartboost.com
 .wildcard.moatads.com
 .simplifylifetime.com
-.seewhy.qualtrics.com
 .www81.valueclick.com
 .zb.zeroredirect1.com
 .www19.superembed.com
@@ -41968,7 +41760,6 @@
 .secure.adwebster.com
 .viewssheetssxxxc.com
 .rimghtlak.mmtcdn.com
-.rotary.qualtrics.com
 .schwab.tt.omtrdc.net
 .zocor.about-tabs.com
 .sciamcom.112.2o7.net
@@ -41985,7 +41776,6 @@
 .ridikuluskouture.com
 .videointerattivi.net
 .zontent.powvideo.net
-.rotman.qualtrics.com
 .secretosarevelar.com
 .rootscaen.btttag.com
 .z2c.la.mediaplex.com
@@ -42018,7 +41808,6 @@
 .www1.pip-pip-pop.com
 .vertoz.go2affise.com
 .zf.zeroredirect1.com
-.winona.qualtrics.com
 .video.rec.duapps.com
 .vietravel.ezimar.com
 .wwz.wffengtai.com.cn
@@ -42033,7 +41822,6 @@
 .scream.garudamp3.com
 .verizon-test.inq.com
 .www1.bannerspace.com
-.zg.co1.qualtrics.com
 .worldoftankcheat.com
 .winsueenterprise.com
 .rmx-match.dotomi.com
@@ -42082,7 +41870,6 @@
 .zd.zeroredirect2.com
 .widget.eu.criteo.com
 .script.tailsweep.com
-.wvuhre.qualtrics.com
 .zu1.november-lax.com
 .zhu.bunchcousins.com
 .savings-specials.com
@@ -42108,10 +41895,8 @@
 .vibgyorartschool.com
 .wrestlingexposed.com
 .scripts.crazyegg.com
-.sdsuuw.qualtrics.com
 .vid-f8-de.adhigh.net
 .viaspike.112.2o7.net
-.wright.qualtrics.com
 .rollhands.adroll.com
 .secure-eplatnosc.com
 .site.falconbucks.com
@@ -42286,7 +42071,6 @@
 .stx11.sextracker.com
 .stats.sextracker.com
 .status.adsnative.com
-.us.co1.qualtrics.com
 .static2.outbrain.com
 .test.lavanetwork.net
 .track.anchorfree.com
@@ -42311,7 +42095,6 @@
 .stun.spamanalyst.com
 .trafficultimatum.com
 .thomasgrimesdemo.com
-.utexas.qualtrics.com
 .tex-sync.rockyou.net
 .trafficmonetizer.org
 .textad.sexsearch.com
@@ -42377,13 +42160,11 @@
 .social-traffic-2.xyz
 .survey.webengage.com
 .takeprofitsystem.com
-.survey.qualtrics.com
 .streetartkustoms.com
 .traf.street-info.com
 .tradesignempresa.com
 .tgp.pornsponsors.com
 .usbank.tt.omtrdc.net
-.umc360.qualtrics.com
 .toryburch.btttag.com
 .tmslexus.112.2o7.net
 .tmsscion.112.2o7.net
@@ -42455,7 +42236,6 @@
 .a395.casalemedia.com
 .carrozzeriamurat.com
 .a396.casalemedia.com
-.bersin.qualtrics.com
 .ad3.depositfiles.com
 .0daygameparadise.com
 .banners.askmecca.com
@@ -42474,7 +42254,6 @@
 .a188.casalemedia.com
 .a400.casalemedia.com
 .bw.bidder.inmobi.com
-.auburn.qualtrics.com
 .ad.gameagregator.com
 .ad2one-n-d.openx.net
 .a401.casalemedia.com
@@ -42569,7 +42348,6 @@
 .anticheaters-sxe.com
 .adserver.theknot.com
 .ads.granadamedia.com
-.casosu.qualtrics.com
 .a777.casalemedia.com
 .adimg.theinsider.com
 .antiqueancestors.com
@@ -42591,7 +42369,6 @@
 .a420.casalemedia.com
 .a789.casalemedia.com
 .a790.casalemedia.com
-.anz360.qualtrics.com
 .ads.gercekgundem.com
 .av.touchcommerce.com
 .audiogon-d.openx.net
@@ -42748,7 +42525,6 @@
 .despicablemehack.com
 .e-halkbank-80yil.com
 .eharmony.112.2o7.net
-.design.qualtrics.com
 .desertsportswear.com
 .descontao-do-ano.com
 .hsbc.personal-gb.org
@@ -42756,7 +42532,6 @@
 .ehg-bskyb.hitbox.com
 .hsbcholdingplcuk.com
 .ehg-crain.hitbox.com
-.depaul.qualtrics.com
 .ehg-ifilm.hitbox.com
 .hst.tradedoubler.com
 .ehg-intel.hitbox.com
@@ -42804,7 +42579,6 @@
 .embed.sendtonews.com
 .emea.doubleclick.net
 .deelymedia.adk2x.com
-.dedman.qualtrics.com
 .emerginguniverse.com
 .decentsourcingbd.com
 .emmanuvalthekkan.com
@@ -43114,7 +42888,6 @@
 .cr-mufg--jp-card.top
 .cr-mufg-card--jp.xyz
 .cr-mufg-card--jp.top
-.ie.co1.qualtrics.com
 .crispadvertising.com
 .fast.aaas.demdex.net
 .fast.aarp.demdex.net
@@ -43184,7 +42957,6 @@
 .ifcp3.sg1.inmobi.com
 .coxnet.hb.omtrdc.net
 .cox-match.dotomi.com
-.coxinc.qualtrics.com
 .faunus.go2affise.com
 .covingtonvending.com
 .hack-fb-password.com
@@ -43458,7 +43230,6 @@
 .app-ab24.marketo.com
 .app-ab23.marketo.com
 .app-ab22.marketo.com
-.b1-prv.qualtrics.com
 .a596.casalemedia.com
 .app-ab21.marketo.com
 .ad.sin2.auditude.com
@@ -43689,7 +43460,6 @@
 .ads20.vertamedia.com
 .as01.casalemedia.com
 .bingoblitzcheats.com
-.bre.eu.qualtrics.com
 .a526.casalemedia.com
 .api.treasuredata.com
 .a525.casalemedia.com
@@ -43781,7 +43551,6 @@
 .ads4.udc.advance.net
 .a501.casalemedia.com
 .beethoventshirts.com
-.baylor.qualtrics.com
 .browsergames2018.com
 .142376-hb.adomik.com
 .browsergames2019.com
@@ -43800,7 +43569,6 @@
 .addmefastfreebot.com
 .a494.casalemedia.com
 .api.iperceptions.com
-.bryant.qualtrics.com
 .ccc01.opinionlab.com
 .ads5.adtelligent.com
 .a493.casalemedia.com
@@ -43880,7 +43648,6 @@
 .ads8.stickyadstv.com
 .ads8.udc.advance.net
 .a478.casalemedia.com
-.bts360.qualtrics.com
 .a837.casalemedia.com
 .bttportal.btttag.com
 .api.browser.miui.com
@@ -43963,7 +43730,6 @@
 .adserv2.bravenet.com
 .adfiles.auditude.com
 .ads.eagletribune.com
-.bethel.qualtrics.com
 .adserve.datawrkz.com
 .betterhg.112.2o7.net
 .a459.casalemedia.com
@@ -43978,7 +43744,6 @@
 .tqglobalservices.com
 .stream.movichart.com
 .g4.us.intellitxt.com
-.umiami.qualtrics.com
 .o1.alerts.flurry.com
 .landing.trafficz.com
 .ph-ad02.focalink.com
@@ -44047,30 +43812,24 @@
 .ourtime.adlegend.com
 .media9.fastclick.net
 .media9.popmarker.com
-.lse.eu.qualtrics.com
 .kuyuacgsiowawsqa.org
 .lrzxk.voluumtrk2.com
 .qc.smartadserver.com
 .kursusarabdipare.com
 .mrwashingmachine.com
 .pp-serve.newsinc.com
-.msc.eu.qualtrics.com
 .pq-direct.revsci.net
-.kuclas.qualtrics.com
 .msfreightsystems.com
 .qc-static.coccoc.com
 .mshelp247.weebly.com
 .lost-appledevice.com
-.ku.us2.qualtrics.com
 .losingthisweight.com
 .other.xxxcounter.com
 .looppay.adlegend.com
 .msna1com.112.2o7.net
-.ku.co1.qualtrics.com
 .lookingpersonals.top
 .predictivesearch.com
 .preferredpension.com
-.kstate.qualtrics.com
 .kssm.kuaipandata.com
 .preitem.wshareit.com
 .ks.skimresources.com
@@ -44159,7 +43918,6 @@
 .proceedcollected.com
 .locateyouricloud.com
 .localmediabuying.com
-.mercer.qualtrics.com
 .mercury.bravenet.com
 .productioncheats.com
 .patrickdimichele.com
@@ -44182,7 +43940,6 @@
 .projects.marketo.com
 .oreo.iawsnetwork.com
 .metric.thenation.com
-.oregon.qualtrics.com
 .partner.sitemaji.com
 .llletfipicprkvmp.xyz
 .llaveroelectoral.com
@@ -44273,7 +44030,6 @@
 .openx.camelmedia.net
 .open-ticket-ppal.net
 .pl3861661.puhtml.com
-.qtrial.qualtrics.com
 .kampanya-spotify.com
 .millermadebrands.com
 .pl3980.puserving.com
@@ -44452,14 +44208,12 @@
 .jl29jd25sm24mc29.com
 .no1.unternehemen.com
 .odkrywamyzakryte.com
-.rbi.eu.qualtrics.com
 .j.qianliexiancha.com
 .jsc.madisonlogic.com
 .oascentral.sciam.com
 .jdpower.t.domdex.com
 .officialgiveaway.net
 .ok.uk.intellitxt.com
-.nahbrc.qualtrics.com
 .js883.guangzizai.com
 .j6hek.voluumtrk3.com
 .myltherwallet.ru.com
@@ -44492,7 +44246,6 @@
 .johansenelectric.com
 .involved-d.openx.net
 .naratipsittisook.com
-.ramapo.qualtrics.com
 .narayaniinterior.com
 .js.mobojoy.baidu.com
 .narbhaveecareers.com
@@ -44602,7 +44355,6 @@
 .o.staging.criteo.com
 .iunlockiphone5hq.com
 .iuefgauiaiduihgs.com
-.iu.co1.qualtrics.com
 .nk.brandreachsys.com
 .nzz.d3.sc.omtrdc.net
 .redroselandscape.com
@@ -44623,7 +44375,6 @@
 .ny-only.outbrain.com
 .nitrous.exitfuel.com
 .referral-secrets.com
-.ithaca.qualtrics.com
 .nyeihitervvallet.com
 .nyeihitervvallat.com
 .nydc1vr.outbrain.com
@@ -44666,7 +44417,6 @@
 .isgame.ds.duapps.com
 .newupdatenow2018.com
 .rekket.go2affise.com
-.nuskin.qualtrics.com
 .nextlevelfinance.com
 .reklam.yonlendir.com
 .nexus2.ensighten.com
@@ -44675,14 +44425,12 @@
 .isbankasiturkiye.com
 .ir-ing.clicktale.net
 .relay-ba.toboads.com
-.nhh.eu.qualtrics.com
 .relay-bg.toboads.com
 .relay-si.toboads.com
 .nht-2.extreme-dm.com
 .nht-3.extreme-dm.com
 .nicheadgenerator.com
 .nickysalonealing.com
-.ntuhss.qualtrics.com
 .iracingicoaching.com
 .reloadedcracking.com
 .nikehome.112.2o7.net
@@ -44780,7 +44528,6 @@
 .freepsncodeshere.com
 .gmhummer.112.2o7.net
 .globalautoliners.com
-.gatech.qualtrics.com
 .go.redirectingat.com
 .clicks.adultplex.com
 .impsnare.iesnare.com
@@ -44990,7 +44737,6 @@
 .gbjfc.rsvpgenius.com
 .gcirm.dmregister.com
 .clashofclanshack.com
-.citrix.qualtrics.com
 .go.mobstitialtag.com
 .googleplay-store.com
 .generator4points.com
@@ -45068,7 +44814,6 @@
 .dragonvalecheats.net
 .dreambigprintbig.com
 .doppler-roulette.com
-.drexel.qualtrics.com
 .drop.polarmobile.com
 .domniespodzianek.com
 .honorroll.adroll.com
@@ -45089,7 +44834,6 @@
 .dspportal.smaato.net
 .dsqa2.contextweb.com
 .dsum.casalemedia.com
-.hkbuhk.qualtrics.com
 .hortensjazfu.ovh.org
 .dn58.kissmetrics.com
 .dn25.kissmetrics.com
@@ -45116,7 +44860,6 @@
 .dn01.casalemedia.com
 .dn.c.richmetrics.com
 .ducotravelsummit.com
-.dmupsy.qualtrics.com
 .hj7r7w.yeshoutuan.cn
 .dm.hugolescargot.com
 .dlrporyftslyozte.com
@@ -45184,7 +44927,6 @@
 .hipmunk.adlegend.com
 .howtogetxboxlive.com
 .howtohacktwitter.com
-.eccles.qualtrics.com
 .dicolol.ledicodi.com
 .ecdn.liveclicker.net
 .dibgnaqhbdaqpwid.com
@@ -45261,7 +45003,6 @@
 .media.icubeswire.com
 .media.contextweb.com
 .media.baventures.com
-.monash.qualtrics.com
 .p.avazunativeads.com
 .porn-review-site.com
 .media.adxpansion.com
@@ -45316,7 +45057,6 @@
 .maven.localytics.com
 .matthewstruthers.com
 .poollivetourhack.net
-.purdue.qualtrics.com
 .magicmembershelp.com
 .magicranktracker.com
 .mng1.clickalyzer.com
@@ -45413,7 +45153,6 @@
 .pl.bustcream-pro.com
 .marileephotoblog.com
 .marikita.mengewe.com
-.marian.qualtrics.com
 .theviraltechblog.com
 .stats.coronalabs.com
 .uttermosthobbies.com
@@ -45443,10 +45182,8 @@
 .status.permutive.com
 .update.pan.baidu.com
 .upc.d2.sc.omtrdc.net
-.trentu.qualtrics.com
 .snagajob.122.2o7.net
 .static.adsnative.com
-.uvafeb.qualtrics.com
 .soma-apac.smaato.net
 .subscribefree-fr.com
 .sonyps3jailbreak.com
@@ -45459,9 +45196,7 @@
 .sonyscei.112.2o7.net
 .static.adfclick1.com
 .uob.d1.sc.omtrdc.net
-.unthsc.qualtrics.com
 .soudagarminerals.com
-.untedu.qualtrics.com
 .stats2.newyorker.com
 .success.unbounce.com
 .usadmm-ds.dotomi.com
@@ -45487,12 +45222,10 @@
 .techasiamusicsvr.com
 .tracker.gtarcade.com
 .tracker.hitmatic.com
-.uwo.eu.qualtrics.com
 .static.4chan-ads.org
 .stats2.teenvogue.com
 .statebankrewardz.com
 .trk.burstmonster.com
-.unlcba.qualtrics.com
 .sports-bonuspath.com
 .topsurvey-offers.com
 .southernchampion.com
@@ -45560,7 +45293,6 @@
 .tracking.feedmob.com
 .toytyaclucomunit.top
 .start.sextracker.com
-.stjude.qualtrics.com
 .toolbar.adperium.com
 .urmileshsaumitra.com
 .smi2net.dev.smi2.net
@@ -45664,10 +45396,8 @@
 .thechive-d.openx.net
 .support-softbank.com
 .tpmedia-reactads.com
-.ucbedu.qualtrics.com
 .torosindomandiri.com
 .statistics.11880.com
-.tulane.qualtrics.com
 .ubisoftca.demdex.net
 .tpreiasanantonio.net
 .theblackshothack.com
@@ -45676,7 +45406,6 @@
 .turkogluelektrik.com
 .theblackops2hack.com
 .sola-interactive.com
-.ub.co1.qualtrics.com
 .triumphchinhhang.net
 .ussearch.122.2o7.net
 .soldadorasmiller.com
@@ -45756,22 +45485,18 @@
 .vast-f5-de.adhigh.net
 .webmaster-traffic.com
 .vast-f6-de.adhigh.net
-.sri.co1.qualtrics.com
 .sellmeyourtraffic.com
 .vast-f7-de.adhigh.net
 .westjet.hb.omtrdc.net
 .vast-f8-de.adhigh.net
 .srisaimahilatrust.org
 .vast-f9-de.adhigh.net
-.uah.co1.qualtrics.com
 .results.deployads.com
 .ssp.api.ad.xiaomi.com
 .ssp.anyclip-media.com
 .tvonline.jozmovie.xyz
 .werbung.mediaplex.com
 .reunion.tt.omtrdc.net
-.uab.co1.qualtrics.com
-.uaa.co1.qualtrics.com
 .tvthsvxbbbfwcyldo.com
 .sen02.younetmedia.com
 .t.macadlinkingnow.com
@@ -45803,7 +45528,6 @@
 .revivalcollective.com
 .sense.dailymotion.com
 .svlns2-ext1.fwmrm.net
-.webroot.qualtrics.com
 .svlns1-ext2.fwmrm.net
 .webroot.tt.omtrdc.net
 .revotrack.revotas.com
@@ -45821,7 +45545,6 @@
 .welcome.pussysaga.com
 .vcommerce.112.2o7.net
 .tactical-supplies.com
-.svb.co1.qualtrics.com
 .welcome.faptitans.com
 .senshukai.122.2o7.net
 .tw-gmtdmp.mookie1.com
@@ -45842,7 +45565,6 @@
 .tag-st.contextweb.com
 .september.cityads.com
 .sshowads.pubmatic.com
-.surveys.qualtrics.com
 .rickfernandezblog.com
 .surveyremovertool.com
 .surveyremover2013.com
@@ -45863,7 +45585,6 @@
 .txsnb001.exelator.com
 .webtrekk.mediaset.net
 .ssaintander-serv1.com
-.txstate.qualtrics.com
 .talented23-writer.xyz
 .talented53-writer.xyz
 .talented68-writer.xyz
@@ -45884,7 +45605,6 @@
 .tampaiphonerepair.com
 .tan.pridnestrovie.com
 .zj1.zeroredirect1.com
-.slu.az1.qualtrics.com
 .ziraattekampanya1.com
 .ziraatdefirsatlar.com
 .verdaedevelopment.com
@@ -45947,7 +45667,6 @@
 .tcoxndk.hfgjdcbrv.xyz
 .v8.news-subscribe.com
 .ze1.zeroredirect1.com
-.tcu.co1.qualtrics.com
 .vgm.actonsoftware.com
 .robot.royalcactus.com
 .rochfashionstudio.com
@@ -45995,7 +45714,6 @@
 .smtp3.younetmedia.com
 .vice-ads-cdn.vice.com
 .rotabetaffiliates.com
-.uwstout.qualtrics.com
 .rotatix.go2affise.com
 .rotator.adjuggler.com
 .smtp4.younetmedia.com
@@ -46022,16 +45740,12 @@
 .smtrack.go2affise.com
 .video.adtelligent.com
 .video.advertising.com
-.uwf.co1.qualtrics.com
-.success.qualtrics.com
 .success.ensighten.com
 .video.lavanetwork.net
-.smu.az1.qualtrics.com
 .telecreditoviabcp.com
 .sjrtp-cdn.marketo.com
 .telemetrytaxonomy.net
 .video.unrulymedia.com
-.telerik.qualtrics.com
 .telusmobility.inq.com
 .temp12.rtb.appier.net
 .video2.vertamedia.com
@@ -46041,7 +45755,6 @@
 .template-download.top
 .templates.marketo.com
 .templates.marketo.net
-.uttyler.qualtrics.com
 .r-sec.casalemedia.com
 .ten-auto.t.domdex.com
 .tenniscostadelsol.com
@@ -46058,7 +45771,6 @@
 .your-tornado-file.org
 .your-tornado-file.com
 .videosalesfactory.com
-.utk.co1.qualtrics.com
 .videosevangelicos.com
 .s-new.tradingview.com
 .test.directprimal.com
@@ -46072,16 +45784,13 @@
 .rtax.sv.us.criteo.com
 .youripodnano4free.com
 .texasforeverradio.com
-.utamsmr.qualtrics.com
 .rtb3.doubleverify.com
-.sni.co1.qualtrics.com
 .studiesmadesimple.com
 .tf2itemsgenerator.com
 .youcandoitwithroi.com
 .sts.touchcommerce.com
 .rtbdb05.tubemogul.com
 .rtbdb06.tubemogul.com
-.york.eu.qualtrics.com
 .rtbdemand-d.openx.net
 .yogadirect.btttag.com
 .vid-ft1-de.adhigh.net
@@ -46112,7 +45821,6 @@
 .streamamp-d.openx.net
 .rtg.instantmixcup.com
 .the3rtechnologies.com
-.usu.co1.qualtrics.com
 .us-track.adiquity.com
 .rtp-cloud.marketo.com
 .snrtp-cdn.marketo.com
@@ -46141,7 +45849,6 @@
 .storage.kameleoon.com
 .soccerloco.btttag.com
 .thelotterysecrets.net
-.rutgers.qualtrics.com
 .vinitalywholesale.com
 .yeni-halkbanksube.com
 .usimpdsp.mobvista.com
@@ -46201,13 +45908,11 @@
 .xyz.freeweblogger.com
 .thoughtfully-free.com
 .use.convertglobal.com
-.viterbo.qualtrics.com
 .throne.thehelpbiz.com
 .thump-night-stand.com
 .vivad.advertising.com
 .silveragesoftware.com
 .pleasantlychaotic.com
-.usckeck.qualtrics.com
 .tienthinhcalendar.com
 .s2.guanglijiudian.com
 .tijanconstruction.com
@@ -46240,7 +45945,6 @@
 .info.clickability.com
 .vnr-de.intellitxt.com
 .status.chartboost.com
-.sae.co1.qualtrics.com
 .safeadnetworkdata.net
 .safe-connection21.com
 .tmakinternational.com
@@ -46272,14 +45976,12 @@
 .tool.justshopping.xyz
 .xlncglasshardware.com
 .toolbarwizard.vmn.net
-.ssd.az1.qualtrics.com
 .tools.kissmetrics.com
 .us.info.lgsmartad.com
 .stats.searchsight.com
 .stats.redditmedia.com
 .samcmsec.ksmobile.com
 .sameducationtrust.com
-.samford.qualtrics.com
 .topelevenfreehack.com
 .softservebusiness.com
 .sigma1.rtb.appier.net
@@ -46295,16 +45997,13 @@
 .softwareupdaterlp.com
 .sicoobempresarial.com
 .sandbox3.auditude.com
-.uregina.qualtrics.com
 .xh.news-subscribe.com
 .torcidaimperdivel.com
 .stats.fastcompany.com
-.toronto.qualtrics.com
 .urbanityadnetwork.com
 .solacewarehousing.net
 .siads.sv.publicus.com
 .ur.news-subscribe.com
-.uqpsych.qualtrics.com
 .shutterfly.btttag.com
 .stats.dominoplaza.com
 .tour.xxxblackbook.com
@@ -46317,12 +46016,10 @@
 .stats.clicktracks.com
 .stats.buycostumes.com
 .show-sg8.c.appier.net
-.vsu.az1.qualtrics.com
 .sass.directprimal.com
 .show-sg7.c.appier.net
 .show-sg5.c.appier.net
 .sastechassociates.com
-.vte.co1.qualtrics.com
 .xc153.e1.luyouxia.net
 .stats.bannersnack.com
 .show-sg1.c.appier.net
@@ -46347,7 +46044,6 @@
 .x1.server.cpmstar.com
 .saymedia.t.domdex.com
 .staticdemo.criteo.com
-.vwslave.qualtrics.com
 .uphero.hackspress.net
 .tr.gingersoftware.com
 .upgreadedtservice.net
@@ -46400,7 +46096,6 @@
 .track.make-a-site.net
 .www7.addfreestats.com
 .track.mobi-haterz.com
-.upc.co1.qualtrics.com
 .sonychina.112.2o7.net
 .w.vip.hkg1.inmobi.com
 .www6.addfreestats.com
@@ -46417,7 +46112,6 @@
 .www30a2-orig.glam.com
 .shivamelectrochem.com
 .www30a1-orig.glam.com
-.unt.az1.qualtrics.com
 .unsgleipmumoraiie.xyz
 .soundfyles.eloyed.com
 .www3.addfreestats.com
@@ -46466,7 +46160,6 @@
 .www1.addfreestats.com
 .shalo.europeslist.com
 .tracker.kameleoon.com
-.unk.co1.qualtrics.com
 .tracker.mailvalue.net
 .tracker.marketsvc.net
 .southmemphis38126.org
@@ -46485,13 +46178,11 @@
 .tracking.adctrack.com
 .ww1.smartadserver.com
 .sdk.hr.amp.igexin.com
-.unisair.qualtrics.com
 .tracking.arxibs01.com
 .tracking.beginads.com
 .tracking.buyhatke.com
 .sovrn-merge.openx.net
 .sg.adserver.yahoo.com
-.wur.az1.qualtrics.com
 .sdk-ios.ad.smaato.net
 .sdklogs.avocarrot.com
 .sftp.clickability.com
@@ -46503,32 +46194,22 @@
 .sfo-goog.applovin.com
 .sfmc.urbanairship.com
 .sdscdn.userreport.com
-.wtc.co1.qualtrics.com
-.wtamuuw.qualtrics.com
-.uni.co1.qualtrics.com
 .spanids.reference.com
 .se.adserver.yahoo.com
 .wt1.brandreachsys.com
 .se.gcp.msas.media.net
-.unh.az1.qualtrics.com
-.wsu.co1.qualtrics.com
 .spanishfrompauley.com
 .sea2.directprimal.com
-.unf.co1.qualtrics.com
 .sparebank1.demdex.net
 .undertonenetworks.com
 .wsc1.webspectator.com
 .uncoached-d.openx.net
-.unco.us.qualtrics.com
 .tracking.rus.miui.com
 .settings.outbrain.com
-.unc.az1.qualtrics.com
 .tracking.times247.com
 .tracking.viewster.com
 .tracking.wisepops.com
-.una.co1.qualtrics.com
 .tracking2.hittail.com
-.umt.co1.qualtrics.com
 .tracksitetraffic1.com
 .ws032.ws.tidafors.xyz
 .ws031.ws.tidafors.xyz
@@ -46540,7 +46221,6 @@
 .ws026.ws.tidafors.xyz
 .ws025.ws.tidafors.xyz
 .ws024.ws.tidafors.xyz
-.umichsi.qualtrics.com
 .ws023.ws.tidafors.xyz
 .ws022.ws.tidafors.xyz
 .ws021.ws.tidafors.xyz
@@ -46552,11 +46232,9 @@
 .ws015.ws.tidafors.xyz
 .ws014.ws.tidafors.xyz
 .ws013.ws.tidafors.xyz
-.umflint.qualtrics.com
 .ws012.ws.tidafors.xyz
 .ws011.ws.tidafors.xyz
 .ws010.ws.tidafors.xyz
-.umd.az1.qualtrics.com
 .static.pubdirecte.com
 .trader.ssp.adacts.com
 .ws009.ws.tidafors.xyz
@@ -46591,13 +46269,11 @@
 .trafficz.t.domdex.com
 .serviceghj.weebly.com
 .wpte.j8inn1zektoe.com
-.ulfp.eu.qualtrics.com
 .searchremagnified.com
 .static.ifa.camads.net
 .wpconte.heliohost.org
 .service.maxymiser.net
 .wpad.fgppchg.fgpp.com
-.searshc.qualtrics.com
 .worldviewsproject.com
 .worldoftanks-mods.com
 .worldoftanksbonus.com
@@ -46629,7 +46305,6 @@
 .splash.appsgeyser.com
 .static.admaximize.com
 .splash.getadmiral.com
-.wku.co1.qualtrics.com
 .secureaud.solocpm.com
 .secure-cdn.atwola.com
 .securecenter-cas1.top
@@ -46639,7 +46314,6 @@
 .triboo01.webtrekk.net
 .triche-et-pirater.net
 .securedr.33across.com
-.trinity.qualtrics.com
 .wizard101giveaway.net
 .wizard101giveaway.com
 .wizard.triplelift.com
@@ -46652,7 +46326,6 @@
 .secure-intlpaypal.com
 .secure-js.kontera.com
 .wcrtb.adtelligent.com
-.wcu.az1.qualtrics.com
 .server.mobogarden.com
 .sportsinteraction.com
 .secure-msg.dotomi.com
@@ -46661,7 +46334,6 @@
 .secure-onerooftop.com
 .securepaypal-intl.com
 .trkexchange.adk2x.com
-.ufljour.qualtrics.com
 .winnipegdrugstore.com
 .winmpmain.112.2o7.net
 .sp-res.kosungames.com
@@ -46686,10 +46358,8 @@
 .spunkyhealthylife.com
 .serve.williamhill.com
 .seductiondatabase.com
-.udenver.qualtrics.com
 .spyglassresources.com
 .web2carz.t.domdex.com
-.ucsf.us.qualtrics.com
 .webads.bizservers.com
 .try-test.unbounce.com
 .wifelife.juicyads.com
@@ -46697,7 +46367,6 @@
 .starbuyrealestate.com
 .widgets.webengage.com
 .star.pulseonclick.com
-.uco.co1.qualtrics.com
 .serve.getpopunder.com
 .standrewsgolfclub.com
 .webbug.seatreport.com
@@ -46708,7 +46377,6 @@
 .widget.cloud.opta.net
 .ttb.lpcloudsvr302.com
 .whimsicalteaching.com
-.ucfrchm.qualtrics.com
 .stage.traffiliate.com
 .servads.fansshare.com
 .seekultimatestorm.com
@@ -46722,23 +46390,18 @@
 .ubiquitoushacking.com
 .whatisthebestecig.com
 .turbotax.adlegend.com
-.src.co1.qualtrics.com
 .webload101.hitbox.com
-.wharton.qualtrics.com
 .turnkey-solutions.net
 .orkneygourmetfood.com
 .kitaramarketplace.com
 .orourkestrategies.com
 .rack.d1.sc.omtrdc.net
-.msu.co1.qualtrics.com
 .kiwionlinesupport.com
 .oscar0.rtb.appier.net
 .oscar1.rtb.appier.net
-.radford.qualtrics.com
 .klimaservisbodrum.com
 .radio.stickyadstv.com
 .platform.33across.com
-.johnson.qualtrics.com
 .notify1.brucelead.com
 .oscar2.rtb.appier.net
 .oscar3.rtb.appier.net
@@ -46751,25 +46414,21 @@
 .oseiapeanicompany.com
 .johnlewis.112.2o7.net
 .kodyrabatowe.16mb.com
-.oshkosh.qualtrics.com
 .komunitaslovebird.com
 .osp.ru.intellitxt.com
 .ospf1.stickyadstv.com
 .oss.message.umeng.com
 .ojshge5pos.weebly.com
 .kr.news-subscribe.com
-.osu.az1.qualtrics.com
 .msnportal.112.2o7.net
 .msnmercom.112.2o7.net
 .msninvite.112.2o7.net
-.k-state.qualtrics.com
 .radioramamexicali.com
 .radioritmototalfm.com
 .msnads-wm9.fplive.net
 .otherossettlement.com
 .msgstore2.pldtprv.net
 .narjesmedia.adk2x.com
-.oit.co1.qualtrics.com
 .narlinyahaedolika.com
 .ottacknet.112.2o7.net
 .otterboxie.btttag.com
@@ -46812,7 +46471,6 @@
 .pl12258511.puhtml.com
 .ov.news-subscribe.com
 .og-images.segment.com
-.jmu.co1.qualtrics.com
 .overdrive-d.openx.net
 .qa.rubiconproject.com
 .motyw-fb.blogspot.com
@@ -46821,7 +46479,6 @@
 .motif.doubleclick.net
 .lamadamechicasvip.com
 .mormonorg.112.2o7.net
-.jmj.co1.qualtrics.com
 .lamaisondelaforet.net
 .pl11300103.puhtml.com
 .pz0.3dn.mse.sogou.com
@@ -46846,7 +46503,6 @@
 .nats4.fetishbucks.com
 .ox-d.zenoviagroup.com
 .ramkrishnashastri.com
-.jibs.eu.qualtrics.com
 .ox-i.zenoviagroup.com
 .naturalvidaonline.com
 .laptopmag.122.2o7.net
@@ -46879,10 +46535,7 @@
 .mobilhalksubem-tr.com
 .lawsuit-runescape.com
 .iosads22.adcolony.com
-.odu.co1.qualtrics.com
-.ncu.co1.qualtrics.com
 .push-tools-system.com
-.jfe-cdn.qualtrics.com
 .mobilemoneyafrica.com
 .nd1.gamecopyworld.com
 .jf.news-subscribe.com
@@ -46905,7 +46558,6 @@
 .mobile.brightroll.com
 .noticiasdelgenero.com
 .pl.slimg0ji-berry.com
-.ndstate.qualtrics.com
 .mobildenizhesabim.com
 .purplegrasscolour.xyz
 .mobi.3bancobrasil.com
@@ -46917,9 +46569,7 @@
 .mngiyrkdr.112.2o7.net
 .mngiyhnat.112.2o7.net
 .purchasing.act-on.com
-.nea.co1.qualtrics.com
 .purchasepillsnorx.com
-.nrc.co1.qualtrics.com
 .neccorp.sc.omtrdc.net
 .neccorp.tt.omtrdc.net
 .marcellajacquette.com
@@ -46934,7 +46584,6 @@
 .pulsedm-ap.amobee.com
 .lc.news-subscribe.com
 .mlbglobal.112.2o7.net
-.jea.co1.qualtrics.com
 .pulse.data.flurry.com
 .pulse.casalemedia.com
 .mlbastros.112.2o7.net
@@ -46948,7 +46597,6 @@
 .mixmelhoresprecos.com
 .manmuswark.3eeweb.com
 .mitaosp829.17arch.com
-.mit.co1.qualtrics.com
 .misionpsicologica.com
 .ravlw.nearbysluts.net
 .pug55000.pubmatic.com
@@ -46980,7 +46628,6 @@
 .razor1911download.com
 .publicidad.adlead.com
 .iota10.rtb.appier.net
-.oberlin.qualtrics.com
 .iota11.rtb.appier.net
 .netcore.go2affise.com
 .manifest.auditude.com
@@ -46990,14 +46637,12 @@
 .japanese-girl-xxx.com
 .learn.doubleclick.net
 .leave.exacttarget.com
-.rbc.co1.qualtrics.com
 .legacy.demandbase.com
 .pub.trader.adgear.com
 .pu.gcp.msas.media.net
 .lennoxcollections.com
 .pmtxpeczlssystems.com
 .leroidumatelas.gb.net
-.lessius.qualtrics.com
 .letoilerestaurant.com
 .oascentral.warcry.com
 .levenshteinanswer.com
@@ -47005,7 +46650,6 @@
 .pt-br.statcounter.com
 .ptads.sv.publicus.com
 .pt_br.statcounter.com
-.lfg.co1.qualtrics.com
 .lg1.brandreachsys.com
 .lg2.brandreachsys.com
 .lg3.brandreachsys.com
@@ -47024,7 +46668,6 @@
 .manager.smartlook.com
 .psankei.chartbeat.net
 .ps7.brandreachsys.com
-.pnc.co1.qualtrics.com
 .lifestyleagrotech.com
 .j7.news-subscribe.com
 .liflandaffiliates.com
@@ -47062,7 +46705,6 @@
 .no.adserver.yahoo.com
 .nnoxzo.rfskbylbsf.xyz
 .pocketfullofpoems.com
-.miamioh.qualtrics.com
 .iota12.rtb.appier.net
 .mi.news-subscribe.com
 .reactivateappleid.com
@@ -47196,10 +46838,8 @@
 .ivid-f1-hk.adhigh.net
 .promo.adtelligent.com
 .ivid-f1-de.adhigh.net
-.llu.co1.qualtrics.com
 .partner.topcities.com
 .lm.news-subscribe.com
-.queensu.qualtrics.com
 .metric.volkswagen.com
 .myetherwalletconf.com
 .recruitrdc.demdex.net
@@ -47240,7 +46880,6 @@
 .netflix-user-bill.com
 .patagonia.122.2o7.net
 .myethereumwallets.com
-.messiah.qualtrics.com
 .loadvxny.exelator.com
 .loadvxsc.exelator.com
 .netibeempresarial.com
@@ -47277,7 +46916,6 @@
 .o7.news-subscribe.com
 .paypal.de-onlines.com
 .new.api.ad.xiaomi.com
-.new.az1.qualtrics.com
 .new.chokertraffic.com
 .qwestfull.112.2o7.net
 .log.worldnewsfeed.org
@@ -47286,7 +46924,6 @@
 .myfamily2.112.2o7.net
 .paypal-claim.gdj4.com
 .nl.adserver.yahoo.com
-.jsu.az1.qualtrics.com
 .paypal-infoupdate.xyz
 .logger.foxitcloud.com
 .new-ads.eurogamer.net
@@ -47300,7 +46937,6 @@
 .mycryptoethwallet.com
 .kansasoutdoorsman.com
 .members.mastermsk.com
-.iup.co1.qualtrics.com
 .printwellservices.com
 .logging.ar.atwola.com
 .logging.at.atwola.com
@@ -47443,7 +47079,6 @@
 .media91.fastclick.net
 .media90.fastclick.net
 .nyc-208-gw1.fwmrm.net
-.kbs.az1.qualtrics.com
 .kc.news-subscribe.com
 .nyads.ny.publicus.com
 .regie.espace-plus.net
@@ -47511,7 +47146,6 @@
 .media56.fastclick.net
 .media55.fastclick.net
 .media54.fastclick.net
-.kellogg.qualtrics.com
 .media53.fastclick.net
 .media52.fastclick.net
 .media51.fastclick.net
@@ -47539,10 +47173,8 @@
 .mbox2.offermatica.com
 .oraclecom.112.2o7.net
 .newssourceoftoday.com
-.nwpsych.qualtrics.com
 .mbox3.offermatica.com
 .keygens-and-cheat.com
-.isu.co1.qualtrics.com
 .media39.fastclick.net
 .media38.fastclick.net
 .istanbulsackaynak.org
@@ -47574,7 +47206,6 @@
 .media20.fastclick.net
 .jrpfekf.angelfire.com
 .orango.redirectme.net
-.kgi.co1.qualtrics.com
 .post.update.mopub.com
 .mbox5.offermatica.com
 .music.getyesappz1.com
@@ -47610,7 +47241,6 @@
 .ord-dtmpub.dotomi.com
 .nextlevellacrosse.com
 .isg01.casalemedia.com
-.nupsych.qualtrics.com
 .reklam.softreklam.com
 .mysmokingmistress.com
 .onlinethekeincome.com
@@ -47628,7 +47258,6 @@
 .reklamstore.adk2x.com
 .phentermine.t-amo.net
 .media.primalforce.net
-.ngf.co1.qualtrics.com
 .nginx.group.actnx.com
 .ngpmarketinggroup.com
 .portalatualizacao.com
@@ -47707,7 +47336,6 @@
 .mad.uk.intellitxt.com
 .kiplingusa.btttag.com
 .mcdonaldsmonopoly.net
-.mccombs.qualtrics.com
 .ig.news-subscribe.com
 .counter4.bravenet.com
 .counter3.bravenet.com
@@ -47723,7 +47351,6 @@
 .fast.webmd.demdex.net
 .fb-kolor.blogspot.com
 .cpatraffictracker.com
-.inavero.qualtrics.com
 .counter2.hitslink.com
 .fbpasswordhackear.com
 .fbpirateruncompte.com
@@ -47737,7 +47364,6 @@
 .fast.skyit.demdex.net
 .fast.shell.demdex.net
 .fast.sears.demdex.net
-.inc.co1.qualtrics.com
 .counter2.bravenet.com
 .in.adserver.yahoo.com
 .ih2.gamecopyworld.com
@@ -47758,7 +47384,6 @@
 .counter1.bravenet.com
 .fast.mutua.demdex.net
 .incognitosearches.com
-.ihhp360.qualtrics.com
 .fast.mscom.demdex.net
 .fast.levis.demdex.net
 .hackersuniversity.com
@@ -47799,7 +47424,6 @@
 .fast.cbcca.demdex.net
 .fast.candb.demdex.net
 .counter.kaspersky.com
-.clemson.qualtrics.com
 .fast.bskyb.demdex.net
 .creativelifevents.com
 .creativemindhacks.com
@@ -47881,7 +47505,6 @@
 .fakecell.sys.miui.com
 .gameandextensions.com
 .feedburner.google.com
-.fairway.qualtrics.com
 .clientmetrics.kik.com
 .halkbank-tektikla.com
 .clashofclans-hack.net
@@ -47917,9 +47540,7 @@
 .ff.news-subscribe.com
 .happyhome20.fulba.com
 .happynewyears2018.top
-.fac.co1.qualtrics.com
 .idm.us.intellitxt.com
-.faa.co1.qualtrics.com
 .f9.news-subscribe.com
 .f7.news-subscribe.com
 .clang29217.axfree.com
@@ -47942,9 +47563,7 @@
 .correspond.tapjoy.com
 .gpaper175.112.2o7.net
 .games.superappbox.com
-.cornell.qualtrics.com
 .csync2.vertamedia.com
-.cke.co1.qualtrics.com
 .fti.touchcommerce.com
 .gpaper174.112.2o7.net
 .clit10.sextracker.com
@@ -47991,7 +47610,6 @@
 .citionlineservice.com
 .citimobile-online.com
 .f0ad.notifychheck.com
-.cuhkbaf.qualtrics.com
 .citibuildersgroup.com
 .clit14.sextracker.com
 .gamezdownloadfree.com
@@ -48003,20 +47621,16 @@
 .infinityhacksclan.net
 .curiouserdesserts.com
 .curtaecompartilha.com
-.idc.az1.qualtrics.com
 .filecdn2.dotandad.com
 .cvent.axiatraders.com
 .icr7j8uukj.itcf20.com
 .gpaper164.112.2o7.net
 .cvporxetbnvmexico.net
-.cvs.az1.qualtrics.com
-.cvs.azl.qualtrics.com
 .extrovert.122.2o7.net
 .gpaper163.112.2o7.net
 .convdb.buysellads.com
 .external.monerise.com
 .cmd.kf1.learnsaas.com
-.cwu.co1.qualtrics.com
 .gpaper162.112.2o7.net
 .cxociocom.112.2o7.net
 .cxocomdev.112.2o7.net
@@ -48024,7 +47638,6 @@
 .iklanpasanggratis.com
 .expertosenbelleza.com
 .grace.shareaholic.com
-.cima.eu.qualtrics.com
 .gpaper161.112.2o7.net
 .gpaper160.112.2o7.net
 .gpaper158.112.2o7.net
@@ -48033,7 +47646,6 @@
 .context3.kanoodle.com
 .gpaper156.112.2o7.net
 .context.qc.coccoc.com
-.expedia.qualtrics.com
 .cyclops.prod.untd.com
 .gpaper155.112.2o7.net
 .gpaper154.112.2o7.net
@@ -48099,7 +47711,6 @@
 .events30.adcolony.com
 .events20.adcolony.com
 .gc.news-subscribe.com
-.hbc.co1.qualtrics.com
 .events.streamrail.net
 .hb-fa-1.hb.omtrdc.net
 .gpaper132.112.2o7.net
@@ -48164,7 +47775,6 @@
 .clk-jp21.c.appier.net
 .ilz.000webhostapp.com
 .grafittepapelaria.com
-.hci.co1.qualtrics.com
 .clk-jp22.c.appier.net
 .clk-jp24.c.appier.net
 .holographiccocoon.com
@@ -48210,14 +47820,12 @@
 .ethereum-giveaway.org
 .etherdelta-glthub.com
 .configurationfile.net
-.iastate.qualtrics.com
 .chungcuvincity-hn.com
 .iappweb.moonfruit.com
 .iapclick.gowadogo.com
 .hdglobal3.112.2o7.net
 .find-my-iphone-me.com
 .iad-usadmm.dotomi.com
-.hdi.co1.qualtrics.com
 .eternal.reklamlab.com
 .cloisteredhydrant.com
 .e-subemizdehizmet.com
@@ -48313,12 +47921,10 @@
 .freeshoppingsavvy.com
 .heartbeats.omtrdc.net
 .guptamedianetwork.com
-.eos.co1.qualtrics.com
 .cls.ichotelsgroup.com
 .d-beauty.t.domdex.com
 .companies-catalog.com
 .heartland-d.openx.net
-.entrata.qualtrics.com
 .clubdeviajerosdxn.com
 .clube-s-m-i-l-e-s.com
 .enterprise.hitbox.com
@@ -48326,7 +47932,6 @@
 .freeriotpointsnow.com
 .flappybirdhacking.com
 .hydrocodone.t-amo.net
-.hec.az1.qualtrics.com
 .enpara-onlinesube.com
 .comohackearelface.com
 .chefnbrewfestival.com
@@ -48345,7 +47950,6 @@
 .engage.localytics.com
 .dckappa.widespace.com
 .dclk-match.dotomi.com
-.dcms.eu.qualtrics.com
 .heladosdepailadmp.com
 .heliosiq.adtechus.com
 .flaviamorlachetti.com
@@ -48353,7 +47957,6 @@
 .d-crafts.t.domdex.com
 .community.marketo.com
 .gumtreeuk-d.openx.net
-.ddi.az1.qualtrics.com
 .e-naturessunshine.com
 .de.adserver.yahoo.com
 .images.linkwithin.com
@@ -48407,15 +48010,12 @@
 .hummingbird.mopub.com
 .freeplaygiftcards.com
 .humanorightswatch.org
-.fma.co1.qualtrics.com
-.hult360.qualtrics.com
 .eliotfirmdistrict.com
 .comcast.tt.omtrdc.net
 .elegantseowriting.com
 .electronics-offer.net
 .dellinc.tt.omtrdc.net
 .com-accsidpypal73.com
-.gga.co1.qualtrics.com
 .eldivinoprestador.com
 .eldamar.kameleoon.com
 .delphicom.112.2o7.net
@@ -48471,7 +48071,6 @@
 .destek-ziraatbank.com
 .collector.apester.com
 .egraffiti-d.openx.net
-.chatham.qualtrics.com
 .detectnewfavorite.com
 .detik.serving-sys.com
 .chat2.livechatinc.com
@@ -48489,7 +48088,6 @@
 .impayee-octrelais.com
 .eegad.freeservers.com
 .gingermedia.adk2x.com
-.imd.co1.qualtrics.com
 .greendiapersguide.com
 .developer.jsecoin.com
 .devestidosdenovia.com
@@ -48518,9 +48116,7 @@
 .follett.sc.omtrdc.net
 .dfsdfsdf.rumahweb.org
 .high-qualitytools.xyz
-.edc.co1.qualtrics.com
 .highspeedcouriers.com
-.ecu.az1.qualtrics.com
 .ecrtb.adtelligent.com
 .d-hockey.t.domdex.com
 .ecourses.unbounce.com
@@ -48553,7 +48149,6 @@
 .eb9918cd6a32b1cff.com
 .coffeecupinvestor.com
 .eatonvance.demdex.net
-.cofc360.qualtrics.com
 .imiliving.122.2o7.net
 .img-sj2.mediaplex.com
 .freeitunesforever.com
@@ -48584,7 +48179,6 @@
 .display.qc.coccoc.com
 .display.tubemogul.com
 .disputed-paaypals.com
-.cgu.co1.qualtrics.com
 .historicalrequest.com
 .hotelscom.122.2o7.net
 .golflocker.btttag.com
@@ -48627,7 +48221,6 @@
 .counter7.bravenet.com
 .fptadtrue-d.openx.net
 .cnnglobal.122.2o7.net
-.dvg.ca1.qualtrics.com
 .fr.64.clickintext.net
 .dvdrecorders4free.com
 .dvag.d3.sc.omtrdc.net
@@ -48650,20 +48243,16 @@
 .interact-refund11.com
 .frankfisherfamily.com
 .interland.122.2o7.net
-.frb.co1.qualtrics.com
 .dtcc.d1.sc.omtrdc.net
 .img1.ncsreporting.com
 .intern.accountkit.com
 .internal.33across.com
 .hornespestcontrol.com
 .hkdsp-hw.mobvista.com
-.cep.co1.qualtrics.com
 .cn.adserver.yahoo.com
 .dns01.casalemedia.com
-.cmu.ca1.qualtrics.com
 .dns02.casalemedia.com
 .centrum-kredytowe.net
-.horizon.qualtrics.com
 .internet9-billing.com
 .counter8.bravenet.com
 .fbcheat.strivetru.com
@@ -48687,7 +48276,6 @@
 .drpaymanpetclinic.com
 .go.gba.bbelements.com
 .internetpornbible.com
-.cengage.qualtrics.com
 .free-apple-iphone.net
 .dropshippingtoday.com
 .domainplayersclub.com
@@ -48708,7 +48296,6 @@
 .doubtfulrainstorm.com
 .dragonstoryhacked.com
 .interweb-billing9.com
-.hms.az1.qualtrics.com
 .in.joinourwebsite.com
 .homestore.122.2o7.net
 .freecharge.demdex.net
@@ -48718,13 +48305,11 @@
 .fb.carslistedsale.xyz
 .dragonballzstream.com
 .dragonballzonline.net
-.hnu.az1.qualtrics.com
 .cedexiscom.btttag.com
 .cmp.us.intellitxt.com
 .counter-wordpress.com
 .go.rubiconproject.com
 .dquestengineering.com
-.dqa.co1.qualtrics.com
 .ceciyaafoundation.org
 .favoriteadrequest.com
 .dq.news-subscribe.com
@@ -48964,7 +48549,6 @@
 .cafemedia-d.openx.net
 .bndes.webcindario.com
 .a1148.casalemedia.com
-.alm.co1.qualtrics.com
 .a1150.casalemedia.com
 .a1151.casalemedia.com
 .accuserveadsystem.com
@@ -49034,7 +48618,6 @@
 .ad.eg.doubleclick.net
 .banner.tattomedia.com
 .a1251.casalemedia.com
-.afj.co1.qualtrics.com
 .apnonline.112.2o7.net
 .a1270.casalemedia.com
 .a1271.casalemedia.com
@@ -49094,7 +48677,6 @@
 .ad.hk.doubleclick.net
 .cdnalpstag.adgear.com
 .ads.realcastmedia.com
-.bostonu.qualtrics.com
 .976.actonsoftware.com
 .banners.copyscape.com
 .ad.hr.doubleclick.net
@@ -49121,7 +48703,6 @@
 .ayodhyaguesthouse.com
 .a2951.casalemedia.com
 .a2931.casalemedia.com
-.amazon1.qualtrics.com
 .ad.it.doubleclick.net
 .banners.looksmart.com
 .account.mouseflow.com
@@ -49209,7 +48790,6 @@
 .apple-id-cziphone.top
 .ad.sg.doubleclick.net
 .a1490.casalemedia.com
-.amherst.qualtrics.com
 .bartolini-systems.com
 .ads10.adtelligent.com
 .a1491.casalemedia.com
@@ -49330,7 +48910,6 @@
 .ads.suite6ixty6ix.com
 .ad1.emule-project.org
 .ablerefrigeration.com
-.ana.co1.qualtrics.com
 .911.sos-empleados.net
 .ads1.advertwizard.com
 .cdn2.shareitgames.com
@@ -49524,7 +49103,6 @@
 .adbuilder.yieldmo.com
 .best-seo-software.xyz
 .a2221.casalemedia.com
-.byu.az1.qualtrics.com
 .best-seo-solution.com
 .carambola-d.openx.net
 .a9.news-subscribe.com
@@ -49545,7 +49123,6 @@
 .ads-v-darwin.hulu.com
 .a1841.casalemedia.com
 .adstxt.vertamedia.com
-.cardiff.qualtrics.com
 .cdn1.ads.brazzers.com
 .adcodes.aim4media.com
 .adcontent.gamespy.com
@@ -49575,7 +49152,6 @@
 .ads.tricityherald.com
 .bethesdamarketing.com
 .3j.news-subscribe.com
-.asuclas.qualtrics.com
 .betterbatteryapps.com
 .bomcl.richmetrics.com
 .adsremote.scripps.com
@@ -49627,7 +49203,6 @@
 .admgrapi.mobvista.com
 .45.news-subscribe.com
 .a1891.casalemedia.com
-.asq.co1.qualtrics.com
 .2v.news-subscribe.com
 .as-pubf.tubemogul.com
 .asplexmedia.adk2x.com
@@ -49637,7 +49212,6 @@
 .admin.twinstoresz.com
 .annuaire-autosurf.com
 .adn.xcp.go.sonobi.com
-.bmc.co1.qualtrics.com
 .adnetwork.nextgen.net
 .anonymouscheaters.com
 .bid11000.pubmatic.com
@@ -49691,7 +49265,6 @@
 .adserver.startnow.com
 .asg01.casalemedia.com
 .big.g.doubleclick.net
-.anu.co1.qualtrics.com
 .adserver.softonic.com
 .adserver.snowball.com
 .buy-adipex.i-jogo.net
@@ -49701,7 +49274,6 @@
 .bigpayout.go2jump.org
 .a1901.casalemedia.com
 .adright.go2affise.com
-.buswisc.qualtrics.com
 .asd.basrabrothers.com
 .adserver.ratestar.net
 .cdn.smartadserver.com
@@ -49783,14 +49355,12 @@
 .a4511.casalemedia.com
 .a1921.casalemedia.com
 .arlenekunzfineart.com
-.cbe.co1.qualtrics.com
 .a4501.casalemedia.com
 .a4500.casalemedia.com
 .adserver.adsimsar.net
 .33across.t.domdex.com
 .adserver.adremedy.com
 .a4450.casalemedia.com
-.cbs.az1.qualtrics.com
 .ads.eu.e-planning.net
 .adserve.shopzilla.com
 .a4441.casalemedia.com
@@ -50051,7 +49621,6 @@
 .ads2.advertwizard.com
 .a3081.casalemedia.com
 .api-dev.ensighten.com
-.bradley.qualtrics.com
 .a2050.casalemedia.com
 .bra.brandreachsys.com
 .br2.nyc2.appnexus.com
@@ -50088,7 +49657,6 @@
 .nsads4.us.publicus.com
 .poly.actonsoftware.com
 .protectfillaccount.com
-.jhmi.co1.qualtrics.com
 .mad2.brandreachsys.com
 .oscar19.rtb.appier.net
 .pl156432.puserving.com
@@ -50105,7 +49673,6 @@
 .integ.emp.exelator.com
 .impch.tradedoubler.com
 .integratedadebsons.com
-.hrpa.co1.qualtrics.com
 .hotelbeds-connects.com
 .indorailwaysdesign.com
 .gta5onlinedownload.com
@@ -50145,7 +49712,6 @@
 .haydayhack.leakbay.net
 .iad02-login.dotomi.com
 .images.directtrack.com
-.imdb.co1.qualtrics.com
 .images3.linkwithin.com
 .gratis-sexkontakte.com
 .helpmycarpaltunnel.com
@@ -50173,13 +49739,10 @@
 .halkbankmobilgiris.com
 .halkbank-halk80yil.com
 .gymworkoutmachines.com
-.ieee.co1.qualtrics.com
 .img-ams5.mediaplex.com
-.ieee.us2.qualtrics.com
 .increase-marketing.com
 .iesb.us.intellitxt.com
 .incrdble.faboshine.com
-.gsma.co1.qualtrics.com
 .gtssl-aia.geotrust.com
 .iesmartinaldehuela.org
 .iad07-login.dotomi.com
@@ -50213,17 +49776,14 @@
 .healthline-d.openx.net
 .hphqsearch.112.2o7.net
 .impie.tradedoubler.com
-.ifma.co1.qualtrics.com
 .hphqglobal.112.2o7.net
 .horizon-ministries.com
-.idcourts.qualtrics.com
 .graphics.streamray.com
 .iad09-login.dotomi.com
 .internalmaryportas.com
 .iad12-login.dotomi.com
 .images-yjp.taboola.com
 .impgb.tradedoubler.com
-.iadb.co1.qualtrics.com
 .img100-321.xvideos.com
 .infinitydownline5k.com
 .imprlatbmp.taboola.com
@@ -50232,13 +49792,11 @@
 .idiagnostics.apple.com
 .infojuditerpercaya.net
 .idec.actonsoftware.com
-.hope.co1.qualtrics.com
 .iad05-login.dotomi.com
 .images.statcounter.com
 .iad06-login.dotomi.com
 .my-etherwalletcorp.com
 .how-to-hack-webcam.com
-.herts.eu.qualtrics.com
 .goodlandurbanfarms.com
 .hstus.tradedoubler.com
 .howtogetafree-ipad.com
@@ -50268,7 +49826,6 @@
 .icloudlocationasia.com
 .hstfr.tradedoubler.com
 .homeway.altervista.org
-.hcde.co1.qualtrics.com
 .img2.sankakustatic.com
 .houstonlawpartners.com
 .interweave-d.openx.net
@@ -50282,9 +49839,7 @@
 .haphuongfoundation.net
 .hanzele.wpdevcloud.com
 .impfr.tradedoubler.com
-.indstate.qualtrics.com
 .hackathon.pubmatic.com
-.hamilton.qualtrics.com
 .impfi.tradedoubler.com
 .icgauth-voscomptes.com
 .hybrid.intl.xiaomi.com
@@ -50442,7 +49997,6 @@
 .download.ascentive.com
 .download.appsflyer.com
 .dailyburn.adlegend.com
-.glic.co1.qualtrics.com
 .copyrightinstitute.org
 .down.zuoyexingchen.com
 .douglas01.webtrekk.net
@@ -50456,18 +50010,14 @@
 .fbhackingtutorials.com
 .eyeota-sync.dotomi.com
 .corretoraltopadrao.com
-.e3ed.co1.qualtrics.com
 .e3yt5.at-band-camp.net
 .docusign.dvviagens.com
 .cf.hermes.wshareit.com
 .cosmeticscentre.uk.com
-.cfigroup.qualtrics.com
 .girisler-yapikredi.com
 .eyereact.eyereturn.com
-.eaca.co1.qualtrics.com
 .dnwswurowz.byinter.net
 .eaglemiles.112.2o7.net
-.eamobile.qualtrics.com
 .earn-from-articles.com
 .earnpointsandgifts.com
 .ezfly-com.b.appier.net
@@ -50565,7 +50115,6 @@
 .editorial.outbrain.com
 .cws.rubiconproject.com
 .counter19.bravenet.com
-.cwru.az1.qualtrics.com
 .edu.jujiaxiansheng.com
 .cheatsclashofclans.com
 .cvdimensisolusindo.com
@@ -50603,7 +50152,6 @@
 .fast.scotts.demdex.net
 .disccstats.112.2o7.net
 .fast.schwab.demdex.net
-.efmd.co1.qualtrics.com
 .ci.adsafeprotected.com
 .efoijowufjaowudawd.com
 .counter30.bravenet.com
@@ -50815,7 +50363,6 @@
 .counterpartstudies.com
 .citycash2.blogspot.com
 .ei0sj6fwb1.yonalon.com
-.cumc.co1.qualtrics.com
 .eitheles12tr5mt4hg.com
 .cj46.actonsoftware.com
 .detailedgovernment.com
@@ -50830,7 +50377,6 @@
 .electronicspresent.com
 .covenantalpacifist.com
 .fast.ithaka.demdex.net
-.depaulsa.qualtrics.com
 .cowboy.contextuads.com
 .coxinhaproductions.com
 .denverpost.112.2o7.net
@@ -50853,7 +50399,6 @@
 .cpaoptimizer.adk2x.com
 .ctvmaincom.112.2o7.net
 .clashofclanshackrz.com
-.eller.us.qualtrics.com
 .clashofclans-hacks.com
 .denizbank-islemler.com
 .fast.foxtel.demdex.net
@@ -50861,7 +50406,6 @@
 .freeminecraftcodes.org
 .clashofclanshelper.com
 .fast.foxnet.demdex.net
-.elon.co1.qualtrics.com
 .demo-api.adsnative.com
 .fast.fordeu.demdex.net
 .faithbreakthroughs.org
@@ -50882,8 +50426,6 @@
 .fandango.hb.omtrdc.net
 .freeitunescodesgen.com
 .click.kidslivesafe.com
-.fandango.qualtrics.com
-.csus.co1.qualtrics.com
 .emiratesfoundation.net
 .click.searchnation.net
 .freeimvucreditsgen.com
@@ -50907,7 +50449,6 @@
 .fandangollc.demdex.net
 .freegames4download.com
 .cpatoday.go2affise.com
-.csod.co1.qualtrics.com
 .clicks.virtuaguyhd.com
 .cpcn.000webhostapp.com
 .encuentrodemusicos.com
@@ -50988,7 +50529,6 @@
 .music.myappzcenter.com
 .mineraladvocatecap.com
 .quickstart.marketo.com
-.lcsc.co1.qualtrics.com
 .itunes.foundcheats.com
 .medical-rewardpath.com
 .medicaltourismhome.com
@@ -51017,7 +50557,6 @@
 .orange.recompenses.xyz
 .preview.quantserve.com
 .newkingstechnology.com
-.nyustern.qualtrics.com
 .medwayvillagepizza.com
 .nandomedia.112.2o7.net
 .pug33000n.pubmatic.com
@@ -51047,7 +50586,6 @@
 .meijersa.bighosted.com
 .miscws013.coinhive.com
 .miscws016.coinhive.com
-.pbgc.co1.qualtrics.com
 .poolpartypromotion.com
 .quickbrowsersearch.com
 .miscws018.coinhive.com
@@ -51057,14 +50595,10 @@
 .pugm11000.pubmatic.com
 .melding-technology.com
 .newclashofclanhack.com
-.research.qualtrics.com
-.princess.qualtrics.com
-.quiktrip.qualtrics.com
 .norton-scan-mobile.com
 .pugm22000.pubmatic.com
 .magical-connection.com
 .missomoms.t.domdex.com
-.missouri.qualtrics.com
 .ocean.directprimal.com
 .mistat.intl.xiaomi.com
 .kappa12.rtb.appier.net
@@ -51095,7 +50629,6 @@
 .mixtraff.silvercdn.com
 .privatelimitaccoun.com
 .new44chempics.890m.com
-.redirect.qualtrics.com
 .log-eap-in.coloros.com
 .mycasinoyellowhead.com
 .margaritoledbetter.com
@@ -51112,20 +50645,16 @@
 .kotawisatacommpark.com
 .najlepszedlaciebie.com
 .prnewswire.122.2o7.net
-.jdpa.co1.qualtrics.com
 .redirect.click2net.com
 .plala.d1.sc.omtrdc.net
 .kerui.designmehair.net
-.neiu.co1.qualtrics.com
 .judithrust.5gbfree.com
-.ivey.az1.qualtrics.com
 .proactiveacademybd.com
 .placewise.t.domdex.com
 .ivid-f10-de.adhigh.net
 .ivid-f11-de.adhigh.net
 .mlbatlanta.112.2o7.net
 .ivid-f12-de.adhigh.net
-.redesign.qualtrics.com
 .ojtobu.angelcities.com
 .matchphotosww.890m.com
 .ivid-f13-de.adhigh.net
@@ -51134,7 +50663,6 @@
 .mycommunityoptions.org
 .mlbhouston.112.2o7.net
 .nagroda-dla-ciebie.com
-.payments.qualtrics.com
 .payload.yieldbuild.com
 .reddeerramadahotel.com
 .mlbstlouis.112.2o7.net
@@ -51147,7 +50675,6 @@
 .kojuyft.altervista.org
 .mlox.brandreachsys.com
 .net-tr.casalemedia.com
-.mlse.ca1.qualtrics.com
 .ivid-f14-de.adhigh.net
 .netstorage.taboola.com
 .invite.crittercism.com
@@ -51165,9 +50692,7 @@
 .loangate.go2affise.com
 .message-center1wff.com
 .nafsa.d1.sc.omtrdc.net
-.mspp.co1.qualtrics.com
 .plsoyfoods.112.2o7.net
-.mmqataru.qualtrics.com
 .net-ny.casalemedia.com
 .magnetrack.klangoo.com
 .red04.as-eu.falkag.net
@@ -51180,7 +50705,6 @@
 .mnfidnahub.112.2o7.net
 .octopus-prediction.com
 .oas.signonsandiego.com
-.kobo.ca1.qualtrics.com
 .profile.localytics.com
 .oscar99.rtb.appier.net
 .purchase-vailory71.com
@@ -51413,10 +50937,8 @@
 .wanchainfoundation.org
 .sigma91.rtb.appier.net
 .spyshredderscanner.com
-.virginia.qualtrics.com
 .sigma92.rtb.appier.net
 .vladk.d1.sc.omtrdc.net
-.ucwv.co1.qualtrics.com
 .serw.myroitracking.com
 .vast-f36-de.adhigh.net
 .waxygordonextracts.com
@@ -51428,7 +50950,6 @@
 .nineto5mac-d.openx.net
 .moncompte.grouperf.com
 .ios8jailbreak-free.net
-.pitt.co1.qualtrics.com
 .oascentral.fosters.com
 .polls.clickability.com
 .ip-sec.casalemedia.com
@@ -51494,7 +51015,6 @@
 .js.matheranalytics.com
 .phoenixrealtorsblr.com
 .pxcwdyasdsumdsxjnn.com
-.paea.az1.qualtrics.com
 .port.sec.intl.miui.com
 .lzbtrack.sc.omtrdc.net
 .relaxsearch.uphero.com
@@ -51553,9 +51073,7 @@
 .ivid-f42-de.adhigh.net
 .nextclickads.adk2x.com
 .officedepot.btttag.com
-.malta.eu.qualtrics.com
 .kitchen.consumable.com
-.kclbs.eu.qualtrics.com
 .ortopediabolognese.com
 .netflix-membership.com
 .jiujiuguiyi.she456.com
@@ -51614,7 +51132,6 @@
 .proxy.nullrefexcep.com
 .js-sec.casalemedia.com
 .proxy1.switchadhub.com
-.ispe.co1.qualtrics.com
 .jssocdn.indiatimes.com
 .proxy2.switchadhub.com
 .montesque.t.domdex.com
@@ -51685,7 +51202,6 @@
 .lululemonau.btttag.com
 .perfspot.crwdcntrl.net
 .oascentral.sptimes.com
-.kingston.qualtrics.com
 .qa.ace.advertising.com
 .oascentral.stripes.com
 .myetherwalletcheck.com
@@ -51761,7 +51277,6 @@
 .mox1.brandreachsys.com
 .l3-assets.applovin.com
 .letsplaybasketball.com
-.qaz1.az1.qualtrics.com
 .mox2.brandreachsys.com
 .jak-szybko-zarobic.com
 .james2kool.5gbfree.com
@@ -51775,7 +51290,6 @@
 .oilwrestlingeurope.com
 .pple.com.virus-mac.com
 .jammyads.go2affise.com
-.nycc.az1.qualtrics.com
 .pillartypejibcrane.com
 .ipcnowprod.122.2o7.net
 .multiply.crwdcntrl.net
@@ -51804,7 +51318,6 @@
 .itau.banking-30hrs.com
 .kaspersky-security.com
 .loseweight.asdjiiw.com
-.pima.co1.qualtrics.com
 .looksmart.t.domdex.com
 .r1.ace.advertising.com
 .mymatchnewpictures.com
@@ -51817,7 +51330,6 @@
 .maxregistrycleaner.net
 .learnadmin.marketo.com
 .medialogic.122.2o7.net
-.ousurvey.qualtrics.com
 .player.adtelligent.com
 .netfilx-uk-connect.com
 .nyjexp001.exelator.com
@@ -51884,7 +51396,6 @@
 .brilliant.applinzi.com
 .advertisers.tapjoy.com
 .adserver.kontextua.com
-.byui.az1.qualtrics.com
 .brightcove.112.2o7.net
 .answers.chartboost.com
 .ambitiousagreement.com
@@ -51893,7 +51404,6 @@
 .advertising.criteo.com
 .analysis.afreecatv.com
 .aolwbdnlsq.122.2o7.net
-.bush.co1.qualtrics.com
 .ads-local.sixapart.com
 .adtech.advertising.com
 .burusuconstruction.com
@@ -51952,7 +51462,6 @@
 .c4.amazingcounters.com
 .amateur.xxxcounter.com
 .amaryah.houndquake.com
-.brandeis.qualtrics.com
 .brand.treasuredata.com
 .anchor.stailamedia.com
 .antivirus-online51.com
@@ -51973,7 +51482,6 @@
 .cdn.ads.contentabc.com
 .c1.amazingcounters.com
 .br001.topmoneyplus.com
-.carilion.qualtrics.com
 .alwaysfreexboxlive.com
 .adverts.freeloader.com
 .api-metrics.flurry.com
@@ -52030,14 +51538,12 @@
 .agiosgeorgioscorfu.com
 .busyphoneswireless.com
 .28hf7513231-trader.com
-.agrilife.qualtrics.com
 .adsclickingnetwork.com
 .c6.amazingcounters.com
 .ads-by.yieldselect.com
 .campbellcarservice.com
 .ads-by.madadsmedia.com
 .bota9vermelh8vemve.com
-.anz2.co1.qualtrics.com
 .bostonglobe.demdex.net
 .a.collective-media.net
 .ads104.adtelligent.com
@@ -52164,7 +51670,6 @@
 .2m398bu923-rv-read.com
 .cdn.chuknu.sokrati.com
 .al.goodsblock.mgid.com
-.caqh.co1.qualtrics.com
 .catherinepedemonti.com
 .cdn.comedia.coccoc.com
 .cabehealthservices.net
@@ -52219,7 +51724,6 @@
 .ads.colombiaonline.com
 .cdn.opensubcontent.com
 .ads.theindependent.com
-.ashp.az1.qualtrics.com
 .blackocean-d.openx.net
 .ads.fredericksburg.com
 .ads.cmg.valueclick.net
@@ -52357,7 +51861,6 @@
 .555gm44.spwoilseal.com
 .a-support.applovin.com
 .betburdaaffiliates.com
-.adelaide.qualtrics.com
 .adds.misiamoiatdom.com
 .at.m1.nedstatbasic.net
 .addesk.advertising.com
@@ -52445,7 +51948,6 @@
 .ac.ybinst6.ec.yimg.com
 .battlefield4-cdkey.com
 .ac.ybinst7.ec.yimg.com
-.avon.co1.qualtrics.com
 .ad.technoratimedia.com
 .batsavcdn.ksmobile.net
 .ac.ybinst8.ec.yimg.com
@@ -52518,7 +52020,6 @@
 .bams1.manhatan2018.com
 .bam-pilot.iovation.com
 .acs.maribacaberita.com
-.acsurvey.qualtrics.com
 .cdn-log.vertamedia.com
 .actionmobilemarine.net
 .actonel.about-tabs.com
@@ -52559,7 +52060,6 @@
 .exchange.nativeads.com
 .console.dsp.adacts.com
 .console.brightroll.com
-.data.co1.qualtrics.com
 .confirmation-wfbnk.xyz
 .confirmation-login.com
 .confirm-accessinfo.com
@@ -52597,7 +52097,6 @@
 .evasion7-jailbreak.com
 .evar7.d1.sc.omtrdc.net
 .evansvillesurgical.net
-.columbia.qualtrics.com
 .eu-vast.vertamedia.com
 .dayzstandalonebeta.com
 .collegestaffcampus.net
@@ -52630,7 +52129,6 @@
 .codicefl.shinystat.com
 .codghostseasonpass.com
 .codghost.sharezips.net
-.essex.eu.qualtrics.com
 .codesandgenerators.com
 .fixeventmanagement.com
 .fix-website-errors.com
@@ -52640,13 +52138,11 @@
 .fkovkvdmupunethwtg.com
 .codebreakers-elite.com
 .code.visitor-track.com
-.espn.az1.qualtrics.com
 .debug.tribalfusion.com
 .flappy-bird-cheats.com
 .cochinpropertymart.com
 .cntrlpge.heliohost.org
 .cnoompprod.112.2o7.net
-.delaware.qualtrics.com
 .cnnireport.122.2o7.net
 .cneteurope.122.2o7.net
 .delightful.112.2o7.net
@@ -52663,7 +52159,6 @@
 .fls.uk.doubleclick.net
 .error-reporting-32.org
 .cmn1lsm2.beliefnet.com
-.cmeg.co1.qualtrics.com
 .cm1.xmrminingproxy.com
 .cm090.getui.igexin.com
 .flyfusionstreaming.com
@@ -52754,7 +52249,6 @@
 .cm021.getui.igexin.com
 .deliveryflightpath.com
 .dell.touchcommerce.com
-.fppvu.eu.qualtrics.com
 .fr.cim.clickintext.net
 .cm020.getui.igexin.com
 .cm019.getui.igexin.com
@@ -52770,10 +52264,7 @@
 .cm010.getui.igexin.com
 .cm009.getui.igexin.com
 .cm008.getui.igexin.com
-.ucsf.co1.qualtrics.com
 .voirfichier-orange.com
-.ucsbltsc.qualtrics.com
-.unlv.co1.qualtrics.com
 .sigma94.rtb.appier.net
 .sigma96.rtb.appier.net
 .vast-f37-de.adhigh.net
@@ -52788,19 +52279,16 @@
 .vast-f28-de.adhigh.net
 .vksupportvkvk.16mb.com
 .sjrtp3-cdn.marketo.com
-.umichuhr.qualtrics.com
 .viralvideo.112.2o7.net
 .sigma11.rtb.appier.net
 .simpsons.newzgames.com
 .voxhq.urbanairship.com
-.umsbe.eu.qualtrics.com
 .service2.predictad.com
 .wayfairssp-d.openx.net
 .vast-f17-de.adhigh.net
 .walmartcom.112.2o7.net
 .wallpaper.juicyads.com
 .sinarwijayaelektro.com
-.umhb.co1.qualtrics.com
 .verivox01.webtrekk.net
 .services.x-traceur.com
 .sigma30.rtb.appier.net
@@ -52814,10 +52302,8 @@
 .utm.trk.myfuncards.com
 .warnerbros-d.openx.net
 .sigma52.rtb.appier.net
-.unco.co1.qualtrics.com
 .sigma53.rtb.appier.net
 .vast-f11-de.adhigh.net
-.uncp.co1.qualtrics.com
 .validate.appsflyer.com
 .vast-f29-de.adhigh.net
 .serve.adworldmedia.com
@@ -52836,7 +52322,6 @@
 .usatravel-specials.net
 .uikenknowsallguide.xyz
 .service.face2trade.com
-.umsl.az1.qualtrics.com
 .utils.mediageneral.net
 .sigma63.rtb.appier.net
 .vakifbankbireyselm.com
@@ -52844,23 +52329,19 @@
 .sigma65.rtb.appier.net
 .vast.ssp.optimatic.com
 .spark5-de.b.appier.net
-.utdallas.qualtrics.com
 .undercurrent-movie.com
 .usa1pizzawesthaven.com
 .sjrtp8-cdn.marketo.com
 .server1.beaconpush.com
 .sf-3.st.adtekmedia.com
-.unibe.eu.qualtrics.com
 .wcastrprod.122.2o7.net
 .ums-sb-ec.adtechus.com
 .server1.adpolestar.net
 .uniformcity.btttag.com
 .sjrtp2-cdn.marketo.com
 .veraisonwineevents.com
-.sfsu.co1.qualtrics.com
 .vast-f30-de.adhigh.net
 .spinbox.maccentral.com
-.uhg1.co1.qualtrics.com
 .utils.mediageneral.com
 .ums-sb-wc.adtechus.com
 .vidaesaudeabsoluta.com
@@ -52875,14 +52356,12 @@
 .sjrtp6-cdn.marketo.com
 .sql2.brandreachsys.com
 .verifcompeofficiel.com
-.ucdenver.qualtrics.com
 .unister-adservices.com
 .userdblb.tubemogul.com
 .snglr.s3.amazonaws.com
 .spd.atdmt.speedera.net
 .sigma66.rtb.appier.net
 .sigma67.rtb.appier.net
-.ucbpsych.qualtrics.com
 .webfinance-d.openx.net
 .sports-premiumblvd.com
 .vpc.altitude-arena.com
@@ -52891,7 +52370,6 @@
 .square1.fastdrynow.com
 .verificationseguro.com
 .sigma68.rtb.appier.net
-.umkc.co1.qualtrics.com
 .vodafone-de.zeotap.com
 .sigma69.rtb.appier.net
 .sinopengelleriasma.com
@@ -52902,7 +52380,6 @@
 .squeamishscarecrow.com
 .vestuariodehombres.com
 .verificationticket.com
-.ugeorgia.qualtrics.com
 .service1.predictad.com
 .snapshotfinancials.com
 .us.ads.justpremium.com
@@ -52914,12 +52391,10 @@
 .users-info-confirm.com
 .specialgiftrewards.com
 .sjnccgroup.marketo.com
-.umbc.co1.qualtrics.com
 .vodafone-nederland.com
 .vodafonenz.122.2o7.net
 .skyauction.122.2o7.net
 .ultimatenarutohack.com
-.umich360.qualtrics.com
 .shedwindowsandmore.net
 .spotx-match.dotomi.com
 .sigma71.rtb.appier.net
@@ -52938,7 +52413,6 @@
 .serv2.ad.mobogenie.com
 .software-accurate5.com
 .vintadream.112.2o7.net
-.uepc.co1.qualtrics.com
 .ubank.d1.sc.omtrdc.net
 .usmatch-com.weebly.com
 .sjrcademo1.marketo.com
@@ -52953,7 +52427,6 @@
 .service-meriowsxzv.com
 .vid44000c.pubmatic.com
 .sigma13.rtb.appier.net
-.umichhrd.qualtrics.com
 .vendorweb.citibank.com
 .sigma18.rtb.appier.net
 .weather.msas.media.net
@@ -52973,7 +52446,6 @@
 .visitorapi.betaout.com
 .serviceintelsuport.com
 .sigma72.rtb.appier.net
-.soka.co1.qualtrics.com
 .venchainfoundation.com
 .webminer.minergate.com
 .verify.lestudiolum.net
@@ -53034,16 +52506,12 @@
 .vast-f16-de.adhigh.net
 .uproar.fortunecity.com
 .soma-assets.smaato.net
-.umichisr.qualtrics.com
 .show-sg17.c.appier.net
 .spug44000.pubmatic.com
 .srv.exchange4media.com
-.uwex.co1.qualtrics.com
 .vast-f12-de.adhigh.net
 .show-sg16.c.appier.net
 .vast-f34-de.adhigh.net
-.sjfc.us2.qualtrics.com
-.siue.co1.qualtrics.com
 .socialgamerhelpers.com
 .show-sg15.c.appier.net
 .show-sg13.c.appier.net
@@ -53053,11 +52521,7 @@
 .show-sg10.c.appier.net
 .websense.hb.omtrdc.net
 .websenseinc.demdex.net
-.uwmaison.qualtrics.com
 .smadvantage.demdex.net
-.sjfc.co1.qualtrics.com
-.sixflags.qualtrics.com
-.vuass.eu.qualtrics.com
 .soma-useast.smaato.net
 .viewdocument.comxa.com
 .southwest.adlegend.com
@@ -53076,7 +52540,6 @@
 .sigma81.rtb.appier.net
 .vid-io.springserve.net
 .showadsak.pubmatic.com
-.uwrf.co1.qualtrics.com
 .softbankbb.122.2o7.net
 .vast-f35-de.adhigh.net
 .sigma83.rtb.appier.net
@@ -53091,8 +52554,6 @@
 .vast-f10-de.adhigh.net
 .sjboc.dreamhosters.com
 .smetrics.element14.com
-.vgmarket.qualtrics.com
-.uwindsor.qualtrics.com
 .viequesclassifieds.com
 .virtualdrywallexpo.com
 .spug55000.pubmatic.com
@@ -53102,7 +52563,6 @@
 .sigma86.rtb.appier.net
 .vibe.us.intellitxt.com
 .vast-f42-de.adhigh.net
-.shos.co1.qualtrics.com
 .vast-f41-de.adhigh.net
 .vxluvrwzs.cinci.rr.com
 .verifyme.kitaghana.org
@@ -53131,12 +52591,9 @@
 .stats.gioneemobile.net
 .webzona-segura1rbn.com
 .thegoldenretriever.org
-.sasupenn.qualtrics.com
 .tizer.ssl-services.com
 .riverisland.demdex.net
-.tamucehd.qualtrics.com
 .ziraat-mobil-giris.com
-.scheller.qualtrics.com
 .tango58.rtb.appier.net
 .sentinel.ensighten.com
 .stats.music.xiaomi.com
@@ -53177,7 +52634,6 @@
 .westcoastboxerclub.com
 .ziraat18martzaferi.com
 .track.cpa.iqoption.com
-.stir.az1.qualtrics.com
 .tracking.cmcigroup.com
 .tv-live-production.com
 .track.collegeboard.com
@@ -53207,18 +52663,15 @@
 .thesavvyunistudent.com
 .whatdosquirrelseat.net
 .sdk.rubiconproject.com
-.samgu.eu.qualtrics.com
 .stab.lax1.appnexus.com
 .target.e-generator.com
 .stab.nym2.appnexus.com
 .stats2.unrulymedia.com
-.stgallen.qualtrics.com
 .sejoong.tourskorea.com
 .s.update.tubemogul.com
 .zhou.lloojjddss467.net
 .se-int.stickyadstv.com
 .the-split.unbounce.com
-.tarleton.qualtrics.com
 .thisisyourchangeqq.com
 .whatsfordinnergena.com
 .ww17.smartadserver.com
@@ -53241,7 +52694,6 @@
 .whitelabelns.media.net
 .tats.g.doubleclick.net
 .staging.stats.miui.com
-.ycci.co1.qualtrics.com
 .supportpaypal.16mb.com
 .stats.reinvigorate.net
 .stats.cloud.online.net
@@ -53275,12 +52727,9 @@
 .tbuzzardsportfolio.com
 .wifi-password-hack.com
 .wifipasswordhacker.com
-.tcnj.co1.qualtrics.com
 .thngw2.doubleclick.net
 .steinmart.adlegend.com
-.robinson.qualtrics.com
 .stats2.arstechnica.com
-.scad.co1.qualtrics.com
 .rock2.directprimal.com
 .three.d2.sc.omtrdc.net
 .theta38.rtb.appier.net
@@ -53298,7 +52747,6 @@
 .theta44.rtb.appier.net
 .te.orlandosentinel.com
 .romantise.blogspot.com
-.trulaske.qualtrics.com
 .zamora.axiatraders.com
 .trace.bingoholiday.xyz
 .trueffect.adlegend.com
@@ -53312,7 +52760,6 @@
 .truckstore.122.2o7.net
 .s.ncp.imrworldwide.com
 .rome.specificclick.net
-.tiaa.ca1.qualtrics.com
 .status.crittercism.com
 .sunrisechinesefood.com
 .secure-uat.addthis.com
@@ -53334,7 +52781,6 @@
 .static-ads.zaloapp.com
 .stat.tripleonetech.net
 .tracker.bannerflow.com
-.sbsc.co1.qualtrics.com
 .www1.sexinyourcity.com
 .sbsblukgov.112.2o7.net
 .stat.yellowtracker.com
@@ -53372,7 +52818,6 @@
 .stat4.moneycontrol.com
 .tech.weeklytribune.net
 .theta53.rtb.appier.net
-.tical.us.qualtrics.com
 .theta54.rtb.appier.net
 .theta55.rtb.appier.net
 .safedownloadcenter.com
@@ -53409,7 +52854,6 @@
 .secure.nicemilfass.com
 .steam-wallet-gifts.com
 .static.adtelligent.com
-.wmichcas.qualtrics.com
 .track.theprovision.net
 .secure.livechatinc.com
 .tmscdn.coremetrics.com
@@ -53439,7 +52883,6 @@
 .track.realitykings.com
 .static.clickscloud.net
 .travelsmith.btttag.com
-.travelpn.qualtrics.com
 .track.publeadmedia.com
 .stxbans.sextracker.com
 .www2.kampanyatakip.net
@@ -53468,14 +52911,12 @@
 .saxogoerie.122.2o7.net
 .worldoftankscheats.com
 .steam-key-giveaway.com
-.seattleu.qualtrics.com
 .scripts.demandbase.com
 .worry-free-savings.com
 .static-uk.addynamo.net
 .yourgiftcards4free.com
 .stats.voyages-sncf.com
 .script.opentracker.net
-.time.co1.qualtrics.com
 .wpengine.taplytics.com
 .yourgamesdownloads.com
 .trane.d1.sc.omtrdc.net
@@ -53638,7 +53079,6 @@
 .takshilamultimedia.com
 .surveybypassdirect.com
 .tag-stats.huffpost.com
-.richmond.qualtrics.com
 .tags-cdn.deployads.com
 .rhpanguascamisetas.com
 .tag-abe.cartrawler.com
@@ -53722,7 +53162,6 @@
 .thefreeiphoneunlock.com
 .werbung.meteoxpress.com
 .sync.graph.bluecava.com
-.villanova.qualtrics.com
 .west.us.tm.exelator.com
 .vid-f9-us-va.adhigh.net
 .tvmesdeferias.kozow.com
@@ -53745,14 +53184,12 @@
 .sociablepreterition.com
 .wf-acctverification.com
 .stone2.directprimal.com
-.usmuw.co1.qualtrics.com
 .t.blogreaderproject.com
 .retailrealestatenyc.com
 .selfservice.appnext.com
 .wfcu.ca.102.112.2o7.net
 .vid-f7-us-va.adhigh.net
 .symantecsecuremails.com
-.usmep.co1.qualtrics.com
 .vast-hm-sync.adhigh.net
 .sreeshbestdealstore.com
 .themillionaireinpjs.net
@@ -53761,17 +53198,13 @@
 .youdownloadreadynow.com
 .stl.p.a1.traceworks.com
 .vid-f6-us-va.adhigh.net
-.wguir.co1.qualtrics.com
 .retention.appsflyer.com
 .wgwmwtmyklhzsudqadc.com
 .turkish-hospitality.com
 .vid-f6-us-ca.adhigh.net
 .vid-f5-us-va.adhigh.net
-.usfhealth.qualtrics.com
-.usfca.co1.qualtrics.com
 .ubcu.ca.102.112.2o7.net
 .sltravelcom.112.2o7.net
-.sydneypsy.qualtrics.com
 .usetting.lau1.uae.uc.cn
 .tracking.keywordmax.com
 .sr.mads.advertising.com
@@ -53805,7 +53238,6 @@
 .theta116.rtb.appier.net
 .rev.economicfigures.com
 .theta117.rtb.appier.net
-.ucimerage.qualtrics.com
 .vast-rtb.vertamedia.com
 .theta118.rtb.appier.net
 .tu.mulhollandluxury.com
@@ -53847,12 +53279,10 @@
 .widget.jp.as.criteo.com
 .widget.mediastealer.com
 .theta149.rtb.appier.net
-.uclaed.us.qualtrics.com
 .widget.nl.eu.criteo.com
 .widget.ny.us.criteo.com
 .stampscom.tt.omtrdc.net
 .vid-f3-us-ca.adhigh.net
-.uclioe.eu.qualtrics.com
 .widget.sh.cn.criteo.com
 .spyware-scan.100gal.net
 .yapikredi-worldcard.com
@@ -53866,17 +53296,12 @@
 .sin.ero-advertising.com
 .tex.ero-advertising.com
 .webapp.browser.miui.com
-.uconn.co1.qualtrics.com
-.utexascns.qualtrics.com
 .webanalyzer.bussion.com
 .stardk.tradedoubler.com
-.swedu.co1.qualtrics.com
 .yampapi-prod.flurry.com
 .vid-f1-us-va.adhigh.net
 .vid-f1-us-ca.adhigh.net
-.uthsc.co1.qualtrics.com
 .webads.tradeholding.com
-.yalepsych.qualtrics.com
 .start.corp.exoclick.com
 .virginia.demandbase.com
 .wifipasswordcracker.com
@@ -53889,7 +53314,6 @@
 .spug55000c.pubmatic.com
 .securityservicehome.com
 .web.vortex.data.msn.com
-.svoei.co1.qualtrics.com
 .startpornwebmasters.com
 .testnet-api.xmrpool.net
 .user1.brandreachsys.com
@@ -53930,7 +53354,6 @@
 .wearewolves-records.com
 .socialholic-d.openx.net
 .socialize.eu1.gigya.com
-.s1.b1-prv.qualtrics.com
 .servedby-buysellads.com
 .winesleuth.juicyads.com
 .stellacadentemaison.com
@@ -53940,7 +53363,6 @@
 .zs0414.mengchengbao.com
 .spotxchange-d.openx.net
 .vital.de.intellitxt.com
-.stedwards.qualtrics.com
 .sngmonitor01.amobee.com
 .trk.yjp.kissmetrics.com
 .spotifypremiumcodes.com
@@ -53952,7 +53374,6 @@
 .securenetworkforyou.com
 .securemetrics.apple.com
 .xxyyzz.youcanoptout.com
-.wcupa.co1.qualtrics.com
 .silverline.t.domdex.com
 .trk.cachemetracking.com
 .wiseguysbarandgrill.net
@@ -53966,7 +53387,6 @@
 .usb001.fgppchg.fgpp.com
 .vk-19.000webhostapp.com
 .videos.video-loader.com
-.tilburgss.qualtrics.com
 .videorvrcip.112.2o7.net
 .signin-authflow-inc.com
 .timeanddate-d.openx.net
@@ -53977,7 +53397,6 @@
 .yourvisionlifecoach.com
 .timeinc.trc.taboola.com
 .sv1-g018.intellitxt.com
-.uindy.co1.qualtrics.com
 .tribunemedia.demdex.net
 .tag.perfectaudience.com
 .uiservices.adtechus.com
@@ -54008,7 +53427,6 @@
 .tremor-match.dotomi.com
 .steam.cooldownloadz.com
 .steakhousehollister.com
-.wmsurveys.qualtrics.com
 .server8.opentracker.net
 .zooza.actonsoftware.com
 .secure.imrworldwide.com
@@ -54086,7 +53504,6 @@
 .transaction-secure8.com
 .transaction-secure7.com
 .stats62.stickyadstv.com
-.riotgames.qualtrics.com
 .service.persianstat.com
 .stats61.stickyadstv.com
 .stats60.stickyadstv.com
@@ -54102,7 +53519,6 @@
 .speednetwork4.adk2x.com
 .speednetwork3.adk2x.com
 .speednetwork2.adk2x.com
-.survey.eu.qualtrics.com
 .serviceitunescenter.com
 .trafficnetworkads24.com
 .tracker.myseofriend.net
@@ -54125,15 +53541,12 @@
 .specials-rewardpath.com
 .wallet.urbanairship.com
 .video-api.yql.yahoo.com
-.umengjmacs.m.taobao.com
 .servicesingnaletboa.com
 .wakeupseoconsultant.com
-.umichumhs.qualtrics.com
 .tradefx.advertserve.com
 .ws05.crypto.csgocpu.com
 .ws06.crypto.csgocpu.com
 .ws07.crypto.csgocpu.com
-.trade.co1.qualtrics.com
 .ws08.crypto.csgocpu.com
 .ws09.crypto.csgocpu.com
 .tracksongs.dhingana.com
@@ -54150,7 +53563,6 @@
 .tracking.spiderbait.com
 .ws42.crypto.csgocpu.com
 .sparkpeople-d.openx.net
-.slack.co1.qualtrics.com
 .ws48.crypto.csgocpu.com
 .tracking.rce.veeseo.com
 .ws49.crypto.csgocpu.com
@@ -54167,7 +53579,6 @@
 .tracking.lifescript.com
 .tango174.rtb.appier.net
 .tango229.rtb.appier.net
-.ungie.co1.qualtrics.com
 .telus.touchcommerce.com
 .video1.adprimemedia.com
 .wsw.ero-advertising.com
@@ -54183,7 +53594,6 @@
 .unifi.corp.exoclick.com
 .ziraatkazandiriyorr.com
 .tracking.experience.com
-.uvafeb.eu.qualtrics.com
 .stats51.stickyadstv.com
 .ziraat-bireyselsube.net
 .space.us.intellitxt.com
@@ -54327,7 +53737,6 @@
 .track.zulumarketing.com
 .static.trafficstars.com
 .verta-media-d.openx.net
-.sjusd.co1.qualtrics.com
 .www15.smartadserver.com
 .www15t.j8inn1zektoe.com
 .topeleven.newzgames.com
@@ -54351,9 +53760,7 @@
 .support-contact-pay.com
 .track.supersonicads.com
 .us.battle.net.a-wow.net
-.techsmith.qualtrics.com
 .skyde.touchcommerce.com
-.sifma.co1.qualtrics.com
 .zeppelin.nj3.amobee.com
 .vacation-guide-blog.com
 .supportapple-icloud.com
@@ -54373,13 +53780,11 @@
 .technology-revealed.com
 .royalmobi.go2affise.com
 .total.shanghaidaily.com
-.shusls.eu.qualtrics.com
 .support.sweepstakes.com
 .support.stickyadstv.com
 .total-media-d.openx.net
 .shueisha1.sc.omtrdc.net
 .santander-registros.com
-.uqbel.az1.qualtrics.com
 .suez-server.xpanama.net
 .sol-images.adbureau.net
 .touch.media-serving.com
@@ -54392,19 +53797,16 @@
 .zedo.sync.go.sonobi.com
 .v7event.stats.avast.com
 .shree17gamjainsamaj.org
-.uwlax.ca1.qualtrics.com
 .townhall.weekendinc.com
 .xcelwetsuits.btttag.com
 .suinformaciononline.net
 .www3.ihaberadserver.com
-.shipcn.eu.qualtrics.com
 .scripps.petametrics.com
 .sat1.prod.clicktale.net
 .sat2.prod.clicktale.net
 .sat3.prod.clicktale.net
 .www3.webhostingtalk.com
 .sat4.prod.clicktale.net
-.uwmadison.qualtrics.com
 .sat5.prod.clicktale.net
 .toyotaquebec.demdex.net
 .smellsliketeenpussy.com
@@ -54413,8 +53815,6 @@
 .screechingfurniture.com
 .sorteo-capraboacasa.com
 .xboxlivegoldforfree.com
-.uwoshkosh.qualtrics.com
-.uportland.qualtrics.com
 .xboxlive.legratuits.com
 .showcase.consumable.com
 .rotator.axiatraders.com
@@ -54426,7 +53826,6 @@
 .sonamguptabewafahai.xyz
 .uob-com-sg.b.appier.net
 .upload.mobpowertech.com
-.saxion.eu.qualtrics.com
 .saxoeverett.122.2o7.net
 .saxofosters.122.2o7.net
 .static-ssl.exoclick.com
@@ -54459,7 +53858,6 @@
 .vgtre.000webhostapp.com
 .scifz.saqibsiddiqui.com
 .seouldae.gosiwonnet.com
-.upenn.co1.qualtrics.com
 .shop.planet-tachyon.com
 .sciamglobal.112.2o7.net
 .vianeopets2.112.2o7.net
@@ -54473,7 +53871,6 @@
 .zam.horizonbeverage.org
 .schuh.widget.criteo.com
 .smrtpxl.advertising.com
-.strath.eu.qualtrics.com
 .rtb-useast-1.vizury.com
 .sony.jp.102.112.2o7.net
 .sonoma-wine-tasting.com
@@ -54505,7 +53902,6 @@
 .superaccountdigital.com
 .www-staging.bouncex.com
 .superlative-proffer.com
-.skillsoft.qualtrics.com
 .sentry.nullrefexcep.com
 .track.construclique.com
 .www-service-appleld.com
@@ -54520,7 +53916,6 @@
 .macnn.us.intellitxt.com
 .rendermedia-d.openx.net
 .renew-membership-ca.com
-.ipruc.co1.qualtrics.com
 .mackeeperapp.zeobit.com
 .porngeneratoraccess.com
 .mabanque-bnpparibas.net
@@ -54552,13 +53947,11 @@
 .popcapgames.122.2o7.net
 .pp-kundensicherheit.com
 .ppl0910-swtzlnd2018.com
-.isusa.az1.qualtrics.com
 .pprivate.suncappert.com
 .lpm-francetv.nuggad.net
 .lov-ms-epl-exchange.com
 .lovethispic-d.openx.net
 .lostartofbeingadame.com
-.itesm.co1.qualtrics.com
 .prebid-match.dotomi.com
 .looker.treasuredata.com
 .precheck-in.adsjudo.com
@@ -54587,7 +53980,6 @@
 .login.gammaplatform.com
 .print.khingtracking.com
 .logging5.truecaller.com
-.iupui.co1.qualtrics.com
 .pritambhattacharjee.com
 .iusacomlive.112.2o7.net
 .logger.sociablelabs.com
@@ -54642,7 +54034,6 @@
 .protection.bspolice.com
 .protection.btpolice.com
 .protection.bypolice.com
-.reporting.qualtrics.com
 .protection.capolice.com
 .protection.ccpolice.com
 .mailsrv02.macau.ctm.net
@@ -54718,13 +54109,10 @@
 .lingualeo.go2affise.com
 .proxy.ajcryptominer.com
 .lindsaykphotography.net
-.limra.co1.qualtrics.com
 .manageassistancelim.com
 .proxy2.nullrefexcep.com
 .proxy3.nullrefexcep.com
 .pnhdqltkumbyhqyrtqi.com
-.iwhca.ca1.qualtrics.com
-.iwhca.co1.qualtrics.com
 .management.exoclick.com
 .proxy5.nullrefexcep.com
 .proxy7.nullrefexcep.com
@@ -54765,7 +54153,6 @@
 .leader.linkexchange.com
 .jasper.d3.sc.omtrdc.net
 .ldschurch.tt.omtrdc.net
-.ldsbc.co1.qualtrics.com
 .publisher.permutive.com
 .manifest.localytics.com
 .jayanthyenterprises.com
@@ -54773,8 +54160,6 @@
 .rayofhopecounseling.org
 .ldcu.ca.102.112.2o7.net
 .raynanleannewedding.net
-.pucpr.co1.qualtrics.com
-.pucpr.us2.qualtrics.com
 .pug22000nc.pubmatic.com
 .pug33000nc.pubmatic.com
 .jcist.000webhostapp.com
@@ -54809,7 +54194,6 @@
 .laurahanly.robhanly.com
 .launchpoint.marketo.com
 .ranking.younetmedia.com
-.pvamu.co1.qualtrics.com
 .launchmedia-d.openx.net
 .random.pginludhiana.com
 .lat34.us.intellitxt.com
@@ -54818,7 +54202,6 @@
 .lastar.d1.sc.omtrdc.net
 .randmcnally.112.2o7.net
 .lastampa01.webtrekk.net
-.jhsph.co1.qualtrics.com
 .pxl.ace.advertising.com
 .ramadan.vallpros-as.com
 .rakutenkc.tt.omtrdc.net
@@ -54856,7 +54239,6 @@
 .kokyakusapotochekku.com
 .platinummotionmedia.com
 .platformone-d.openx.net
-.research1.qualtrics.com
 .platform.ifc.inmobi.com
 .kodipc.linkandzelda.com
 .invoicevieweronline.com
@@ -54872,7 +54254,6 @@
 .jpbrooksphotography.com
 .plain.bulkmediatory.com
 .r.browser.intl.miui.com
-.kentstate.qualtrics.com
 .pl9779798.puserving.com
 .pl9196122.puserving.com
 .pl9195688.puserving.com
@@ -54936,7 +54317,6 @@
 .js13.adlooxtracking.com
 .katariyaconsultancy.com
 .karenyauphotography.com
-.kansasedu.qualtrics.com
 .jsngupdwxeoa.uglyas.com
 .kampanyalar-maximum.com
 .kalinovsky-k.adsk2x.com
@@ -54988,17 +54368,14 @@
 .minionrush.freehakz.com
 .origin-ads.exdynsrv.com
 .myetherwalletsjoin1.com
-.originaz1.qualtrics.com
 .optimize.indieclick.com
 .onlinegames.admitad.com
-.originco1.qualtrics.com
 .optimize.buysellads.com
 .myetherwallet-ssign.top
 .mini1.corp.appnexus.com
 .myetherwalletverify.com
 .nl1.ero-advertising.com
 .origin-usweb.dotomi.com
-.originut1.qualtrics.com
 .nkdde.widget.criteo.com
 .pl.mysafesmartphone.com
 .my.effectivemeasure.net
@@ -55008,7 +54385,6 @@
 .my.pcsecurityshield.com
 .mojoworks.mediaplex.com
 .nbcu.tags.crwdcntrl.net
-.msudenver.qualtrics.com
 .modernenterprises97.com
 .oscae119.rtb.appier.net
 .oscar100.rtb.appier.net
@@ -55083,8 +54459,6 @@
 .mobil.gamepublicist.com
 .msbrandent.vo.llnwd.net
 .myetherwalletaccess.com
-.mylmu.co1.qualtrics.com
-.nbsntu.eu.qualtrics.com
 .mpx-dashboard.mopub.com
 .myetherwallet-coins.top
 .mobavenue.go2affise.com
@@ -55101,7 +54475,6 @@
 .mngislctrib.112.2o7.net
 .oncampusweb-d.openx.net
 .myntra.d1.sc.omtrdc.net
-.nbsnu.co1.qualtrics.com
 .nmanchorage.112.2o7.net
 .myonline-pillsstore.com
 .natgeophoto.112.2o7.net
@@ -55162,10 +54535,8 @@
 .oberoniplay.112.2o7.net
 .nikkei.d1.sc.omtrdc.net
 .nikerunning.112.2o7.net
-.milwaukee.qualtrics.com
 .netec.actonsoftware.com
 .nikegoddess.112.2o7.net
-.nifdi.az1.qualtrics.com
 .ntracking.optimatic.com
 .mii-image.adjuggler.com
 .oasn03.247realmedia.com
@@ -55183,7 +54554,6 @@
 .microsoft81.webnode.com
 .marketing.mtraction.com
 .pjlapparel.matainja.com
-.microsoft.qualtrics.com
 .netflix-authpayment.com
 .marketing.osijek031.com
 .p90xworkoutdownload.com
@@ -55193,10 +54563,8 @@
 .marketingd.modcloth.com
 .mgtricities.112.2o7.net
 .mgtbopanels.112.2o7.net
-.paceadmin.qualtrics.com
 .nhabe.widget.criteo.com
 .pacificgulfshipping.com
-.paded.co1.qualtrics.com
 .oascentral.townhall.com
 .oascentral.tophosts.com
 .oascentral.thespark.com
@@ -55208,7 +54576,6 @@
 .metrics.worldmarket.com
 .oascentral.surfline.com
 .oascentral.suntimes.com
-.marquette.qualtrics.com
 .mars.beautyspaguide.com
 .oascentral.stackmag.com
 .martinique-editions.com
@@ -55288,7 +54655,6 @@
 .pi9196122.puserving.com
 .mco-1-xcp.go.sonobi.com
 .mesdepromocoestotal.com
-.mercy.co1.qualtrics.com
 .oascentral.feedroom.com
 .mercury-int.marketo.com
 .phpoutsourcingindia.com
@@ -55314,7 +54680,6 @@
 .phonecommunications.com
 .phone-arena-d.openx.net
 .paypalenaktuhdisini.com
-.newschool.qualtrics.com
 .paypal-kundencenter.com
 .phoenix.polarmobile.com
 .media.hw.adxpansion.com
@@ -55370,7 +54735,6 @@
 .oasc03.247realmedia.com
 .oasc02.247realmedia.com
 .network.cpa.adthink.com
-.pennstate.qualtrics.com
 .network-marketing24.com
 .newegg.d1.sc.omtrdc.net
 .newdownloadhackfree.com
@@ -55391,7 +54755,6 @@
 .dreamdesignworkshop.com
 .drchx.000webhostapp.com
 .drawsomethingcheats.xyz
-.drake.az1.qualtrics.com
 .dragonstory.gamelum.com
 .dragoncityhacktools.com
 .dragoncityhackstool.net
@@ -55430,12 +54793,10 @@
 .easynet.pierre-lang.com
 .easypenetrationguys.com
 .host238.hostmonster.com
-.dmacc.co1.qualtrics.com
 .ebayssl.doubleclick.net
 .dm.journaldesfemmes.com
 .hioad.de.intellitxt.com
 .dlmag.us.intellitxt.com
-.himss.co1.qualtrics.com
 .himelsatellitecable.com
 .d-lacrosse.t.domdex.com
 .dkvdivdj.altervista.org
@@ -55481,7 +54842,6 @@
 .efiwc.saqibsiddiqui.com
 .disccglobal.112.2o7.net
 .hgopu.saqibsiddiqui.com
-.egade.co1.qualtrics.com
 .e-garantibonusflash.com
 .ehadvicedev.112.2o7.net
 .houseoffunfreecoins.xyz
@@ -55489,7 +54849,6 @@
 .howaboutwe.adlegend.com
 .howcanihackfacebook.com
 .ehg-autodesk.hitbox.com
-.dukefuqua.qualtrics.com
 .ehg-cbsradio.hitbox.com
 .digitalfirstonlines.net
 .ehg-comscore.hitbox.com
@@ -55511,7 +54870,6 @@
 .hexus.uk.intellitxt.com
 .hpn-collector.cliqz.com
 .dga.org.102.112.2o7.net
-.hpsupport.qualtrics.com
 .ehg-nokiafin.hitbox.com
 .ehg-oreilley.hitbox.com
 .ehg-pennwell.hitbox.com
@@ -55524,7 +54882,6 @@
 .ehg-sonyelec.hitbox.com
 .dev2.bullseyesaloon.com
 .dev1.redanchormedia.com
-.hrebay360.qualtrics.com
 .dev.a-t-martialarts.com
 .ehg-wachovia.hitbox.com
 .hrsde.widget.criteo.com
@@ -55541,7 +54898,6 @@
 .help-community.16mb.com
 .helpaccounts-safety.com
 .deniz-bireyselgiris.com
-.eller.co1.qualtrics.com
 .denizbankasiturkiye.com
 .elnuevosistemamundo.com
 .eluniversal-d.openx.net
@@ -55603,7 +54959,6 @@
 .face-book-app.dynv6.net
 .daostack.onuniverse.com
 .delta113.rtb.appier.net
-.etihad.eu.qualtrics.com
 .events.adwidecenter.com
 .icydk.us.intellitxt.com
 .customvideosolution.com
@@ -55621,7 +54976,6 @@
 .ichef.us.intellitxt.com
 .events.urbanairship.com
 .i3fresh-tw.b.appier.net
-.danariely.qualtrics.com
 .data2.perf.overture.com
 .iad01-usadmm.dotomi.com
 .dc40b24004fa11f35b7.com
@@ -55678,7 +55032,6 @@
 .icloudappleisupport.com
 .envgraffiti-d.openx.net
 .eu-aa.online-metrix.net
-.cuboulder.qualtrics.com
 .dabcc.us.intellitxt.com
 .data.eroadvertising.com
 .halkbireyselgirisim.com
@@ -55728,12 +55081,10 @@
 .dashboard.pubnative.net
 .dashboard.permutive.com
 .davidgroup.adlegend.com
-.delta.co1.qualtrics.com
 .dashboard.appsflyer.com
 .de.ssl.d1.sc.omtrdc.net
 .cyberport.tt.omtrdc.net
 .halkbankazandiriyor.com
-.erepublic.qualtrics.com
 .de.forums.vivogames.com
 .hanys.actonsoftware.com
 .data-service2.mopub.com
@@ -55765,7 +55116,6 @@
 .citrix.tradedoubler.com
 .criminalcase-cheats.com
 .creditbureauexperts.com
-.cisco.co1.qualtrics.com
 .fast.auspost.demdex.net
 .creatives.as4x.tmcs.net
 .fast.avalara.demdex.net
@@ -55775,9 +55125,7 @@
 .circuit.advertserve.com
 .free-social-buttons.com
 .free-social-buttons.xyz
-.cigna.co1.qualtrics.com
 .freesocialfollowers.net
-.ciena.co1.qualtrics.com
 .freesoftwarestation.com
 .fast.bestbuy.demdex.net
 .creative.demandbase.com
@@ -55810,7 +55158,6 @@
 .fast.fcaemea.demdex.net
 .friends.totallynsfw.com
 .fromfriendswithlove.com
-.grady.co1.qualtrics.com
 .fruitice.realnetwrk.com
 .fast.fonecta.demdex.net
 .fast.fordapa.demdex.net
@@ -55835,7 +55182,6 @@
 .fast.mmsngaa.demdex.net
 .fast.monster.demdex.net
 .counter7.sextracker.com
-.fullerton.qualtrics.com
 .info-online-account.net
 .infoprodigydelivery.com
 .counter5.sextracker.com
@@ -55925,7 +55271,6 @@
 .gdtapitest.mobvista.com
 .hackfacebookaccount.com
 .fb-security-central.xyz
-.insead.eu.qualtrics.com
 .geelitenet2.112.2o7.net
 .convnjmp.basebanner.com
 .insights.brightroll.com
@@ -56093,7 +55438,6 @@
 .flash.de.intellitxt.com
 .flash.sec.intl.miui.com
 .cellphoneincentives.com
-.gmcga.co1.qualtrics.com
 .gmdwimrt2t3.112.2o7.net
 .gulli.de.intellitxt.com
 .celebrityphotoleaks.com
@@ -56110,7 +55454,6 @@
 .cmisaludocupacional.com
 .cmd.hermes.wshareit.com
 .gntbcstkthv.112.2o7.net
-.fluke.co1.qualtrics.com
 .flw.ero-advertising.com
 .fnbc.ca.102.112.2o7.net
 .forbesautos.112.2o7.net
@@ -56120,7 +55463,6 @@
 .forms.touchcommerce.com
 .gntbcstkusa.112.2o7.net
 .gtaonlinemoneyhacks.com
-.foster360.qualtrics.com
 .gntbcstkxtv.112.2o7.net
 .gta5onlinemoneyhack.xyz
 .castleclashhacktool.com
@@ -56145,7 +55487,6 @@
 .gntbcstwltx.112.2o7.net
 .gntbcstwmaz.112.2o7.net
 .gntbcstwtlv.112.2o7.net
-.fq540.co1.qualtrics.com
 .gntbcstwtsp.112.2o7.net
 .cluster-03.topbucks.com
 .gntbcstwusa.112.2o7.net
@@ -56179,7 +55520,6 @@
 .client-fast.addthis.com
 .imtbc.actonsoftware.com
 .freecsgoknive.net16.net
-.goaaa.co1.qualtrics.com
 .imvucreditgenerator.org
 .investment-advisors.com
 .groupritm.go2affise.com
@@ -56291,7 +55631,6 @@
 .a2586.actonsoftware.com
 .bose.ca.102.112.2o7.net
 .ads1.virtual-nights.com
-.amazonde1.qualtrics.com
 .banners.linkbuddies.com
 .account.o.mouseflow.com
 .amazoncards.dlcodes.com
@@ -56360,7 +55699,6 @@
 .40-sm.000webhostapp.com
 .ads.profootballtalk.com
 .apiw-test.ensighten.com
-.bmwna.co1.qualtrics.com
 .api-visit.kameleoon.com
 .cdn-custom.optimonk.com
 .accuratecloudsistem.com
@@ -56399,7 +55737,6 @@
 .apicil.d1.sc.omtrdc.net
 .allgengamingservers.com
 .api-cache.adsnative.com
-.blueq.co1.qualtrics.com
 .cachebanners.toteme.com
 .cache.specificmedia.com
 .brainfocus-students.com
@@ -56431,7 +55768,6 @@
 .cache.brandreachsys.com
 .back1.brandreachsys.com
 .ca.ssl.d1.sc.omtrdc.net
-.akamaisan.qualtrics.com
 .a1011.actonsoftware.com
 .bravefrontiercheats.com
 .brave-frontier-hack.com
@@ -56465,7 +55801,6 @@
 .ads3.virtual-nights.com
 .420bankofwashington.com
 .brighthouse.122.2o7.net
-.alcoa.co1.qualtrics.com
 .activation.phaseone.com
 .aldec.actonsoftware.com
 .alembic-restoration.com
@@ -56477,7 +55812,6 @@
 .ads3-fo.stickyadstv.com
 .ads4.virtual-nights.com
 .ads.millionairemate.com
-.brown.co1.qualtrics.com
 .a3436.actonsoftware.com
 .ccrgaviscom.112.2o7.net
 .ads.mediamayhemcorp.com
@@ -56609,7 +55943,6 @@
 .businessedgeadvance.com
 .ads.airamericaradio.com
 .aolcamember.122.2o7.net
-.ascential.qualtrics.com
 .a5797.actonsoftware.com
 .business-rewardpath.com
 .ads.adstract.adsk2x.com
@@ -56654,7 +55987,6 @@
 .cdn.teamskeetimages.com
 .adobe.fisher-realty.org
 .ansell.d1.sc.omtrdc.net
-.adobe.co1.qualtrics.com
 .adserver01.ancestry.com
 .adnimation2-d.openx.net
 .3151.77152.blueseek.com
@@ -56752,7 +56084,6 @@
 .04.rt.nym2.appnexus.com
 .2b044210171c93629ae.com
 .adtago.s3.amazonaws.com
-.byuhi.az1.qualtrics.com
 .adashx4ae.ut.taobao.com
 .atmmg.fleastylehome.com
 .adaptv-match.dotomi.com
@@ -56806,10 +56137,8 @@
 .benchemail.bmetrack.com
 .ad26digital.checkm8.com
 .analytics.permutive.com
-.belron.eu.qualtrics.com
 .c.googlesyndication.com
 .ad25digital.checkm8.com
-.bellmedia.qualtrics.com
 .ad24digital.checkm8.com
 .analytics.nextmedia.com
 .ad23digital.checkm8.com
@@ -56919,14 +56248,12 @@
 .amkafka02.clicktale.net
 .amkafka01.clicktale.net
 .avordisseyerdkarine.com
-.amica.co1.qualtrics.com
 .barrio305.crwdcntrl.net
 .aegis.secure-orders.net
 .ad.sensismediasmart.com
 .01.lg.nrt1.appnexus.com
 .ad.sandbox.auditude.com
 .calvarychapelmacomb.com
-.acap.asia.qualtrics.com
 .01.lg.lax1.appnexus.com
 .acbookmacbookstoree.com
 .accaccessvalidation.com
@@ -56935,7 +56262,6 @@
 .awakeningthenations.com
 .americancareconcept.com
 .bannertest.adtechus.com
-.aetna.co1.qualtrics.com
 .a1392.actonsoftware.com
 .pl12573790.puserving.com
 .xn--myetherwalet-lcc.com
@@ -56956,7 +56282,6 @@
 .virginmobile.122.2o7.net
 .xn--myetherwalet-1fb.com
 .xn--myetherwale-jb9e.com
-.yalesurvey.qualtrics.com
 .teva.com.102.112.2o7.net
 .xn--mythrwallt-y7acf.com
 .xn--myetherwaet-v2ea.com
@@ -57001,7 +56326,6 @@
 .xn--mythrwallet-cvjc.com
 .rydium.us.intellitxt.com
 .xn--myeherwalle-zgii.com
-.usccollege.qualtrics.com
 .xn--myeherwalle-vici.com
 .xn--myeherwallet-v4i.com
 .rp-f5ddba66.crazyegg.com
@@ -57016,7 +56340,6 @@
 .xn--myeherwalle-6hci.com
 .xn--myethrwallt-fwkf.com
 .xn--myeherwalie-vici.com
-.utaustined.qualtrics.com
 .textads.adultadworld.com
 .xn--myethrwallt-fvjf.com
 .test.fireonlineradio.com
@@ -57024,7 +56347,6 @@
 .telemetry.sdk.inmobi.com
 .statse.webtrendslive.com
 .samsung-italy.demdex.net
-.uscuie.co1.qualtrics.com
 .xn--myethrwallt-fbbf.com
 .safe-es.imrworldwide.com
 .thesecuritymyaccount.org
@@ -57034,7 +56356,6 @@
 .xn--metherwallet-qlb.com
 .xn--myethrwallt-6qbf.com
 .thequiltmakersshoppe.com
-.uscviterbi.qualtrics.com
 .xn--metherwallet-iyi.com
 .users.effectivebrand.com
 .sinumvendo.go2affise.com
@@ -57043,7 +56364,6 @@
 .xn--metherwallet-hmb.com
 .rwjf.org.102.112.2o7.net
 .yeeeah.us.intellitxt.com
-.stjude.co1.qualtrics.com
 .stats.internet-yadro.com
 .stats.infogenservice.com
 .xn--mythrwallet-qpbc.com
@@ -57081,8 +56401,6 @@
 .xn--mythrwallet-pkjc.com
 .vr-services.outbrain.com
 .thekeyfinancialgroup.com
-.stthomasir.qualtrics.com
-.uqissr.co1.qualtrics.com
 .utils.bounceexchange.com
 .xn--myethrwallet-wck.com
 .soledadmedia-d.openx.net
@@ -57092,7 +56410,6 @@
 .xn--mythrwallet-obbc.com
 .technofizi.wigzopush.com
 .s1415903351.t.eloqua.com
-.uwlacrosse.qualtrics.com
 .xemtylecacuoc.bong99.com
 .xn--mythrwallet-0bbc.com
 .xn--mythrwallet-srbc.com
@@ -57100,7 +56417,6 @@
 .xn--myethrwallet-rub.com
 .xn--mythrwallet-hsbc.com
 .santaritadeouropreto.com
-.voccii.co1.qualtrics.com
 .ypufubegopem.mynetav.org
 .sn-mknodepub.marketo.com
 .touchclarity.natwest.com
@@ -57135,7 +56451,6 @@
 .rtb-lb-sjc.tubemogul.com
 .ussco5.actonsoftware.com
 .xn--myethrwallet-feb.com
-.tnccir.co1.qualtrics.com
 .xn--myethrwallet-dzi.com
 .upoznavanje-druzenje.com
 .ussco6.actonsoftware.com
@@ -57147,8 +56462,6 @@
 .videotroncom.112.2o7.net
 .xn--myethrwallet-5eb.com
 .xn--myethrwallet-0tb.com
-.rotman.az1.qualtrics.com
-.vmware.co1.qualtrics.com
 .xn--myethrewallt-fwb.com
 .stovallbaptistchurch.org
 .smurf.crypto.csgocpu.com
@@ -57166,7 +56479,6 @@
 .xboxlivecodesgratuit.com
 .xn--12c4bfj2hza1ioch.com
 .us-sonar.sociomantic.com
-.uwparkside.qualtrics.com
 .sixtde.widget.criteo.com
 .video-ua.adtelligent.com
 .vodafoneit.sc.omtrdc.net
@@ -57182,7 +56494,6 @@
 .xn--mytherwallet-peb.com
 .showads1065.pubmatic.com
 .showads1000.pubmatic.com
-.uxunbf.co1.qualtrics.com
 .xn--mythrwallt-fnbcf.com
 .xn--mythrwallt-1nbcf.com
 .savoybettingcustomer.com
@@ -57210,7 +56521,6 @@
 .stylecaster.t.domdex.com
 .xn--myetherwllet-o0l.com
 .sayac.onlinewebstats.com
-.s5gky9.az1.qualtrics.com
 .xn--myetherwllet-ncb.com
 .xn--mytherwallet-fvb.com
 .streamingvideoonline.net
@@ -57218,7 +56528,6 @@
 .xn--myetherwllet-mre.com
 .thatshowwerollalways.com
 .tearsheetstg.v.fwmrm.net
-.uthtmc.az1.qualtrics.com
 .xn--myetherwllet-ktd.com
 .sahabatsuksesbersama.com
 .sb1.aa.online-metrix.net
@@ -57283,7 +56592,6 @@
 .tomshw-it.intellitxt.com
 .sc-analytics.appspot.com
 .xn--mythrwallt-lsicf.com
-.zappos.az1.qualtrics.com
 .xn--myetherwallt-ovb.com
 .xn--myetherwallt-lsl.com
 .s1-tracking.adalyser.com
@@ -57295,7 +56603,6 @@
 .text-link-ads.ientry.com
 .track.attributionapp.com
 .xn--myetherwallt-fwb.com
-.uwehls.az1.qualtrics.com
 .tidbitscom.skimlinks.com
 .xn--myetherwallt-cfb.com
 .stats.thoughtcatalog.com
@@ -57306,7 +56613,6 @@
 .vid-f11-us-va.adhigh.net
 .vishwaweighingsystem.com
 .xn--myetherwallt-6tb.com
-.uwgreenbay.qualtrics.com
 .viagra-pill.blogspot.com
 .xn--myetherwallt-5wb.com
 .xn--myetherwallt-2ck.com
@@ -57325,19 +56631,15 @@
 .yncu.com.102.112.2o7.net
 .simple-share-buttons.com
 .xn--myetherwalet-mcc.com
-.zayoei.co1.qualtrics.com
 .volvog900002.112.2o7.net
 .xn--myetherwalet-whf.com
 .wwwnext.treasuredata.com
-.wsurec.co1.qualtrics.com
 .viaatomvideo.112.2o7.net
 .selfserve.buysellads.com
 .tracking.justpremium.com
 .sympmsnmusic.112.2o7.net
-.rogers.ca1.qualtrics.com
 .vast.bp3846806.btrll.com
 .scd.ingest.at.atwola.com
-.rogensi360.qualtrics.com
 .webmaster.utherverse.com
 .wetteronline-d.openx.net
 .track.eg-innovations.net
@@ -57350,7 +56652,6 @@
 .vast.bp3846885.btrll.com
 .undergroundcityphoto.com
 .zcontentlocker7gpa8a.xyz
-.westga.co1.qualtrics.com
 .tvnothbrwbsxkvmqvtfc.org
 .tv-now.us.intellitxt.com
 .restaurantemiramonte.com
@@ -57394,7 +56695,6 @@
 .www6.ad.tomshardware.com
 .u6091953.ct.sendgrid.net
 .vast-f7-us-va.adhigh.net
-.tamucc.co1.qualtrics.com
 .wabtec.actonsoftware.com
 .vast-f7-us-ca.adhigh.net
 .track.msadcenter.dgt.com
@@ -57424,7 +56724,6 @@
 .track.msadcenter.gdb.com
 .well12.000webhostapp.com
 .spdy-lb2.adsymptotic.com
-.scotiabank.qualtrics.com
 .tracking2.interweave.com
 .welcometokanyakumari.com
 .uojamcse.angelcities.com
@@ -57442,8 +56741,6 @@
 .zjjlf.croukwexdbyerr.net
 .track.msadcenter.iuf.com
 .track.msadcenter.iuh.com
-.uofeedback.qualtrics.com
-.tamuag.az1.qualtrics.com
 .track.msadcenter.izy.com
 .servicioclientepant8.com
 .track.msadcenter.jzz.com
@@ -57456,15 +56753,10 @@
 .scottishstuff-online.com
 .sladermobile-d.openx.net
 .services-rakutencard.com
-.umichpsych.qualtrics.com
 .track.msadcenter.kfz.com
-.wakeforest.qualtrics.com
 .sslclick.union.ucweb.com
-.walden.co1.qualtrics.com
-.umichadmin.qualtrics.com
 .services-associes-fr.com
 .webservices.sub2tech.com
-.surreyfbel.qualtrics.com
 .umbs.ero-advertising.com
 .zyngapokerchips4free.com
 .tallinksailja.demdex.net
@@ -57472,20 +56764,17 @@
 .twhg-com-tw.b.appier.net
 .ssl.xn--vqq79r59m.eu.org
 .scout.scoutanalytics.net
-.respect.eu.qualtrics.com
 .weeworldvipgenerator.com
 .track.msadcenter.krt.com
 .sentrix.wltechnology.com
 .track.msadcenter.llu.com
 .sscdn.banners.advidi.com
 .specialtyclub.hitbox.com
-.survey.az1.qualtrics.com
 .search.keywordblocks.com
 .secure.media6degrees.com
 .wedlock.j8inn1zektoe.com
 .track.msadcenter.ltp.com
 .track.msadcenter.lyv.com
-.survey.ca1.qualtrics.com
 .websnap-media.act-on.com
 .vast-f4-us-va.adhigh.net
 .services.ludokingapi.com
@@ -57511,7 +56800,6 @@
 .searchdirektproperty.com
 .survey.china.alibaba.com
 .track.msadcenter.qpz.com
-.survey.co1.qualtrics.com
 .ultimatefashiongifts.com
 .speednetwork13.adk2x.com
 .track.msadcenter.qru.com
@@ -57556,7 +56844,6 @@
 .spencergifts.112.2o7.net
 .track.msadcenter.vbd.com
 .transportationrouter.net
-.washington.qualtrics.com
 .zonasegura.bnenlinea.net
 .track.msadcenter.vcf.com
 .seccosquared-d.openx.net
@@ -57595,8 +56882,6 @@
 .track.msadcenter.zun.com
 .secure.leadforensics.com
 .track.msadcenter.zzv.com
-.tccolumbia.qualtrics.com
-.rhulsom.eu.qualtrics.com
 .trendmd.s3.amazonaws.com
 .ro.search.etargetnet.com
 .secure.marketengines.com
@@ -57617,7 +56902,6 @@
 .vacationinouterbanks.com
 .wlaptoplogic.122.2o7.net
 .tribal.us.intellitxt.com
-.wkwsci.co1.qualtrics.com
 .secure-cdn.mm.atwola.com
 .v-eu.amazon-adsystem.com
 .www2.ad.tomshardware.com
@@ -57634,7 +56918,6 @@
 .vcontent.e-messenger.net
 .secure-ebill.capcham.com
 .vast-f2-us-ca.adhigh.net
-.taxsurveys.qualtrics.com
 .server16.opentracker.net
 .z-fe.amazon-adsystem.com
 .server15.opentracker.net
@@ -57648,7 +56931,6 @@
 .uicivvoeglxnbthvevxs.com
 .vast-f2-us-va.adhigh.net
 .track12.offersbymail.com
-.valenciacc.qualtrics.com
 .wc3-soft.sbhmn-miner.com
 .sportingnews.122.2o7.net
 .scubadivingcabopulmo.com
@@ -57689,7 +56971,6 @@
 .target2-1.sfa34.smi2.net
 .security-alert.zs2vm.top
 .target2-1.sfa33.smi2.net
-.udsehd.co1.qualtrics.com
 .trustedirectdownload.com
 .target2-1.sfa27.smi2.net
 .servedby.dm3adserver.com
@@ -57720,7 +57001,6 @@
 .vast-rtb5.vertamedia.com
 .vast-rtb4.vertamedia.com
 .zimbra.corp.appnexus.com
-.united.co1.qualtrics.com
 .z-in.amazon-adsystem.com
 .swisscomag.tt.omtrdc.net
 .ww2837.smartadserver.com
@@ -57742,7 +57022,6 @@
 .web-ccfr.tsinghua.edu.cn
 .ww2060.smartadserver.com
 .ww2026.smartadserver.com
-.uclaed.co1.qualtrics.com
 .ww1972.smartadserver.com
 .ww1936.smartadserver.com
 .ww1755.smartadserver.com
@@ -57791,7 +57070,6 @@
 .seed-fra-3.inf.nimiq.net
 .tracking.autoscout24.com
 .seed-fra-4.inf.nimiq.net
-.riskey.az1.qualtrics.com
 .ziraatbankbireyselim.com
 .staging.elemental-id.com
 .ziraatbank-biryselim.com
@@ -57817,21 +57095,16 @@
 .vast-pop-zrh.mathtag.com
 .sworkitads.herokuapp.com
 .webgigashop.juicyads.com
-.tulane.co1.qualtrics.com
 .vast-pop-pao.mathtag.com
-.tulane.us2.qualtrics.com
 .vast-pop-ord.mathtag.com
 .vast-pop-ewr.mathtag.com
 .vast-pop-ams.mathtag.com
 .sejabemvindoaofuturo.com
 .tuning.de.intellitxt.com
 .webiq005.webiqonline.com
-.uberdc.co1.qualtrics.com
 .turcotteconstruction.com
 .tracking.ibexnetwork.com
-.unicatt.eu.qualtrics.com
 .turnerapac.hb.omtrdc.net
-.unibocconi.qualtrics.com
 .turnerapac.sc.omtrdc.net
 .vast.adsafeprotected.com
 .turnersports.112.2o7.net
@@ -57885,11 +57158,9 @@
 .milb.com.102.112.2o7.net
 .organicbeautyminispa.com
 .kbnbusinesssolutions.com
-.mijted.co1.qualtrics.com
 .neteco.fr.intellitxt.com
 .kijods.000webhostapp.com
 .optimize.doubleclick.net
-.middlebury.qualtrics.com
 .muffia.brandreachsys.com
 .kingspointhrtraining.com
 .origin-static.exosrv.com
@@ -57905,7 +57176,6 @@
 .microsofteup.112.2o7.net
 .kat-ads.torrenticity.com
 .kitenservicecontrole.com
-.msucoe.az1.qualtrics.com
 .kkbyrd.000webhostapp.com
 .opointop2015.112.2o7.net
 .links.industrybrains.com
@@ -57927,16 +57197,12 @@
 .rbmods.se.intellitxt.com
 .mybuys-misc.t.domdex.com
 .jailbreakios8forfree.com
-.qtrial2010.qualtrics.com
 .mgjournalnow.112.2o7.net
-.qtrial2011.qualtrics.com
 .pacificcannabusiness.com
-.qtrial2012.qualtrics.com
 .pacificmediaservices.com
 .rbsm-ameli-moncompte.com
 .packsaddlefellowship.com
 .mexxde.widget.criteo.com
-.qtrial2013.qualtrics.com
 .oascentral.travelzoo.com
 .qtsnpacuqtiadxudotkc.com
 .kanjoya.d1.sc.omtrdc.net
@@ -57959,7 +57225,6 @@
 .page-update-id458102.com
 .jacknravenpublishing.com
 .metrics.windowsitpro.com
-.kubota.az1.qualtrics.com
 .msgoldcodes.epickeys.com
 .ja.support.appsflyer.com
 .metrics.traderonline.com
@@ -58002,7 +57267,6 @@
 .panel.followcampaign.com
 .oascentral.recordnet.com
 .over50datingservices.com
-.panera.co1.qualtrics.com
 .metrics.impactengine.com
 .iz319xlstbsqs34623cb.com
 .quickbeatmedia.adk2x.com
@@ -58023,7 +57287,6 @@
 .lachhmandasjewellers.com
 .overstockcom.112.2o7.net
 .parafparahalkbankasi.com
-.lafayettec.qualtrics.com
 .lafuma.widget.criteo.com
 .promo4.brandreachsys.com
 .promo3.brandreachsys.com
@@ -58073,15 +57336,12 @@
 .project2.realtracker.com
 .monetization-d.openx.net
 .latency.ttrraacckkrr.com
-.monashmnhs.qualtrics.com
-.monash.az1.qualtrics.com
 .monade.widget.criteo.com
 .re-acc.000webhostapp.com
 .oascentral.laptopmag.com
 .online-denizbanka-tr.com
 .onlinebusiness-coach.com
 .pvtrainingpascuallab.com
-.momcentral.qualtrics.com
 .laughtersoundhealing.com
 .metric.marthastewart.com
 .jttecnologiaaplicada.com
@@ -58124,7 +57384,6 @@
 .merian.de.intellitxt.com
 .mobile.activeshopper.com
 .lbcpzonasegvraviabcp.com
-.purdue.ca1.qualtrics.com
 .oascentral.emedicine.com
 .oascentral.emarketer.com
 .purchase-information.com
@@ -58163,7 +57422,6 @@
 .pudads.g.doubleclick.net
 .ombannasevasamitiraj.org
 .privilegebedroomlate.xyz
-.omagic.az1.qualtrics.com
 .pubmatic-cm.p.veruta.com
 .myvelocityconsulting.com
 .n01d05.cumulus-cloud.com
@@ -58182,10 +57440,8 @@
 .leagueoflegends-hack.com
 .logging.trakingpixel.com
 .jore.fortunersanjaya.com
-.okstatecoe.qualtrics.com
 .nab-activation-login.com
 .radicalwealthformula.com
-.naccho.co1.qualtrics.com
 .radiomilha.webradioo.net
 .pub.geodns.tubemogul.com
 .ivid-f2-us-va.adhigh.net
@@ -58201,7 +57457,6 @@
 .loginaccount.web-vip.com
 .oascentral.aircanada.com
 .leguide.d3.sc.omtrdc.net
-.lehigh.co1.qualtrics.com
 .nata.ero-advertising.com
 .lelong.000webhostapp.com
 .natgeoeditco.112.2o7.net
@@ -58271,7 +57526,6 @@
 .psnlivecodegenerator.com
 .redefine2.hit.stat24.com
 .nbcuniversal.122.2o7.net
-.loyola.co1.qualtrics.com
 .psncodegeneratorstar.com
 .peachtreepropainters.net
 .netzathleten-d.openx.net
@@ -58289,9 +57543,7 @@
 .media-dc6.msg.dotomi.com
 .psncodecardgenerator.com
 .jeibpremiumdownloads.com
-.pplweb.co1.qualtrics.com
 .owpuuzea.angelcities.com
-.novell.az1.qualtrics.com
 .pl12578521.puserving.com
 .pl13430041.puserving.com
 .o.data.mistat.xiaomi.com
@@ -58361,7 +57613,6 @@
 .pixel-origin.mathtag.com
 .mansik.000webhostapp.com
 .newjobs.d1.sc.omtrdc.net
-.pepperdine.qualtrics.com
 .pl11288811.puserving.com
 .pl13048019.puserving.com
 .lucid8.actonsoftware.com
@@ -58500,10 +57751,8 @@
 .ns2.primeinteractive.net
 .maishaera.agnesscott.org
 .portal.touchcommerce.com
-.nlpsych.eu.qualtrics.com
 .report.hb.brainlyads.com
 .p-lb5.eu.adsymptotic.com
-.nusbschool.qualtrics.com
 .pl12617646.puserving.com
 .mash10.de.intellitxt.com
 .relay-ks.ads.httpool.com
@@ -58581,7 +57830,6 @@
 .pl12347762.puserving.com
 .pl12723681.puserving.com
 .p-lb9.eu.adsymptotic.com
-.mcgillmgmt.qualtrics.com
 .pl11854705.puserving.com
 .pl12646052.puserving.com
 .mcdp-chidc2.outbrain.com
@@ -58784,7 +58032,6 @@
 .csoonlinecom.112.2o7.net
 .ifc2.vip.dfw1.inmobi.com
 .ifc2.vip.hkg1.inmobi.com
-.csujmc.co1.qualtrics.com
 .ifc2.vip.lhr1.inmobi.com
 .ifc2-vip-dfw1.inmobi.com
 .ifc2-vip-hkg1.inmobi.com
@@ -58872,7 +58119,6 @@
 .image.click.livedoor.com
 .data.ero-advertising.com
 .conf.dco.advertising.com
-.conduenthr.qualtrics.com
 .com-vertivysigninout.net
 .iam-agof-app.irquest.com
 .computertechanalysis.com
@@ -58891,7 +58137,6 @@
 .images.f.switchadhub.com
 .images.g.switchadhub.com
 .images.h.switchadhub.com
-.communicus.qualtrics.com
 .images.people2people.com
 .267-mbo-390.mktoresp.com
 .system-page-recovery.com
@@ -58911,7 +58156,6 @@
 .datt.ero-advertising.com
 .daua.ero-advertising.com
 .hyundai-com.b.appier.net
-.dauphinem1.qualtrics.com
 .d-autoparts.t.domdex.com
 .dava.ero-advertising.com
 .colormatchingcabinet.com
@@ -58925,7 +58169,6 @@
 .hyderabadpestcontrol.com
 .dca-rtbprod.applovin.com
 .cognitiveintegration.com
-.dc-viawest.qualtrics.com
 .hwusdi.000webhostapp.com
 .codghostprestigehack.com
 .de.ssl-paypalservice.com
@@ -58960,7 +58203,6 @@
 .clubpenguingenerator.com
 .clubmed.d1.sc.omtrdc.net
 .import.globalsources.com
-.cloudfront.qualtrics.com
 .cloud.rubiconproject.com
 .cloud.pdf.sukunstays.com
 .impression.appsflyer.com
@@ -59008,11 +58250,9 @@
 .deltaairlines.btttag.com
 .integration.connatix.com
 .chosecontrolyourself.xyz
-.horizon.eu.qualtrics.com
 .clashofclanscheaters.com
 .click.rubiconproject.com
 .intelcorpcim.112.2o7.net
-.choate.co1.qualtrics.com
 .clashofclans.htlwlnk.com
 .hotstar.worldgravity.com
 .dero.crypto-webminer.com
@@ -59023,12 +58263,10 @@
 .chilyregistrycleaner.com
 .domoproduct3.112.2o7.net
 .donefe.000webhostapp.com
-.clarku.co1.qualtrics.com
 .hsadmin.clickability.com
 .chiccocarseatreviews.com
 .cetelem.d3.sc.omtrdc.net
 .intensedigital.adk2x.com
-.chicagogsb.qualtrics.com
 .dotmatrix.indiatimes.com
 .hometrendsdinnerware.org
 .d-furniture.t.domdex.com
@@ -59058,7 +58296,6 @@
 .centroculturaloneway.org
 .discovercard.112.2o7.net
 .centreforhealingarts.com
-.centre.co1.qualtrics.com
 .download-cool-j-apps.com
 .internetlifemagazine.com
 .cheatpointsgenerator.com
@@ -59087,12 +58324,10 @@
 .downloads.localytics.com
 .cdsusa.veinteractive.com
 .chaturbatetokenhacks.com
-.cityss.az1.qualtrics.com
 .displayincloud.adk2x.com
 .downtownturkeytravel.com
 .infowebmasterworking.com
 .disputed-payypaallcs.com
-.dpsk12.co1.qualtrics.com
 .disputed-payypalidcs.com
 .hotelominternational.com
 .dqxaszsk.angelcities.com
@@ -59101,7 +58336,6 @@
 .clickttest3.sbx1.2o7.net
 .dragoncity.hack-team.org
 .dragoncity.newzgames.com
-.citrix.co1.qualtrics.com
 .dragoncitycheatstool.com
 .distribuidorasantana.com
 .chatrouter-skyde.inq.com
@@ -59280,7 +58514,6 @@
 .ehg-foxsports.hitbox.com
 .fast.aiagroup.demdex.net
 .fast.alitalia.demdex.net
-.georgetown.qualtrics.com
 .fast.allstate.demdex.net
 .fast.riverbed.demdex.net
 .ehg-futurepub.hitbox.com
@@ -59314,7 +58547,6 @@
 .fast.cardgage.demdex.net
 .ecommercesalessystem.com
 .ehg-maplesoft.hitbox.com
-.govexe.co1.qualtrics.com
 .dungeonrampage.haxdo.com
 .hacktopelevenmanager.com
 .duplicatefilecleaner.com
@@ -59351,7 +58583,6 @@
 .gpalmerandassociates.com
 .gcirm.thejournalnews.com
 .ehg-sonymusic.hitbox.com
-.hdrinc.co1.qualtrics.com
 .foxtrot26.rtb.appier.net
 .espndotcom.tt.omtrdc.net
 .foxtrot25.rtb.appier.net
@@ -59391,7 +58622,6 @@
 .forium.de.intellitxt.com
 .e.serverdomain.adk2x.com
 .freemicrosoftpointsx.net
-.gatech.co1.qualtrics.com
 .gata.ero-advertising.com
 .electroneum.monerise.com
 .forexgrand.go2affise.com
@@ -59417,7 +58647,6 @@
 .flugde.widget.criteo.com
 .fluentd.treasuredata.com
 .eagle-eyephotography.com
-.guidestone.qualtrics.com
 .floridayachtpartners.com
 .event.headline.uodoo.com
 .flipflopsarenotshoes.com
@@ -59471,7 +58700,6 @@
 .expressaffiliatesite.com
 .fullscreen.hb.omtrdc.net
 .ext.privacyassistant.net
-.employment.qualtrics.com
 .fullfreeversiongames.com
 .extra.eboundservices.com
 .116-nem-031.mktoresp.com
@@ -59483,7 +58711,6 @@
 .112-tzm-766.mktoresp.com
 .cdn.banner.thumbplay.com
 .123-qsb-470.mktoresp.com
-.boisestate.qualtrics.com
 .cdn.altitudeplatform.com
 .126-nhq-240.mktoresp.com
 .126-quf-067.mktoresp.com
@@ -59504,7 +58731,6 @@
 .bos-tapreq05.jumptap.com
 .400-dky-698.mktoresp.com
 .bos-tapreq06.jumptap.com
-.bocconi360.qualtrics.com
 .bos-tapreq07.jumptap.com
 .127-gri-621.mktoresp.com
 .bos-tapreq08.jumptap.com
@@ -59547,11 +58773,9 @@
 .385-xnb-580.mktoresp.com
 .410-dob-331.mktoresp.com
 .105-lyu-731.mktoresp.com
-.boydei.co1.qualtrics.com
 .384-cei-001.mktoresp.com
 .410-tua-880.mktoresp.com
 .410-xav-850.mktoresp.com
-.bmoete.co1.qualtrics.com
 .bpczonasegura.vaibcq.com
 .105-ign-300.mktoresp.com
 .411-mkx-040.mktoresp.com
@@ -59579,7 +58803,6 @@
 .101-wmj-500.mktoresp.com
 .101-vix-260.mktoresp.com
 .374-wes-121.mktoresp.com
-.bloomu.az1.qualtrics.com
 .131-syo-861.mktoresp.com
 .131-uks-131.mktoresp.com
 .cdn.libraries.inpwrd.com
@@ -59673,7 +58896,6 @@
 .089-igw-950.mktoresp.com
 .baseballheroes.haxdo.com
 .carmichaelroofinginc.com
-.baruch.az1.qualtrics.com
 .23904.measurementapi.com
 .09.git.fra1.appnexus.com
 .casatunes-miembrosid.com
@@ -59689,7 +58911,6 @@
 .439-esm-690.mktoresp.com
 .cdn.usabilitytracker.com
 .233-kml-790.mktoresp.com
-.calvin.co1.qualtrics.com
 .233-baj-050.mktoresp.com
 .320-kog-016.mktoresp.com
 .231-ugb-380.mktoresp.com
@@ -59699,7 +58920,6 @@
 .bapi.adsafeprotected.com
 .4travel.d1.sc.omtrdc.net
 .230-rag-970.mktoresp.com
-.belkin.co1.qualtrics.com
 .323-ltc-321.mktoresp.com
 .229-etb-130.mktoresp.com
 .cdn1.steelhousemedia.com
@@ -59718,7 +58938,6 @@
 .500-wpw-632.mktoresp.com
 .223-hwy-680.mktoresp.com
 .480-lwa-970.mktoresp.com
-.calpolycba.qualtrics.com
 .299-kii-331.mktoresp.com
 .01.kdc.sin1.appnexus.com
 .calouskype.over-blog.com
@@ -59862,7 +59081,6 @@
 .cdn.www1.pip-pip-pop.com
 .beacon.richrelevance.com
 .cdn-config.taplytics.com
-.canterbury.qualtrics.com
 .188-vdu-360.mktoresp.com
 .cbtsleb.imrworldwide.com
 .268-gvp-131.mktoresp.com
@@ -59972,7 +59190,6 @@
 .cac-api.urbanairship.com
 .171-ttg-631.mktoresp.com
 .445-vta-460.mktoresp.com
-.bchrma.az1.qualtrics.com
 .142-dfr-556.mktoresp.com
 .516-ghi-083.mktoresp.com
 .494-ony-660.mktoresp.com
@@ -60061,7 +59278,6 @@
 .a15406.actonsoftware.com
 .babycenter.tt.omtrdc.net
 .adx.callback.batmobi.net
-.babycenter.qualtrics.com
 .a15364.actonsoftware.com
 .524-euc-041.mktoresp.com
 .babyboomernetworking.org
@@ -60108,7 +59324,6 @@
 .ai062.insightexpress.com
 .ai087.insightexpress.com
 .aimbothack.sharezips.net
-.airbnb.co1.qualtrics.com
 .a10442.actonsoftware.com
 .a10222.actonsoftware.com
 .a10186.actonsoftware.com
@@ -60228,7 +59443,6 @@
 .945-cxd-062.mktoresp.com
 .addelivery.thestreet.com
 .942-typ-900.mktoresp.com
-.asi360.co1.qualtrics.com
 .addshoppers.t.domdex.com
 .ad-ettoday.cdn.hinet.net
 .939-paz-320.mktoresp.com
@@ -60306,7 +59520,6 @@
 .analytics.userreport.com
 .8cc5ff581a88.bitsngo.net
 .analyze.urbanairship.com
-.anbank.co1.qualtrics.com
 .582-ill-550.mktoresp.com
 .898-kgx-150.mktoresp.com
 .ads.dijitalvarliklar.com
@@ -60640,7 +59853,6 @@
 .adserver.hardsextube.com
 .772-kgg-249.mktoresp.com
 .772-goh-920.mktoresp.com
-.aptmetrics.qualtrics.com
 .ap-sonar.sociomantic.com
 .adserver.hk.outblaze.com
 .api.behavioralengine.com
@@ -60663,7 +59875,6 @@
 .adserver.oddschecker.com
 .adserver.online-tech.com
 .adserver.onwisconsin.com
-.atrial.az1.qualtrics.com
 .761-ibl-328.mktoresp.com
 .aprana.000webhostapp.com
 .adserver.phillyburbs.com
@@ -60748,7 +59959,6 @@
 .api-eu.gameanalytics.com
 .adserving.autotrader.com
 .680-onc-130.mktoresp.com
-.aurora.co1.qualtrics.com
 .538-dcx-400.mktoresp.com
 .538-rzf-930.mktoresp.com
 .a18863.actonsoftware.com
@@ -60878,7 +60088,6 @@
 .intern.atlassolutions.com
 .duanbatdongsanvincity.com
 .consultationdesmssger.com
-.illinoislas.qualtrics.com
 .ilinks.industrybrains.com
 .ferrago.uk.intellitxt.com
 .global.crypto.csgocpu.com
@@ -60886,7 +60095,6 @@
 .dtias.adsafeprotected.com
 .dt.fw.adsafeprotected.com
 .content.brandreachsys.com
-.dsuoiea.co1.qualtrics.com
 .interaction.permutive.com
 .interac.refund-canada.com
 .hkgstage-rtb.applovin.com
@@ -60951,7 +60159,6 @@
 .instagram-nameservers.com
 .geoip.businessinsider.com
 .facebookhackerpro2013.com
-.hofstra.co1.qualtrics.com
 .facebookhackingtricks.com
 .instagram-checker-log.com
 .goto.mystreamdelivery.xyz
@@ -61033,7 +60240,6 @@
 .garanti-internetgiris.com
 .domaindevcorp-d.openx.net
 .domain7.actonsoftware.com
-.cttamus.co1.qualtrics.com
 .dojqwugnjqawjenqwdasd.com
 .garage.rubiconproject.com
 .e1475741074.mtraction.com
@@ -61116,7 +60322,6 @@
 .edifylearning-primary.net
 .hieruu.apicultoresweb.com
 .dispatcher-bsy.c360dn.com
-.dishvoc.co1.qualtrics.com
 .europe.adserver.yahoo.com
 .cluster3.adultadworld.com
 .discount-savings-more.com
@@ -61239,7 +60444,6 @@
 .ellosse.widget.criteo.com
 .click.playstationmail.net
 .freeinvisiblecounters.com
-.denison.co1.qualtrics.com
 .click.startappservice.com
 .denguru.us.intellitxt.com
 .elpix01.touchcommerce.com
@@ -61286,7 +60490,6 @@
 .freeclubnintendocoins.com
 .fast.condenast.demdex.net
 .growth-flexvprosystem.com
-.deloittesea.qualtrics.com
 .hacks-keygen-betakeys.com
 .hearthstonebetakeygen.com
 .fast.daimlerag.demdex.net
@@ -61315,7 +60518,6 @@
 .delivery.yourfuckbook.com
 .coxmediagroup-d.openx.net
 .delivery.trafficjunky.net
-.humutah.co1.qualtrics.com
 .hundund.de.intellitxt.com
 .delivery.trafficforce.com
 .fast.homedepot.demdex.net
@@ -61408,8 +60610,6 @@
 .iad01-bfp02.mediaplex.com
 .data18.adlooxtracking.com
 .iad01-login-ds.dotomi.com
-.cocacola360.qualtrics.com
-.imperial.eu.qualtrics.com
 .iad02-bfp01.mediaplex.com
 .data17.adlooxtracking.com
 .iad02-login-ds.dotomi.com
@@ -61439,7 +60639,6 @@
 .foxnews.us.intellitxt.com
 .iad08-login-ds.dotomi.com
 .guthyrenker.tt.omtrdc.net
-.fiserv2.co1.qualtrics.com
 .iad09-bfp01.mediaplex.com
 .iad09-bfp02.mediaplex.com
 .iad09-login-ds.dotomi.com
@@ -61454,7 +60653,6 @@
 .coldclad.com.warganis.com
 .iad12-login-ds.dotomi.com
 .imeds.ero-advertising.com
-.colgate.co1.qualtrics.com
 .findmyiphone-accounts.com
 .everythingyoga.btttag.com
 .imces.vip.lhr1.inmobi.com
@@ -61513,7 +60711,6 @@
 .complex.us.intellitxt.com
 .complex-media-d.openx.net
 .compnet.us.intellitxt.com
-.comptia.co1.qualtrics.com
 .computernama.ownsthis.com
 .imageresizer.shoelace.com
 .daniweb.us.intellitxt.com
@@ -61594,7 +60791,6 @@
 .nycp-hlb.dvgtm.akadns.net
 .kfz-net-de.intellitxt.com
 .optimized-by.vitalads.net
-.memphis.co1.qualtrics.com
 .optimizedby.brealtime.com
 .kgohter.hugwerasoting.com
 .orders.rubiconproject.com
@@ -61603,7 +60799,6 @@
 .realestate2.deshmedia.com
 .oreck.com.102.112.2o7.net
 .qlipsodigital.checkm8.com
-.oregonstate.qualtrics.com
 .ivid-f35-us-va.adhigh.net
 .m.servedby-buysellads.com
 .media.adcentriconline.com
@@ -61663,7 +60858,6 @@
 .ivid-f29-us-va.adhigh.net
 .ivid-f29-us-ca.adhigh.net
 .mejoratuvidaconmozart.com
-.pbcusei.co1.qualtrics.com
 .ivid-f28-us-va.adhigh.net
 .poslovno-pregovaranje.com
 .ivid-f28-us-ca.adhigh.net
@@ -61677,7 +60871,6 @@
 .kolloryfejsa.blogspot.com
 .ivid-f26-us-va.adhigh.net
 .kolorowy-f-b.blogspot.com
-.pgatour.co1.qualtrics.com
 .pc1-collect.tealiumiq.com
 .ivid-f26-us-ca.adhigh.net
 .pftdxepbgk.yaminahmad.com
@@ -61751,7 +60944,6 @@
 .redstats1.stickyadstv.com
 .lookbookhq.demandbase.com
 .looker.bounceexchange.com
-.mpsresearch.qualtrics.com
 .outcome.supersonicads.com
 .poweronemedia.122.2o7.net
 .ivid-f17-us-va.adhigh.net
@@ -61839,7 +61031,6 @@
 .mon-ageznces1-clients.com
 .onlinefacebookhacking.com
 .qw2-we.cashixirbozdur.com
-.latrobe.co1.qualtrics.com
 .lau4.slot.union.ucweb.com
 .launch.adserver.yahoo.com
 .mojotest.la.mediaplex.com
@@ -61860,7 +61051,6 @@
 .mobile9.us.intellitxt.com
 .mobile.whitelabelpros.com
 .invite.eu.crittercism.com
-.onetech.co1.qualtrics.com
 .research.urbanairship.com
 .js-api-docs.mouseflow.com
 .inyour.atlassolutions.com
@@ -61874,7 +61064,6 @@
 .js.betburdaaffiliates.com
 .omnitraining3.112.2o7.net
 .mysavings.directtrack.com
-.pulteta.co1.qualtrics.com
 .nqs-wdc1.youboranqs01.com
 .mlcache.brandreachsys.com
 .platinumadvertisement.com
@@ -61940,7 +61129,6 @@
 .n8-aux-log.vertamedia.com
 .n9-aux-log.vertamedia.com
 .joinhandsorganization.com
-.radford.co1.qualtrics.com
 .report.mitsubishicars.com
 .join.pro-gaming-world.com
 .johnvarvatos.adlegend.com
@@ -62003,8 +61191,6 @@
 .oascentral.lifetimetv.com
 .rentbigscreensnewyork.com
 .nissanusa.102.112.2o7.net
-.liberty.co1.qualtrics.com
-.ndstate.co1.qualtrics.com
 .oddbanner.bet-at-home.com
 .manifest.or1.auditude.com
 .pluralsight.hb.omtrdc.net
@@ -62101,7 +61287,6 @@
 .ir-jp.amazon-adsystem.com
 .jade853gmbh.tt.omtrdc.net
 .pixel-apc.adsymptotic.com
-.govexec.co1.qualtrics.com
 .oascentral.thephoenix.com
 .pixel1739.everesttech.net
 .pixel1553.everesttech.net
@@ -62169,7 +61354,6 @@
 .metrics.dailystrength.org
 .matchflow-31.t.domdex.com
 .para-sante-moins-cher.com
-.nwciowa.co1.qualtrics.com
 .piratercomptefacebook.com
 .matchflow-54.t.domdex.com
 .matchflow-59.t.domdex.com
@@ -62187,12 +61371,10 @@
 .matchflow-84.t.domdex.com
 .mathid-origin.mathtag.com
 .newsoxy.us.intellitxt.com
-.maverik.co1.qualtrics.com
 .maxdome.touchcommerce.com
 .pinecliffspremierclub.com
 .lmsmithomo.altervista.org
 .maxgrow1.d1.sc.omtrdc.net
-.mnstate.co1.qualtrics.com
 .partnersupport.tapjoy.com
 .registros-saintandera.com
 .registerguard-d.openx.net
@@ -62203,7 +61385,6 @@
 .lo0.br2.lax1.appnexus.com
 .metok-ccc.intl.xiaomi.com
 .metlife.touchcommerce.com
-.metlife.co1.qualtrics.com
 .pictures.myownnewpics.com
 .popdirt.us.intellitxt.com
 .popfill.us.intellitxt.com
@@ -62223,7 +61404,6 @@
 .videos.exchange4media.com
 .zxzx2.mapworldmall.com.cn
 .rugab-negab-2017.16mb.com
-.tmobile.co1.qualtrics.com
 .triggers1.wfxtriggers.com
 .wbprocurement.112.2o7.net
 .secure-encryption-ama.com
@@ -62254,7 +61434,6 @@
 .siteanalytics.compete.com
 .vast-f28-us-ca.adhigh.net
 .sync.adsrvmedia.adk2x.com
-.yeshiva.co1.qualtrics.com
 .uat-console.mtraction.com
 .rtb-central1.p.veruta.com
 .thelocalsearchnetwork.com
@@ -62270,7 +61449,6 @@
 .tutorabc-com.b.appier.net
 .static.l3.cdn.adsucks.com
 .themodernwarfare3hack.net
-.uitutah.co1.qualtrics.com
 .retarget.ssl-services.com
 .turnerclassic.112.2o7.net
 .selectairconditioning.com
@@ -62281,8 +61459,6 @@
 .sirdata-auto.t.domdex.com
 .tribalfusion.speedera.net
 .retg.ambient-platform.com
-.ubcarts.ca1.qualtrics.com
-.wharton_360.qualtrics.com
 .s2s-canary.quantserve.com
 .snapservice.webengage.com
 .stabilityappointdaily.xyz
@@ -62292,7 +61468,6 @@
 .vast-f27-us-va.adhigh.net
 .youtrack.ops.connatix.com
 .users.ero-advertising.com
-.ubisoft.ca1.qualtrics.com
 .traffiqexchange.adk2x.com
 .wldcu.com.102.112.2o7.net
 .xn--yetherwallet-634f.com
@@ -62307,7 +61482,6 @@
 .uc.csc.adserver.yahoo.com
 .userdocs.urbanairship.com
 .thesimpsons.newzgames.com
-.ucdavis.co1.qualtrics.com
 .whenwordscountretreat.com
 .service-paypal.provab.com
 .ujikogt.000webhostapp.com
@@ -62357,7 +61531,6 @@
 .tsxclub.us.intellitxt.com
 .static.analytics-site.com
 .ringcentral.tt.omtrdc.net
-.stanfordgsb.qualtrics.com
 .ter2018.000webhostapp.com
 .yapikredibankasii2018.com
 .stanzapub.advertserve.com
@@ -62385,7 +61558,6 @@
 .vast-f23-us-va.adhigh.net
 .status.rubiconproject.com
 .vast-f35-us-va.adhigh.net
-.udmercy.co1.qualtrics.com
 .virginmedia.tt.omtrdc.net
 .vast-f23-us-ca.adhigh.net
 .t1runde.widget.criteo.com
@@ -62435,7 +61607,6 @@
 .vast-f20-us-va.adhigh.net
 .s01-delivery.addynamo.net
 .servedby2.advertising.com
-.uthscsa.co1.qualtrics.com
 .saber46.000webhostapp.com
 .visualagesachievement.org
 .us-east.load.exelator.com
@@ -62448,8 +61619,6 @@
 .winebear.domainleader.net
 .vast-f31-us-ca.adhigh.net
 .vast-f11-us-ca.adhigh.net
-.tabbank.co1.qualtrics.com
-.searshc.co1.qualtrics.com
 .zs0412.lianxinfoundry.com
 .zs0408.lianxinfoundry.com
 .xyxudubax.angelcities.com
@@ -62473,7 +61642,6 @@
 .vast-f10-us-va.adhigh.net
 .services.webspectator.com
 .xn--mytherwallet-2d6f.com
-.txstate.co1.qualtrics.com
 .xn--myethrwllet-2kb3p.com
 .vast-f18-us-va.adhigh.net
 .static.realemoexposed.com
@@ -62520,7 +61688,6 @@
 .ziraat-onlinebankaclk.net
 .xn--myeterwallet-jl6c.com
 .sf-3.east.kobenetwork.com
-.webster.co1.qualtrics.com
 .ymail-activate1.bugs3.com
 .webuser.uk.intellitxt.com
 .xn--myeherwallet-vk5f.com
@@ -62560,7 +61727,6 @@
 .wvwv.telescreditoscbp.com
 .verification-cuentass.com
 .tracking.aimediagroup.com
-.vodafone.eu.qualtrics.com
 .xn--cointeegraph-wz4f.com
 .xn--coinelegraph-wk5f.com
 .soda-finance.t.domdex.com
@@ -62570,7 +61736,6 @@
 .stats2.radiocompanion.com
 .vast-f17-us-va.adhigh.net
 .toc.googlesyndication.com
-.uweauclaire.qualtrics.com
 .todaymediainc-d.openx.net
 .sgali-mcs.byteoversea.com
 .tofurkey.urbanairship.com
@@ -62636,7 +61801,6 @@
 .supporthelp-instagram.com
 .stats.merriam-webster.com
 .view-pdf-onlineoffice.com
-.topgolf.co1.qualtrics.com
 .samsung-france.demdex.net
 .techspotcom.skimlinks.com
 .track.toroadvertising.com
@@ -62647,7 +61811,6 @@
 .samsung-poland.demdex.net
 .stoves.bioenergylists.org
 .software.software-now.net
-.topline.co1.qualtrics.com
 .sports.rubiconproject.com
 .track.roularta.adhese.com
 .zer0day.000webhostapp.com
@@ -62657,7 +61820,6 @@
 .sanchristiankouakoume.com
 .sandbox.actonsoftware.com
 .welcomehomespecialist.com
-.uscmarshall.qualtrics.com
 .stats.groupninetyfour.com
 .tc2east.touchcommerce.com
 .track.msadcenter.zvjw.com
@@ -62691,7 +61853,6 @@
 .track.msadcenter.tirj.com
 .thebosh.us.intellitxt.com
 .techguy.us.intellitxt.com
-.uttyler.az1.qualtrics.com
 .system5.snv.mediaplex.com
 .tgdaily.us.intellitxt.com
 .ussco41.actonsoftware.com
@@ -62727,7 +61888,6 @@
 .stats.airfarewatchdog.com
 .scprtrs.000webhostapp.com
 .track.msadcenter.lngl.com
-.uwsssap.co1.qualtrics.com
 .track.msadcenter.kpuo.com
 .showads55000.pubmatic.com
 .showads44000.pubmatic.com
@@ -62756,9 +61916,7 @@
 .track.msadcenter.igzr.com
 .track.msadcenter.hnsl.com
 .respro.softhofhosting.com
-.uoguelph.eu.qualtrics.com
 .static-serving.sonobi.com
-.workiva.co1.qualtrics.com
 .track.msadcenter.gmiy.com
 .saxotelegraph.122.2o7.net
 .scotia1-verifications.com
@@ -62784,7 +61942,6 @@
 .sneckershatch.5gbfree.com
 .sonycorporate.112.2o7.net
 .www6.effectivemeasure.net
-.teamone.co1.qualtrics.com
 .shopping.d1.sc.omtrdc.net
 .track.msadcenter.ajfy.com
 .track.msadcenter.afgz.com
@@ -62814,7 +61971,6 @@
 .restapi.actonsoftware.com
 .ussco24.actonsoftware.com
 .wwwservicemerchandise.com
-.rohoinc.co1.qualtrics.com
 .superficial.crwdcntrl.net
 .weltonline01.webtrekk.net
 .rogersmedia.hb.omtrdc.net
@@ -62857,7 +62013,6 @@
 .american-express-1v3a.com
 .anonymousdemographics.com
 .309171.measurementapi.com
-.americanbar.qualtrics.com
 .307499.measurementapi.com
 .307209.measurementapi.com
 .307163.measurementapi.com
@@ -62925,7 +62080,6 @@
 .184245.measurementapi.com
 .183597.measurementapi.com
 .182841.measurementapi.com
-.bentley.co1.qualtrics.com
 .american-express-s43d.com
 .adserver.outpersonals.com
 .181569.measurementapi.com
@@ -63319,7 +62473,6 @@
 .ams03-bfp01.mediaplex.com
 .aprotes.000webhostapp.com
 .b5media.us.intellitxt.com
-.bancvue.co1.qualtrics.com
 .api.browser.intl.miui.com
 .1scotia-verifications.com
 .ams02-bfp02.mediaplex.com
@@ -63353,13 +62506,11 @@
 .blacktail-enterprises.com
 .airline-ticket.gloses.net
 .ballarddesigns.btttag.com
-.aramark.co1.qualtrics.com
 .balcaounicodoadvogado.com
 .lifelock.touchcommerce.com
 .js.stats.g.doubleclick.net
 .gonow003.000webhostapp.com
 .internationaltransfers.org
-.centrify.ca1.qualtrics.com
 .internet-onlinemusteri.com
 .globeandmail.tt.omtrdc.net
 .goldstandardwheyreview.com
@@ -63613,7 +62764,6 @@
 .ots.optimize.webtrends.com
 .lcp0rkyg-site.1tempurl.com
 .protectionupdatecenter.com
-.micronee.co1.qualtrics.com
 .ktmforum.de.intellitxt.com
 .messagerie-sfr-payment.com
 .prostitutki-rostova.ru.com
@@ -63623,9 +62773,7 @@
 .mitv.tracking.rus.miui.com
 .miuiboot.tracking.miui.com
 .intermix.us.intellitxt.com
-.kpmgrisk.co1.qualtrics.com
 .oss-survey.marketscore.com
-.lifelock.co1.qualtrics.com
 .koshishinclusiveschool.org
 .oss-crules.marketscore.com
 .proveedores.rednavemar.com
@@ -63695,7 +62843,6 @@
 .mobile.ace.advertising.com
 .orange181.godaddysites.com
 .mobile.adsafeprotected.com
-.qmulsciences.qualtrics.com
 .project.adlooxtracking.com
 .pages-actv2016.twomini.com
 .orange.fr-votreopinion.xyz
@@ -63706,7 +62853,6 @@
 .mobile-lfree.fr-molass.com
 .metrics.divinecaroline.com
 .metrics.crystalcruises.com
-.lawrence.co1.qualtrics.com
 .law-enforcement-bot-ff.xyz
 .lmts9wsw-site.1tempurl.com
 .kentsucks.youcanoptout.com
@@ -63716,7 +62862,6 @@
 .mobsafe.update.360safe.com
 .live-cams-1.livejasmin.com
 .limited-updatesaccount.com
-.laureate.co1.qualtrics.com
 .micrsoftupgradex.1apps.com
 .kennisiscottagerentals.com
 .mapstats82.stickyadstv.com
@@ -63839,7 +62984,6 @@
 .newscode.de.intellitxt.com
 .oascentral.dailybreeze.com
 .oberonincredig.112.2o7.net
-.itesmdaf.co1.qualtrics.com
 .remotead-internal.cnet.com
 .oascentral.dailyherald.com
 .oascentral.forsythnews.com
@@ -63851,7 +62995,6 @@
 .oascentral.hamptoroads.com
 .resolve-account-id-665.com
 .openx.engagedmediamags.com
-.region13.co1.qualtrics.com
 .ivid-f51-de-tmp.adhigh.net
 .remove-limited-account.com
 .register.xmpush.xiaomi.com
@@ -63865,7 +63008,6 @@
 .nitori-net-tw.b.appier.net
 .mydhlpackage.southtoch.com
 .ivid-f54-de-tmp.adhigh.net
-.reportingapi.qualtrics.com
 .ne1.ap.nexus.ensighten.com
 .qualico4.actonsoftware.com
 .novaonxsupport.novaonx.com
@@ -63880,12 +63022,10 @@
 .ndata04.adlooxtracking.com
 .nature.org.102.112.2o7.net
 .obi.addesk.advertising.com
-.qualtrics360.qualtrics.com
 .ivid-f57-de-tmp.adhigh.net
 .nintoucha.matinkimiaco.com
 .reporting.treasuredata.com
 .registry-error-cleaner.com
-.research.co1.qualtrics.com
 .nissan.ua.d1.sc.omtrdc.net
 .newark.com.102.112.2o7.net
 .myjaketonline.2343sdxs.com
@@ -63932,7 +63072,6 @@
 .objects.designbloxlive.com
 .omniture.artinstitutes.edu
 .nissanhelios-sa.demdex.net
-.olinbusiness.qualtrics.com
 .izitracking.izimailing.com
 .js.ads.ero-advertising.com
 .rainb00-scama.revupnet.com
@@ -63973,7 +63112,6 @@
 .oascentral.thepostgame.com
 .oascentral.tvnewscheck.com
 .ne6.ap.nexus.ensighten.com
-.rainking.co1.qualtrics.com
 .relativityincorporated.com
 .quickpwn.us.intellitxt.com
 .juwelode.widget.criteo.com
@@ -64059,7 +63197,6 @@
 .sandbox.vip.uj1.inmobi.com
 .ww16-eqx.smartadserver.com
 .tracking.admarketplace.net
-.unitedci.co1.qualtrics.com
 .ww55-eqx.smartadserver.com
 .sandbox.api.demandbase.com
 .topspeed.us.intellitxt.com
@@ -64113,7 +63250,6 @@
 .txn-report.crittercism.com
 .txn.ingest.crittercism.com
 .scrippshgtvpro.112.2o7.net
-.typesafe.co1.qualtrics.com
 .xn--metherwallt-79a30a.com
 .srv-corp01.corp.sonobi.com
 .twitter-srv.buysellads.com
@@ -64127,7 +63263,6 @@
 .xn--myetewallet-cm8e5y.com
 .sensisaustralia.demdex.net
 .xn--myetherwlet-48a42j.com
-.weinberg.co1.qualtrics.com
 .xn--myetherwlle-jb9e0y.com
 .xn--myethewalet-ns8eqq.com
 .xn--myethrwalet-6qb77c.com
@@ -64162,12 +63297,10 @@
 .westendwhingers.aoredi.com
 .westernunion.tt.omtrdc.net
 .westernuniondepartment.com
-.uarizona.co1.qualtrics.com
 .tvcmarketingassociates.org
 .scirakkers.webcindario.com
 .shop.fangiobrokeraggio.com
 .westwickfarrow.122.2o7.net
-.schulich.co1.qualtrics.com
 .westyorkshire.juicyads.com
 .xqwwjyxm.000webhostapp.com
 .ssp-service.vertamedia.com
@@ -64192,7 +63325,6 @@
 .webiainteractive.adk2x.com
 .whatsmyfoodintolerance.com
 .webforbiz.j8inn1zektoe.com
-.webercoe.co1.qualtrics.com
 .timerealsimple.112.2o7.net
 .whitehorsetechnologies.net
 .whiteoakhighschool1969.com
@@ -64237,7 +63369,6 @@
 .steviachacraelcomienzo.com
 .socialheat.younetmedia.com
 .similac.ca.102.112.2o7.net
-.trueblue.co1.qualtrics.com
 .y8enyebzzs.kcwludhiana.org
 .virusdetection.com-one.net
 .winboard.de.intellitxt.com
@@ -64245,9 +63376,7 @@
 .securev4vcapi.adcolony.com
 .tr-subesi-bireysel-teb.com
 .stat.mediation.batmobi.net
-.virginiatech.qualtrics.com
 .yakimavalleykennelclub.com
-.virginia.ca1.qualtrics.com
 .windsprocentral.aoredi.com
 .virginaustralia.demdex.net
 .wine-pictures.juicyads.com
@@ -64272,9 +63401,7 @@
 .ybhssnaemxyer.cinci.rr.com
 .wayne213.000webhostapp.com
 .stg.widget.crowdignite.com
-.wlupsych.co1.qualtrics.com
 .waves.retentionscience.com
-.stgallen.co1.qualtrics.com
 .secure.sweetasianjuice.com
 .scanwith.us.intellitxt.com
 .spixel.adsafeprotected.com
@@ -64312,7 +63439,6 @@
 .spherecontent.outbrain.com
 .theforce.us.intellitxt.com
 .seccdn-gl.imrworldwide.com
-.washjeff.co1.qualtrics.com
 .washingtonpost-d.openx.net
 .seaworldparks.adlegend.com
 .sitereports.officelive.com
@@ -64345,7 +63471,6 @@
 .vidstest3.d1.sc.omtrdc.net
 .vidstest2.d1.sc.omtrdc.net
 .vidstest1.d1.sc.omtrdc.net
-.scouting.co1.qualtrics.com
 .temp-p4.eu.adsymptotic.com
 .syndication.site.yahoo.net
 .vastproxy.brand.inmobi.com
@@ -64361,7 +63486,6 @@
 .sync.content.intl.miui.com
 .temp-p2.eu.adsymptotic.com
 .testlyr22000c.pubmatic.com
-.syngenta.co1.qualtrics.com
 .rtb-useast.kobenetwork.com
 .sts.qadynamics.marketo.com
 .temp-p1.eu.adsymptotic.com
@@ -64400,12 +63524,10 @@
 .zonasguraviabcp.dvoper.com
 .talentum225720.112.2o7.net
 .reveetracking.outbrain.com
-.vcupsych.co1.qualtrics.com
 .revenue-agency-refunde.com
 .restapi2.actonsoftware.com
 .sync.adserver.juicyads.com
 .videodownloadconverter.com
-.tabcorp2.au1.qualtrics.com
 .talktalk.touchcommerce.com
 .surpreen19.sslblindado.com
 .snapchat-save.blogspot.com
@@ -64414,14 +63536,12 @@
 .uunyadgda1.doubleclick.net
 .uunyadgds1.doubleclick.net
 .varsityads.directtrack.com
-.vantedge.co1.qualtrics.com
 .vantage.rubiconproject.com
 .telemetry.malwarebytes.com
 .ytiud.hentaiwonderland.com
 .ziraatbankonline-esube.com
 .ziraat-bagiskampanyasi.com
 .surebaby.us.intellitxt.com
-.uwalumni.co1.qualtrics.com
 .telechargementspremium.com
 .ziffdaviseweek.112.2o7.net
 .verify-account-suspend.com
@@ -64433,7 +63553,6 @@
 .valkorsgoldmakingguide.com
 .tataunistore.tt.omtrdc.net
 .veritasim.d1.sc.omtrdc.net
-.valdosta.co1.qualtrics.com
 .techzine.nl.intellitxt.com
 .zeusnews.it.intellitxt.com
 .techspot.us.intellitxt.com
@@ -64449,14 +63568,12 @@
 .v8engine.pinsightmedia.com
 .techgage.us.intellitxt.com
 .tech-faq.us.intellitxt.com
-.techdata.co1.qualtrics.com
 .techblog.smartadserver.com
 .zealot-sports.t.domdex.com
 .zealotnetworks-d.openx.net
 .smdrsdcollegepathankot.com
 .roskatrack.roskadirect.com
 .rosettastone.tt.omtrdc.net
-.vibetrak.co1.qualtrics.com
 .summary-accountsupport.com
 .smsmarket.goforandroid.com
 .teamtalk.uk.intellitxt.com
@@ -64471,7 +63588,6 @@
 .viaarena.us.intellitxt.com
 .intergi-sb-ec.adtechus.com
 .vilaghelyzete.blogspot.com
-.deloitte.co1.qualtrics.com
 .com-informasion-verify.org
 .banners.absolpublisher.com
 .52uo5k3t73ypjije.das34.com
@@ -64487,7 +63603,6 @@
 .banners-gallery.coccoc.com
 .avycaz.com.102.112.2o7.net
 .4thegame.uk.intellitxt.com
-.basemark.co1.qualtrics.com
 .avonproductsinc.demdex.net
 .battlefield4.sharezips.net
 .battlefieldheroeshacks.com
@@ -64519,7 +63634,6 @@
 .bcpzonaseguras.viacbpc.com
 .autodiscover.mediaplex.com
 .autodiscover.acuityads.com
-.autodesk.co1.qualtrics.com
 .autocarcomprod.112.2o7.net
 .autoblog.de.intellitxt.com
 .autobild.de.intellitxt.com
@@ -64536,7 +63650,6 @@
 .bellserviceeng.112.2o7.net
 .audi.co.uk.102.112.2o7.net
 .bengkelcatmobiltangsel.com
-.auckland.au1.qualtrics.com
 .benzinga.us.intellitxt.com
 .bangolufsen004.112.2o7.net
 .bangolufsen002.112.2o7.net
@@ -64556,7 +63669,6 @@
 .beta.mobileapptracking.com
 .beta-adserver.adtechus.com
 .betanews.us.intellitxt.com
-.asumlftc.co1.qualtrics.com
 .betterhealtheverywhere.com
 .b9-as-imp.tribalfusion.com
 .b9-eu-imp.tribalfusion.com
@@ -64597,12 +63709,9 @@
 .432825806.search.media.net
 .arena.altitudeplatform.com
 .archive.exchange4media.com
-.blackrock360.qualtrics.com
 .aquasoft.us.intellitxt.com
 .5vorflug.touchcommerce.com
-.blizzard.co1.qualtrics.com
 .appwall.ad.intl.xiaomi.com
-.appstate.az1.qualtrics.com
 .bloggernetwork-d.openx.net
 .bloomingtonoptometrist.com
 .appscout.us.intellitxt.com
@@ -64624,7 +63733,6 @@
 .901openyourmin4success.com
 .bsnj.eyeblaster.akadns.net
 .applebilling.officessl.com
-.american.co1.qualtrics.com
 .883205.fls.doubleclick.net
 .anncowan.000webhostapp.com
 .bynewnjfv.fgppchg.fgpp.com
@@ -64750,7 +63858,6 @@
 .api-lax1.touchcommerce.com
 .akorenramizefendiyurdu.com
 .akamedia.000webhostapp.com
-.akamaisecure.qualtrics.com
 .api-east.touchcommerce.com
 .377372876.search.media.net
 .3456.eurtb.adtelligent.com
@@ -64763,7 +63870,6 @@
 .analytics.cloud.online.net
 .advertisingcom.122.2o7.net
 .adxrtb-eu.tribalfusion.com
-.agrilife.az1.qualtrics.com
 .690327.fls.doubleclick.net
 .agreement7.gdmachinery.net
 .690341.fls.doubleclick.net
@@ -64778,7 +63884,6 @@
 .alopezie.de.intellitxt.com
 .aertb001.000webhostapp.com
 .6i7s83jk7q.kandisweets.com
-.anupsych.co1.qualtrics.com
 .americanfriendsofreuth.org
 .brazilairporttransfers.com
 .ampedmedia.directtrack.com
@@ -64791,7 +63896,6 @@
 .bukalapak-com.b.appier.net
 .amoxicillin.ourtablets.com
 .alliancehealth-d.openx.net
-.cambridge.eu.qualtrics.com
 .adstalkmedia.go2affise.com
 .ads-sg-aws.adsymptotic.com
 .caribbeanguestservices.com
@@ -64876,7 +63980,6 @@
 .ab163949.adbutler-kaon.com
 .abnehmen.de.intellitxt.com
 .abo.prismamediadigital.com
-.aboutloyalty.qualtrics.com
 .cdn3.mobile.contentdef.com
 .abtracker.adultbouncer.com
 .abutil01.touchcommerce.com
@@ -64885,7 +63988,6 @@
 .accel-fp.online-metrix.net
 .accessusa.d1.sc.omtrdc.net
 .acckalaharinet.112.2o7.net
-.accolade.co1.qualtrics.com
 .ad.jp.ap.valuecommerce.com
 .account-acces-security.com
 .account-service-update.com
@@ -64988,7 +64090,6 @@
 .downloadultimatehacker.com
 .downloadsfreesoftwares.com
 .holidayshoppingrewards.com
-.holleran.co1.qualtrics.com
 .dv-nagios.clickability.com
 .homedepotmobile.btttag.com
 .homeelectronicproducts.com
@@ -65088,7 +64189,6 @@
 .data138.adlooxtracking.com
 .dealmanager.buysellads.com
 .entegra.ca.102.112.2o7.net
-.hcentive.co1.qualtrics.com
 .data137.adlooxtracking.com
 .iad07-usadmm-ds.dotomi.com
 .data136.adlooxtracking.com
@@ -65100,7 +64200,6 @@
 .iad08-usadmm-ds.dotomi.com
 .data135.adlooxtracking.com
 .everybodylovesfreeware.net
-.encuesta.co1.qualtrics.com
 .help-upp.000webhostapp.com
 .iad09-usadmm-ds.dotomi.com
 .desksupportmanagements.com
@@ -65115,7 +64214,6 @@
 .everydayhealth-d.openx.net
 .iad11-usadmm-ds.dotomi.com
 .data131.adlooxtracking.com
-.enbridge.ca1.qualtrics.com
 .iad12-usadmm-ds.dotomi.com
 .everyjoe.us.intellitxt.com
 .healthmarkets.adlegend.com
@@ -65172,7 +64270,6 @@
 .data120.adlooxtracking.com
 .hdlife-com-tw.b.appier.net
 .data119.adlooxtracking.com
-.cvscaremark1.qualtrics.com
 .ehg-coverityinc.hitbox.com
 .data118.adlooxtracking.com
 .datas10.adlooxtracking.com
@@ -65203,7 +64300,6 @@
 .halkinbankasi-halkbank.com
 .data108.adlooxtracking.com
 .cuoieria.widget.criteo.com
-.delaware.ca1.qualtrics.com
 .data107.adlooxtracking.com
 .culturallifeconnection.org
 .cuidandoaquiennoscuida.com
@@ -65240,7 +64336,6 @@
 .delivery.d.switchadhub.com
 .dinaspeternakanjombang.com
 .ehg-accuweather.hitbox.com
-.csbsutah.co1.qualtrics.com
 .epay-clientesv3-0range.com
 .ehg-247internet.hitbox.com
 .halkbank-bireysel-sube.com
@@ -65251,17 +64346,14 @@
 .halkbank-bireyselesube.com
 .directoryclothingspace.com
 .datas02.adlooxtracking.com
-.ensignal.co1.qualtrics.com
 .datas01.adlooxtracking.com
 .direitoaverdade.nevusp.org
 .editorial-stg.outbrain.com
 .id-service-information.net
-.dcccdoir.co1.qualtrics.com
 .farcbook.000webhostapp.com
 .fashion.youthdeveloper.com
 .datamark.actonsoftware.com
 .editorial-qa2.outbrain.com
-.edgewood.co1.qualtrics.com
 .crmbuyer.us.intellitxt.com
 .datam26.adlooxtracking.com
 .datam25.adlooxtracking.com
@@ -65276,7 +64368,6 @@
 .creditdamageconsultant.com
 .creditcards-com.demdex.net
 .creditcardscom.112.2o7.net
-.dcccdnlc.co1.qualtrics.com
 .hoteltechinternational.com
 .higherone.d1.sc.omtrdc.net
 .fast.bankraykat.demdex.net
@@ -65295,19 +64386,16 @@
 .delivery.trafficbroker.com
 .cpp-test.imp.mpx.mopub.com
 .hotel-las-vegas.gloses.net
-.etisalat.au1.qualtrics.com
 .highlandscoffee.adsota.com
 .fast.extraspace.demdex.net
 .datam16.adlooxtracking.com
 .datam15.adlooxtracking.com
-.highmark.co1.qualtrics.com
 .fast.fca-global.demdex.net
 .districtm-match.dotomi.com
 .datam14.adlooxtracking.com
 .ecruises.touchcommerce.com
 .datam13.adlooxtracking.com
 .datam12.adlooxtracking.com
-.facebook.co1.qualtrics.com
 .fra-lb6.eu.adsymptotic.com
 .confirm-account-locked.com
 .correcoesb.sslblindado.com
@@ -65342,7 +64430,6 @@
 .filesfordownloadfaster.com
 .forms-verizon-test.inq.com
 .com-morningstar.netmng.com
-.flcities.co1.qualtrics.com
 .coffeewholesale.btttag.com
 .fast.netcentric.demdex.net
 .fls-fe.amazon-adsystem.com
@@ -65372,10 +64459,8 @@
 .convert.bounceexchange.com
 .data126.adlooxtracking.com
 .fast.sagagroup1.demdex.net
-.fdupsych.co1.qualtrics.com
 .img-origin.trafficshop.com
 .fast.samsungsec.demdex.net
-.collincc.co1.qualtrics.com
 .filmstew.us.intellitxt.com
 .cluesnetwork.sc.omtrdc.net
 .fra-lb8.eu.adsymptotic.com
@@ -65408,7 +64493,6 @@
 .fast.versacespa.demdex.net
 .computernetworksonline.com
 .content.cpxinteractive.com
-.fitpsych.co1.qualtrics.com
 .fast.vodafonecz.demdex.net
 .fast.vodafonegr.demdex.net
 .ihg.activate.ensighten.com
@@ -65473,14 +64557,12 @@
 .in-automate.sendinblue.com
 .click.virt.exacttarget.com
 .gresiksuzukisatriaclub.com
-.grenoble.co1.qualtrics.com
 .freemicrosoftpoints4me.com
 .click.get-answers-fast.com
 .freemicrosoftpointsgen.com
 .cli.m.ambient-platform.com
 .incredbile.tintubright.com
 .clean.api.hermesccloud.com
-.claytonstate.qualtrics.com
 .greeninggreatertoronto.com
 .independentirl-d.openx.net
 .freeminecraftaccountsz.com
@@ -65543,7 +64625,6 @@
 .gcirm.theithacajournal.com
 .gearburn.za.intellitxt.com
 .insanity2.thezeroworld.com
-.chicagobooth.qualtrics.com
 .govtech-m.clickability.com
 .govtech-c.clickability.com
 .govolode.widget.criteo.com
@@ -65734,7 +64815,6 @@
 .glb-ads.atwola.adtechjp.com
 .hjhqmbxyinislkkt.1dvqvh.top
 .glasses.com.102.112.2o7.net
-.ihsmarkit.co1.qualtrics.com
 .hjhqmbxyinislkkt.1dq6nd.top
 .gjincscobleizer.112.2o7.net
 .fastclick.com.edgesuite.net
@@ -65757,9 +64837,6 @@
 .intbrands-shop.t.domdex.com
 .intbrands-home.t.domdex.com
 .hjhqmbxyinislkkt.1acfka.top
-.driscolls.co1.qualtrics.com
-.dresearch.co1.qualtrics.com
-.changevoc.co1.qualtrics.com
 .hjhqmbxyinislkkt.1accfa.top
 .hjhqmbxyinislkkt.1aamtz.top
 .hjhqmbxyinislkkt.1aajb7.top
@@ -65850,7 +64927,6 @@
 .geegee803.000webhostapp.com
 .chicagosuntimes.122.2o7.net
 .fansites.tags.crwdcntrl.net
-.chichpscyh.eu.qualtrics.com
 .download.realtimegaming.com
 .cs.prd.msys.playstation.net
 .fast.torontostar.demdex.net
@@ -65918,7 +64994,6 @@
 .gpapermobile184.112.2o7.net
 .gpapermobile214.112.2o7.net
 .hostboard.us.intellitxt.com
-.cphtemple.co1.qualtrics.com
 .fast.fandangollc.demdex.net
 .fast.junkeemedia.demdex.net
 .fast.findomestic.demdex.net
@@ -65987,7 +65062,6 @@
 .clashofclanshacksonline.com
 .ei.imbucurator-de-prost.com
 .details.com.102.112.2o7.net
-.henryford.co1.qualtrics.com
 .desv383oqqc0.cloudfront.net
 .hrv-forum.de.intellitxt.com
 .cld.edg.startappservice.com
@@ -66006,7 +65080,6 @@
 .in-cdn.effectivemeasure.net
 .ellusakit.000webhostapp.com
 .freeitunescodegenerator.com
-.hsualumni.co1.qualtrics.com
 .click.sellmeyourtraffic.com
 .demo.firefighterpreplan.com
 .click1.email.nymagazine.com
@@ -66028,10 +65101,8 @@
 .freedom.com.102.112.2o7.net
 .freecounterstrikeserver.com
 .heatmaps.beta.smartlook.com
-.imshealth.co1.qualtrics.com
 .clientlog.portal.office.com
 .heatmaps.alfa.smartlook.com
-.entrematic360.qualtrics.com
 .entrepreneurpoc.122.2o7.net
 .hudsonvalleygraphicsvip.com
 .hufimezaj.000webhostapp.com
@@ -66052,7 +65123,6 @@
 .clubmed-com-tw.b.appier.net
 .clubpenguin.validcheats.com
 .lifemobile.d1.sc.omtrdc.net
-.erepublic.co1.qualtrics.com
 .franzisde.widget.criteo.com
 .gsiccbmocaprdi2.112.2o7.net
 .gsiccbmousprdi2.112.2o7.net
@@ -66079,7 +65149,6 @@
 .hwe-forum-de.intellitxt.com
 .e-statement.vallpros-as.com
 .foxsports.us.intellitxt.com
-.imoderate.co1.qualtrics.com
 .immoweltag.d3.sc.omtrdc.net
 .immonetde.widget.criteo.com
 .etaskerdk.widget.criteo.com
@@ -66146,7 +65215,6 @@
 .five.partner.archive-it.org
 .gutefrage.de.intellitxt.com
 .everest.ca.d1.sc.omtrdc.net
-.cogscilab.co1.qualtrics.com
 .coke.activate.ensighten.com
 .firewall.adlooxtracking.com
 .findmyiphone-id-support.com
@@ -66169,11 +65237,9 @@
 .comcast.net.102.112.2o7.net
 .fifa14points.legratuits.com
 .comcastcom.d1.sc.omtrdc.net
-.hayneedle.co1.qualtrics.com
 .exacttarget.api.mashery.com
 .fhmonline.us.intellitxt.com
 .fhatfee.ero-advertising.com
-.fgvsocial.co1.qualtrics.com
 .examnotes.us.intellitxt.com
 .dashboardtest.appsflyer.com
 .exapi-eu.rubiconproject.com
@@ -66205,8 +65271,6 @@
 .ffoqr3ug7m726zou.tsrwj3.top
 .compatexchange.cloudapp.net
 .ffoqr3ug7m726zou.smd95z.top
-.dartmouth.co1.qualtrics.com
-.haverford.co1.qualtrics.com
 .ffoqr3ug7m726zou.s611js.top
 .ffoqr3ug7m726zou.rzvhne.top
 .ffoqr3ug7m726zou.rzt69n.top
@@ -66277,7 +65341,6 @@
 .ffoqr3ug7m726zou.1feasu.top
 .ffoqr3ug7m726zou.1967qy.top
 .ffoqr3ug7m726zou.17vj7b.top
-.illinoisstate.qualtrics.com
 .ffoqr3ug7m726zou.14gmtu.top
 .ffoqr3ug7m726zou.13inb1.top
 .ffoqr3ug7m726zou.1321z6.top
@@ -66346,7 +65409,6 @@
 .nqs-euc-c1.youboranqs01.com
 .modelvita.de.intellitxt.com
 .nqs-euc-c2.youboranqs01.com
-.research1.co1.qualtrics.com
 .mojoworks.snv.mediaplex.com
 .nqs-euc-c3.youboranqs01.com
 .nqs-euc-c4.youboranqs01.com
@@ -66376,7 +65438,6 @@
 .notice511.000webhostapp.com
 .juggler.services.disqus.com
 .mapstats202.stickyadstv.com
-.nresearch.co1.qualtrics.com
 .northfolkstalesoriginal.com
 .mapstats201.stickyadstv.com
 .mapstats200.stickyadstv.com
@@ -66456,7 +65517,6 @@
 .pmenboeqhyrpvomq.2agglf.top
 .pmenboeqhyrpvomq.4pzclh.top
 .pmenboeqhyrpvomq.58na23.top
-.renewaire.co1.qualtrics.com
 .pmenboeqhyrpvomq.5b1s82.top
 .pmenboeqhyrpvomq.7s0g3v.top
 .pmenboeqhyrpvomq.9ildst.top
@@ -66515,7 +65575,6 @@
 .qa.conf.dco.advertising.com
 .manage-legacy.ensighten.com
 .nugrowth4.actonsoftware.com
-.laccpsych.co1.qualtrics.com
 .pixel-eu.rubiconproject.com
 .manage-accountrecorvery.org
 .onlineshoppinggiftcards.net
@@ -66528,7 +65587,6 @@
 .malware-live-pro-scanv1.com
 .qa2-h-api.online-metrix.net
 .irs.jaggerbabuinreviews.com
-.pointloma.co1.qualtrics.com
 .malayalamanorama.demdex.net
 .makeushot.us.intellitxt.com
 .nexus-us-west.ensighten.com
@@ -66536,7 +65594,6 @@
 .nexus-us-east.ensighten.com
 .martony.ittest.33across.com
 .moviehole.us.intellitxt.com
-.laborucla.co1.qualtrics.com
 .isalvador.000webhostapp.com
 .maryaf815.000webhostapp.com
 .isbank-bireysel-sube-tr.com
@@ -66551,7 +65608,6 @@
 .moviestarplanet.gamonig.com
 .mas-sdk.amazon-adsystem.com
 .nexage.mads.advertising.com
-.outsidesummit.qualtrics.com
 .master-ads-g2.3d.amobee.com
 .myetherwallet-hydrocoin.top
 .newyorkmediallc-d.openx.net
@@ -66575,7 +65631,6 @@
 .myetherwallet-coinhydro.top
 .matchflow-news.t.domdex.com
 .magicplayer-s.acestream.net
-.magicjack.co1.qualtrics.com
 .nx-adv0005.247realmedia.com
 .nxo43oec70.lrdavjagraon.com
 .registrycleaner-reviews.net
@@ -66596,8 +65651,6 @@
 .popoholic.us.intellitxt.com
 .pi-chin-cha.webcindario.com
 .kalamandalamsathyabhama.com
-.mcdonough.az1.qualtrics.com
-.mckinsey1.co1.qualtrics.com
 .kalaydode.widget.criteo.com
 .regclean.software-phile.com
 .regbcgffty5.qiebeichang.com
@@ -66623,7 +65676,6 @@
 .ph-cdn.effectivemeasure.net
 .itreviews.uk.intellitxt.com
 .konicaminoltahd.122.2o7.net
-.portlandstate.qualtrics.com
 .media.the-adult-company.com
 .qfjhpgbefuhenjp7.1225wj.top
 .qfjhpgbefuhenjp7.12efwa.top
@@ -66681,7 +65733,6 @@
 .redirect-internativecuy.com
 .newcarnet.uk.intellitxt.com
 .newbudget.westsideindro.com
-.qsnetwork.az1.qualtrics.com
 .media-d.vpptechnologies.com
 .qs-lw3-lb2.youboranqs01.com
 .qfjhpgbefuhenjp7.1jfjhb.top
@@ -66725,7 +65776,6 @@
 .pe2cku7pebkpgeko.582h0n.top
 .pe2cku7pebkpgeko.1pr21c.top
 .pe2cku7pebkpgeko.1plugt.top
-.lootcrate.co1.qualtrics.com
 .pe2cku7pebkpgeko.1mwipu.top
 .pe2cku7pebkpgeko.1gtx3p.top
 .pe2cku7pebkpgeko.1cb19l.top
@@ -66785,15 +65835,12 @@
 .mw2aimbot.filesforgames.com
 .orange.fr-felicitations.xyz
 .loginr.bbestilocadastro.net
-.priceline.co1.qualtrics.com
 .pridesource.advertserve.com
 .login.micrrosoftonlline.com
 .oascentral.artistdirect.com
-.melbpsych.co1.qualtrics.com
 .oqwygprskqv65j72.1nzpby.top
 .logidlink.000webhostapp.com
 .oqwygprskqv65j72.1mudaw.top
-.principal.co1.qualtrics.com
 .realtimeparty.acuityads.com
 .loggingservices.tribune.com
 .oascentral.bigfishgames.com
@@ -66885,7 +65932,6 @@
 .netflix-billingpayments.com
 .jailbreakios7untethered.com
 .mgtimesdispatch.112.2o7.net
-.miamidade.co1.qualtrics.com
 .oascentral.villagevoice.com
 .mickagain.000webhostapp.com
 .linkedfastly.contextweb.com
@@ -66972,7 +66018,6 @@
 .p27dokhpz2n7nvgr.1eeb86.top
 .p27dokhpz2n7nvgr.1ebvqb.top
 .lga-bh-stage.contextweb.com
-.naviscent.co1.qualtrics.com
 .navientinc.d1.sc.omtrdc.net
 .p27dokhpz2n7nvgr.1dz7gk.top
 .p27dokhpz2n7nvgr.1dyzdh.top
@@ -67001,7 +66046,6 @@
 .lfdachijzuwx4bc4.fe6cf2.top
 .lfdachijzuwx4bc4.ex9n9v.top
 .lfdachijzuwx4bc4.ci221p.top
-.nationwide360.qualtrics.com
 .officeworkdone-onedrive.xyz
 .p27dokhpz2n7nvgr.1cewld.top
 .lfdachijzuwx4bc4.af38vz.top
@@ -67017,7 +66061,6 @@
 .p27dokhpz2n7nvgr.1b3qjy.top
 .letsgopub.000webhostapp.com
 .p27dokhpz2n7nvgr.1azkux.top
-.letourneau360.qualtrics.com
 .p27dokhpz2n7nvgr.1axzcw.top
 .p27dokhpz2n7nvgr.1aweql.top
 .p27dokhpz2n7nvgr.1apkjn.top
@@ -67122,7 +66165,6 @@
 .shemales.indianshemales.com
 .sfx-preprod.stickyadstv.com
 .tw.aip.insightexpressai.com
-.ssmhealth.co1.qualtrics.com
 .restart-hdtv-membership.com
 .sp.centralfloridafuture.com
 .unocl45trpuoefft.eyohd2.top
@@ -67162,19 +66204,16 @@
 .stacywilwertphotography.com
 .seguridadnetcontinental.com
 .verification-mobile-nab.com
-.staffordshire.qualtrics.com
 .segments.company-target.com
 .verificationrequired181.com
 .ww13-itx4.smartadserver.com
 .ww13-itx5.smartadserver.com
-.whitworth.co1.qualtrics.com
 .staging.mier.stats.miui.com
 .web-clients.mynativeads.com
 .track.secured-chbrowser.com
 .webbankof-americaaccess.net
 .ww16-itx4.smartadserver.com
 .webapps-intl.ca-updated.com
-.star.originus.qualtrics.com
 .sltechway.000webhostapp.com
 .ww16-itx5.smartadserver.com
 .www2.autopartswarehouse.com
@@ -67187,7 +66226,6 @@
 .swalife.com.102.112.2o7.net
 .webanalytics.localytics.com
 .starpulse.us.intellitxt.com
-.ucsbeducation.qualtrics.com
 .verifikasi25781.wixsite.com
 .unitechmetalindoperkasa.com
 .rkt-admin.brandreachsys.com
@@ -67330,7 +66368,6 @@
 .seasonalsamplerspecials.com
 .searspartsdirect.btttag.com
 .searsholdings.tt.omtrdc.net
-.riotgames.ca1.qualtrics.com
 .rmx.pxl.ace.advertising.com
 .verizontelematic.demdex.net
 .unocl45trpuoefft.9u3iy1.top
@@ -67356,12 +66393,9 @@
 .riu-check.de.intellitxt.com
 .unocl45trpuoefft.cgf59i.top
 .taloussanomat.linkpulse.com
-.vertexinc.co1.qualtrics.com
 .walkofthoughts.juicyads.com
-.surreyfahs.eu.qualtrics.com
 .static.realasianexposed.com
 .tamarisde.widget.criteo.com
-.umichumhs.ut1.qualtrics.com
 .static.realmediadigital.com
 .tradearabia.advertserve.com
 .static.sites.contentabc.com
@@ -67372,7 +66406,6 @@
 .vertical-stats.huffpost.com
 .tracking.oceantidemedia.com
 .tracking.msadcenter.msn.com
-.surevista.co1.qualtrics.com
 .sparbankenonlineaccount.com
 .unocl45trpuoefft.cypz3w.top
 .unocl45trpuoefft.o8hpwj.top
@@ -67381,7 +66414,6 @@
 .unocl45trpuoefft.uw3r6a.top
 .tcl-icloudcdn.tclclouds.com
 .unocl45trpuoefft.uwckha.top
-.smarttech.co1.qualtrics.com
 .unocl45trpuoefft.vkm4l6.top
 .unocl45trpuoefft.wz139z.top
 .unocl45trpuoefft.x9le66.top
@@ -67430,7 +66462,6 @@
 .track.clickcabintracker.com
 .zbeipamnaturalkilleruse.com
 .vyohacxzoue32vvk.ncw0rp.top
-.skillsoft.ca1.qualtrics.com
 .vyohacxzoue32vvk.mayrwf.top
 .vyohacxzoue32vvk.kfymbh.top
 .viabestweekever.112.2o7.net
@@ -67438,7 +66469,6 @@
 .vyohacxzoue32vvk.joco7r.top
 .vyohacxzoue32vvk.jnv1df.top
 .vyohacxzoue32vvk.jb4uh0.top
-.supercell.ca1.qualtrics.com
 .unocl45trpuoefft.dwkofh.top
 .vyohacxzoue32vvk.ibar8s.top
 .vyohacxzoue32vvk.h2xun1.top
@@ -67473,7 +66503,6 @@
 .traceymurrayphotography.com
 .vyohacxzoue32vvk.3t3hyf.top
 .vyohacxzoue32vvk.3m370u.top
-.smsadapter-ps.qualtrics.com
 .wyndham.com.102.112.2o7.net
 .zalandode.widget.criteo.com
 .vyohacxzoue32vvk.2hr4fs.top
@@ -67500,13 +66529,11 @@
 .unibanco-sa-30horas-app.com
 .savemanny.us.intellitxt.com
 .srv-sg-sgp-2.buysellads.com
-.uwsystemadmin.qualtrics.com
 .sumaity.com.102.112.2o7.net
 .sephora.pl.d1.sc.omtrdc.net
 .weddingcelebrantinspain.com
 .vty2blicem.amarautotech.com
 .townsquaremedia-d.openx.net
-.uwmadison.co1.qualtrics.com
 .shreesattargamjainsamaj.org
 .techeblog.us.intellitxt.com
 .tourneau.bounceexchange.com
@@ -67522,13 +66549,11 @@
 .technoratimedia-d.openx.net
 .techradar.uk.intellitxt.com
 .vrt-nydc1-only.outbrain.com
-.sibilance.co1.qualtrics.com
 .urchin-tracker.bigpoint.net
 .sicredi.com.br.incorpbb.com
 .softwareonlineindonesia.com
 .vaes-fe.amazon-adsystem.com
 .topstores.us.intellitxt.com
-.techsmith.az1.qualtrics.com
 .siffe2000.000webhostapp.com
 .samsungmsc.d1.sc.omtrdc.net
 .samsungindonesia.demdex.net
@@ -67536,10 +66561,7 @@
 .techworld.nl.intellitxt.com
 .softpedia.uk.intellitxt.com
 .twitter.secure.bzpharma.net
-.teclisboa.co1.qualtrics.com
 .sambalpurnursingcollege.org
-.uwinnipeg.co1.qualtrics.com
-.salliemae.co1.qualtrics.com
 .unocl45trpuoefft.dyo7c9.top
 .salesforcecom.tt.omtrdc.net
 .softbankbb.d2.sc.omtrdc.net
@@ -67554,12 +66576,10 @@
 .todayshow.us.intellitxt.com
 .xn--amzon-bra.com.125xc.com
 .tobyfrost.000webhostapp.com
-.uwaterloo.ca1.qualtrics.com
 .vodafoneindia.tt.omtrdc.net
 .vodafonees.d2.sc.omtrdc.net
 .tmu-datacloud.tealiumiq.com
 .xn--metherwalet-ms8eq4b.com
-.telefonica.eu.qualtrics.com
 .xn--metherwalet-ns8ep4b.com
 .telegraphcouk.skimlinks.com
 .xn--metherwalet-ns8ez1g.com
@@ -67607,7 +66627,6 @@
 .terralina.touchcommerce.com
 .youtube-newscompilation.com
 .tersereah-kamu.rumahweb.org
-.utmrawlab.co1.qualtrics.com
 .sigmasixstarsconsulting.com
 .timesaverpack.sharezips.net
 .sign.hendarson-services.com
@@ -67627,8 +66646,6 @@
 .socialknowledge-d.openx.net
 .thumbs2.ero-advertising.com
 .s10.his.ero-advertising.com
-.stedwards.co1.qualtrics.com
-.steelcase.co1.qualtrics.com
 .us-east-1.a.intentmedia.net
 .thinairapporganizations.net
 .s.update.rubiconproject.com
@@ -67652,7 +66669,6 @@
 .user57384.vs.speednames.com
 .user57403.vs.speednames.com
 .yax-rtb-fkb-2.connexity.net
-.theswitch.co1.qualtrics.com
 .thestreet.us.intellitxt.com
 .vipplaza-co-id.b.appier.net
 .user-information-update.com
@@ -67674,7 +66690,6 @@
 .thehdroom.us.intellitxt.com
 .thegreenshoppingchannel.com
 .run.dts.startappservice.com
-.siteintercept.qualtrics.com
 .rum-collector-2.pingdom.net
 .sitemapper-01.kameleoon.com
 .struq-uswest.quantserve.com
@@ -68081,7 +67096,6 @@
 .5994599.fls.doubleclick.net
 .3347639.fls.doubleclick.net
 .334526550.keywordblocks.com
-.blackbaud.co1.qualtrics.com
 .5994071.fls.doubleclick.net
 .3344300.fls.doubleclick.net
 .429374912.keywordblocks.com
@@ -68141,7 +67155,6 @@
 .5180227.fls.doubleclick.net
 .8209809.fls.doubleclick.net
 .4338867.fls.doubleclick.net
-.answerlab.co1.qualtrics.com
 .3294027.fls.doubleclick.net
 .327117622.keywordblocks.com
 .327084452.keywordblocks.com
@@ -68633,7 +67646,6 @@
 .4498436.fls.doubleclick.net
 .961905451.keywordblocks.com
 .4498695.fls.doubleclick.net
-.aspentech.co1.qualtrics.com
 .216821361.keywordblocks.com
 .5625200.fls.doubleclick.net
 .562475650.keywordblocks.com
@@ -68674,7 +67686,6 @@
 .5605633.fls.doubleclick.net
 .4515800.fls.doubleclick.net
 .4516568.fls.doubleclick.net
-.bgumanagement.qualtrics.com
 .205384221.keywordblocks.com
 .971622362.keywordblocks.com
 .2053200.fls.doubleclick.net
@@ -68773,8 +67784,6 @@
 .5561100.fls.doubleclick.net
 .627133162.keywordblocks.com
 .cabomarlinisportfishing.com
-.akamaisecure3.qualtrics.com
-.akamaisecure2.qualtrics.com
 .458538611.keywordblocks.com
 .akamai-pubmatic.mathtag.com
 .akamai-media.contextweb.com
@@ -69134,7 +68143,6 @@
 .537849800.keywordblocks.com
 .537466869.keywordblocks.com
 .537410722.keywordblocks.com
-.austinisd.co1.qualtrics.com
 .australiapost.tt.omtrdc.net
 .537341171.keywordblocks.com
 .adserver-sb-wc.adtechus.com
@@ -69568,7 +68576,6 @@
 .4kqd3hmqgptupi3p.dkrie7.top
 .4kqd3hmqgptupi3p.dmvute.top
 .52uo5k3t73ypjije.wht5py.top
-.aadigital.co1.qualtrics.com
 .52uo5k3t73ypjije.vkm4l6.top
 .52uo5k3t73ypjije.veupl2.top
 .4kqd3hmqgptupi3p.ezm0r5.top
@@ -70250,7 +69257,6 @@
 .bebenbesupper.altervista.org
 .auth--bank-sms.va-unlock.xyz
 .adserver-images.adikteev.com
-.bankofutah.co1.qualtrics.com
 .adserver-reporting.fyber.com
 .adserving.cpxinteractive.com
 .ads-iad2-lb7.adsymptotic.com
@@ -70302,7 +69308,6 @@
 .amazon-deineeinkaufswelt.com
 .207-87-18-203.wsmg.digex.net
 .bhajankutir.vedicseasons.com
-.ameriprise.co1.qualtrics.com
 .ameritradeogilvy.112.2o7.net
 .bidder.us-east.adx.actnx.com
 .bidder9-imp.tribalfusion.com
@@ -70358,5 +69363,3 @@
 .388663.wcrtb.adtelligent.com
 .bms-5w-ext.nyc2.appnexus.com
 .bnkmse.melisorganizasyon.net
-.bnsfrailwa.co1.qualtrics.com
-.boisestate.az1.qualtrics.com
