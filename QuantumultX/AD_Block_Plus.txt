@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt
 
 # Current total domain name : 70,000+ 
-# Update time : 2020.4.29 - 22:00
+# Update time : 2020.4.30 - 17:50
 
 host-suffix, yhcw.org.cn, reject
 host-suffix, vns4398.com, reject
@@ -3807,7 +3807,6 @@ host-suffix, hoyqhygv.com, reject
 host-suffix, gdyn.nba.com, reject
 host-suffix, inneedbd.com, reject
 host-suffix, inverse3.com, reject
-host-suffix, digicert.com, reject
 host-suffix, digisets.com, reject
 host-suffix, ebsupply.org, reject
 host-suffix, home.inq.com, reject
