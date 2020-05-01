@@ -3,7 +3,7 @@
 
 ## 说明：
 
-|  文件名                 | 包括的开源项目                                   | 简介                              | Surge语法      |
+|  规则文件名                 | 包括的开源项目                                   | 简介                              | Surge语法      |
 | ---------------------- | -----------------------------------------------|-----------------------------------|---------------|
 | **AD_Block.txt**       | [@ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) [@anti-AD](https://github.com/privacy-protection-tools/anti-AD) [@ConnersHua](https://github.com/ConnersHua) [@lhie1](https://github.com/lhie1/Rules) [@Scomper](https://github.com/scomper) |超过4万条广告规则, 阻止常见的APP广告/隐私/行为/数据/流量/劫持的统计和追踪.                                  | DOMAIN-SET    |
 | **AD_Block_Add.txt**   | [@ACL4SSR](https://github.com/ACL4SSR/ACL4SSR) [@Scomper](https://github.com/scomper) [@ConnersHua](https://github.com/ConnersHua) [@lhie1](https://github.com/lhie1/Rules)        | 阻止广告联盟关键字和IP段, 建议和"AD_Block.txt"一起使用.  QX格式"AD_Block.txt"已包含该规则.                                                                   | RULE-SET      |
@@ -11,6 +11,8 @@
 
 ### 补充 :
 
+* **QX 注: 目前仅建议在QX TF 1.0.8(266)版本使用以上规则, 商店版可能会规则过多导致崩溃.**
+* **Surge 注: 目前仅Surge TF版本可用DOMAIN-SET规则集.**
 * **其中"AD_Block.txt"内, 大部分为中国广告规则, 海外用户可能不适用.**
 * **该类规则仅包含去广告规则。 请为策略选择REJECT.**
 * **自用，佛系更新，如果规则有任何问题与误杀，欢迎提交issues或pull request.**
