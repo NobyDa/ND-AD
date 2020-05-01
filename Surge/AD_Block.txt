@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.5.1 1852
+# Update time : 2020.5.1 2104
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -2901,7 +2901,6 @@
 .e.afvfe.cn
 .e.anmeilai.net
 .e.apxyz.com
-.e.baidu.com
 .e.bapkt.com
 .e.bbvjs.com
 .e.bentengcn.com
@@ -8668,7 +8667,6 @@
 .d9.sinaimg.cn
 .log.interest.mix.sina.com.cn
 .log.mix.sina.com.cn
-.log.sina.cn
 .r.dmp.sina.cn
 .sax.sina.cn
 .sax1.sina.com.cn
@@ -31261,6 +31259,7 @@ m.lisln.cn
 lisqvfrr.com
 listingcafe.com
 listrakbi.com
+log.sina.cn
 listtop.ru
 www.liteapp.mobi
 litix.io

@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.5.1 1847
+# Update time : 2020.5.1 2106
 
 # AdRule
 host-suffix, mcupdate.gstarcad.com, reject
@@ -2901,7 +2901,6 @@ host-suffix, e.admin60.com, reject
 host-suffix, e.afvfe.cn, reject
 host-suffix, e.anmeilai.net, reject
 host-suffix, e.apxyz.com, reject
-host-suffix, e.baidu.com, reject
 host-suffix, e.bapkt.com, reject
 host-suffix, e.bbvjs.com, reject
 host-suffix, e.bentengcn.com, reject
@@ -8668,7 +8667,6 @@ host-suffix, d5.sinaimg.cn, reject
 host-suffix, d9.sinaimg.cn, reject
 host-suffix, log.interest.mix.sina.com.cn, reject
 host-suffix, log.mix.sina.com.cn, reject
-host-suffix, log.sina.cn, reject
 host-suffix, r.dmp.sina.cn, reject
 host-suffix, sax.sina.cn, reject
 host-suffix, sax1.sina.com.cn, reject
@@ -30890,6 +30888,7 @@ host, dieho.lacasadeltikitakatv.me, reject
 host, lacerta.space, reject
 host, ladbrokesaffiliates.com.au, reject
 host, ladiathdefinishe.info, reject
+host, log.sina.cn, reject
 host, ladnova.info, reject
 host, ladsbrown.com, reject
 host, ladsimz.com, reject
