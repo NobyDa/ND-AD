@@ -1,6 +1,6 @@
 # RULE-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block_Add.txt,REJECT
 
-# Update time : 2020.4.29 - 2:05
+# Update time : 2020.5.1 1847
 
 DOMAIN-KEYWORD,cnzz
 DOMAIN-KEYWORD,adsh
@@ -8,7 +8,6 @@ DOMAIN-KEYWORD,fenxi
 DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,openx
 DOMAIN-KEYWORD,umeng
-DOMAIN-KEYWORD,uedas
 DOMAIN-KEYWORD,domob
 DOMAIN-KEYWORD,socdm
 DOMAIN-KEYWORD,omgmta
