@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.5.1 2104
+# Update time : 2020.5.7 0152
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -32728,7 +32728,6 @@ mrporngeek.com
 tour.mrskin.com
 mrskincash.com
 mruxsxrnu.com
-mrw.so
 mrycrypto.com
 mrzpfpgh.com
 ms11.net
