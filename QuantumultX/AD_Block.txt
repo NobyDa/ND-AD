@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.5.1 2106
+# Update time : 2020.5.7 0154
 
 # AdRule
 host-suffix, mcupdate.gstarcad.com, reject
@@ -32728,7 +32728,6 @@ host, mrporngeek.com, reject
 host, tour.mrskin.com, reject
 host, mrskincash.com, reject
 host, mruxsxrnu.com, reject
-host, mrw.so, reject
 host, mrycrypto.com, reject
 host, mrzpfpgh.com, reject
 host, ms11.net, reject
