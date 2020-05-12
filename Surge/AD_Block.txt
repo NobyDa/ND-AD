@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.5.13 0635
+# Update time : 2020.5.13 0647
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -1389,7 +1389,6 @@
 .api.iimedia.cn
 .api.ijunhai.com
 .api.itaoxiaoshuo.com
-.api.jr.mi.com
 .api.ketedata.com
 .api.koudaikj.com
 .api.leadbolt.net
@@ -3879,7 +3878,6 @@
 .imads.rediff.com
 .image.139y.com
 .image.9duw.com
-.image.box.xiaomi.com
 .image.fsyule.net
 .image.gentags.com
 .image.haiyunx.com
@@ -8907,7 +8905,6 @@
 .andmlbf.tj.ijinshan.com
 .api.adbana.com
 .api.airpush.com
-.api.amplitude.com
 .api.appjiagu.com
 .api.appsflyer.com
 .api.branch.io
@@ -9544,7 +9541,6 @@
 .adsmogo.com
 .adsmogo.org
 .adwetec.com
-.amplitude.com
 .bjvvqu.cn
 .bjxiaohua.com
 .branch.io
@@ -33477,7 +33473,6 @@ nittlopp.online
 daima.niubb.net
 x.niuliyan.cn
 niuosnd.ru
-niuza.com
 nivsrtqdurhjz.com
 niwota.com
 niwztgetlytxv.com
@@ -35191,7 +35186,6 @@ poxzyu.com
 poyang.cn
 poyecjzk.com
 smi.pp.ua
-pp.ua
 pp8.com
 www.pp9899.com
 ppbvmesssyacij.com
@@ -38045,7 +38039,6 @@ f3.souid.com
 pmh.souid.com
 www.souid.com
 sourcecode.pro
-sourl.cn
 tongji.southmoney.com
 souvlatraffic.com
 sowkhntq.com

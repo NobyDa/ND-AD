@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.5.13 0635
+# Update time : 2020.5.13 0647
 
 # AdRule
 host-suffix, mcupdate.gstarcad.com, reject
@@ -1389,7 +1389,6 @@ host-suffix, api.iapps.ifeng.com, reject
 host-suffix, api.iimedia.cn, reject
 host-suffix, api.ijunhai.com, reject
 host-suffix, api.itaoxiaoshuo.com, reject
-host-suffix, api.jr.mi.com, reject
 host-suffix, api.ketedata.com, reject
 host-suffix, api.koudaikj.com, reject
 host-suffix, api.leadbolt.net, reject
@@ -3879,7 +3878,6 @@ host-suffix, ima3vpaid.appspot.com, reject
 host-suffix, imads.rediff.com, reject
 host-suffix, image.139y.com, reject
 host-suffix, image.9duw.com, reject
-host-suffix, image.box.xiaomi.com, reject
 host-suffix, image.fsyule.net, reject
 host-suffix, image.gentags.com, reject
 host-suffix, image.haiyunx.com, reject
@@ -8907,7 +8905,6 @@ host-suffix, analytics3.starschina.com, reject
 host-suffix, andmlbf.tj.ijinshan.com, reject
 host-suffix, api.adbana.com, reject
 host-suffix, api.airpush.com, reject
-host-suffix, api.amplitude.com, reject
 host-suffix, api.appjiagu.com, reject
 host-suffix, api.appsflyer.com, reject
 host-suffix, api.branch.io, reject
@@ -9544,7 +9541,6 @@ host-suffix, 99youmeng.com, reject
 host-suffix, adsmogo.com, reject
 host-suffix, adsmogo.org, reject
 host-suffix, adwetec.com, reject
-host-suffix, amplitude.com, reject
 host-suffix, bjvvqu.cn, reject
 host-suffix, bjxiaohua.com, reject
 host-suffix, branch.io, reject
@@ -33477,7 +33473,6 @@ host, nittlopp.online, reject
 host, daima.niubb.net, reject
 host, x.niuliyan.cn, reject
 host, niuosnd.ru, reject
-host, niuza.com, reject
 host, nivsrtqdurhjz.com, reject
 host, niwota.com, reject
 host, niwztgetlytxv.com, reject
@@ -35191,7 +35186,6 @@ host, poxzyu.com, reject
 host, poyang.cn, reject
 host, poyecjzk.com, reject
 host, smi.pp.ua, reject
-host, pp.ua, reject
 host, pp8.com, reject
 host, www.pp9899.com, reject
 host, ppbvmesssyacij.com, reject
@@ -38045,7 +38039,6 @@ host, f3.souid.com, reject
 host, pmh.souid.com, reject
 host, www.souid.com, reject
 host, sourcecode.pro, reject
-host, sourl.cn, reject
 host, tongji.southmoney.com, reject
 host, souvlatraffic.com, reject
 host, sowkhntq.com, reject
