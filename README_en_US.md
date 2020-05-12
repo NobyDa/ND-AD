@@ -11,7 +11,7 @@
 
 ### Rule remarks :
 
-* **QX users: Only recommended to use this project rule above QX TF 1.0.8(266) version, store version may crash with too many rules.**
+* **QX users: Only recommended to use this project rule above QX 1.0.8(273) version, if lower than this version, it may crash due to too many rules**
 * **Surge users: DOMAIN-SET Ruleset is only available in the Surge TF version**
 * **Among them, "AD_Block.txt" is China's ad rules. overseas users may not applicable**
 * **These rules only include ads. Please choose REJECT for the policy**
