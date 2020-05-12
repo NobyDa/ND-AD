@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.5.7 0154
+# Update time : 2020.5.13 0635
 
 # AdRule
 host-suffix, mcupdate.gstarcad.com, reject
@@ -8945,7 +8945,6 @@ host-suffix, bingads.microsoft.com, reject
 host-suffix, bj.bcebos.com, reject
 host-suffix, bzshzx.com, reject
 host-suffix, c.appjiagu.com, reject
-host-suffix, c.duomai.com, reject
 host-suffix, c.nz.gt.igexin.com, reject
 host-suffix, c.sz.gt.igexin.com, reject
 host-suffix, c.top267.com, reject
@@ -8997,7 +8996,6 @@ host-suffix, digg.analytics.live.com, reject
 host-suffix, distf.stat.kankan.com, reject
 host-suffix, dmm.aizhan.com, reject
 host-suffix, dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com, reject
-host-suffix, duomai.com, reject
 host-suffix, dw-collect.ksosoft.com, reject
 host-suffix, dw-online.ksosoft.com, reject
 host-suffix, dygang.kkcaicai.com, reject
@@ -17220,7 +17218,6 @@ host-suffix, wiltshiretimes-gb.wiltshiretimes.co.uk, reject
 host-suffix, win.staticstuff.net, reject
 host-suffix, wisteria-js.excite.co.jp, reject
 host-suffix, wkctj.baidu.com, reject
-host-suffix, wl.jd.com, reject
 host-suffix, wla.vivaldi.com, reject
 host-suffix, worcesternews-gb.worcesternews.co.uk, reject
 host-suffix, wordc.ga, reject

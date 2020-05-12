@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.5.7 0152
+# Update time : 2020.5.13 0635
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -8945,7 +8945,6 @@
 .bj.bcebos.com
 .bzshzx.com
 .c.appjiagu.com
-.c.duomai.com
 .c.nz.gt.igexin.com
 .c.sz.gt.igexin.com
 .c.top267.com
@@ -8997,7 +8996,6 @@
 .distf.stat.kankan.com
 .dmm.aizhan.com
 .dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
-.duomai.com
 .dw-collect.ksosoft.com
 .dw-online.ksosoft.com
 .dygang.kkcaicai.com
@@ -17220,7 +17218,6 @@
 .win.staticstuff.net
 .wisteria-js.excite.co.jp
 .wkctj.baidu.com
-.wl.jd.com
 .wla.vivaldi.com
 .worcesternews-gb.worcesternews.co.uk
 .wordc.ga
