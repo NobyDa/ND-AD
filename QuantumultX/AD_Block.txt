@@ -39,7 +39,6 @@ host-suffix, mbdlog.iqiyi.com, reject
 host-suffix, msg.iqiyi.com, reject
 host-suffix, msg.video.qiyi.com, reject
 host-suffix, msg2.video.qiyi.com, reject
-host-suffix, msga.71.am, reject
 host-suffix, msga.cupid.iqiyi.com, reject
 host-suffix, nl.notice.iqiyi.com, reject
 host-suffix, nl.rcd.iqiyi.com, reject
@@ -47,7 +46,6 @@ host-suffix, notice.iqiyi.com, reject
 host-suffix, noxagile.duapp.com, reject
 host-suffix, paopao.iqiyi.com, reject
 host-suffix, policy.video.iqiyi.com, reject
-host-suffix, qosp.msg.71.am, reject
 host-suffix, static.g.iqiyi.com, reject
 host-suffix, static.g.ppstream.com, reject
 host-suffix, store.iqiyi.com, reject
@@ -8129,7 +8127,6 @@ host-suffix, log.hunantv.com, reject
 host-suffix, log.v2.hunantv.com, reject
 host-suffix, v2.log.hunantv.com, reject
 host-suffix, ifacelog.iqiyi.com, reject
-host-suffix, msg.71.am, reject
 host-suffix, deliver.ifeng.com, reject
 host-suffix, api.newad.ifeng.com, reject
 host-suffix, ifengad.3g.ifeng.com, reject
@@ -18565,7 +18562,6 @@ host, 7089e5b41f87.com, reject
 host, tz.70e.me, reject
 host, 70ee6484605f.com, reject
 host, 70fd25cf5a7b1c57.com, reject
-host, 71.am, reject
 host, 710070.com, reject
 host, www.716703.com, reject
 host, 71a30cae934e.com, reject

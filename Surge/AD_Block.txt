@@ -39,7 +39,6 @@
 .msg.iqiyi.com
 .msg.video.qiyi.com
 .msg2.video.qiyi.com
-.msga.71.am
 .msga.cupid.iqiyi.com
 .nl.notice.iqiyi.com
 .nl.rcd.iqiyi.com
@@ -47,7 +46,6 @@
 .noxagile.duapp.com
 .paopao.iqiyi.com
 .policy.video.iqiyi.com
-.qosp.msg.71.am
 .static.g.iqiyi.com
 .static.g.ppstream.com
 .store.iqiyi.com
@@ -8129,7 +8127,6 @@
 .log.v2.hunantv.com
 .v2.log.hunantv.com
 .ifacelog.iqiyi.com
-.msg.71.am
 .deliver.ifeng.com
 .api.newad.ifeng.com
 .ifengad.3g.ifeng.com
@@ -18565,7 +18562,6 @@ www.7080555.com
 tz.70e.me
 70ee6484605f.com
 70fd25cf5a7b1c57.com
-71.am
 710070.com
 www.716703.com
 71a30cae934e.com
