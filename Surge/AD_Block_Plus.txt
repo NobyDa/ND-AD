@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block_Plus.txt,REJECT
 
 # Current total domain name : 69,000+ 
-# Update time : 2020.5.7 0152
+# Update time : 2020.5.19 1950
 
 yhcw.org.cn
 vns4398.com
@@ -9836,7 +9836,6 @@ mmauckxrzh.com
 pc-care365.net
 mmc.demdex.net
 rehberim54.com
-log.mmstat.com
 o.fandango.com
 map.zeotap.com
 log.baomoi.com

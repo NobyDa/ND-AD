@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.5.13 0647
+# Update time : 2020.5.19 1950
 
 # AdRule
 host-suffix, mcupdate.gstarcad.com, reject
@@ -8352,7 +8352,6 @@ host-suffix, app-measurement.com, reject
 host-suffix, mob.com, reject
 host-suffix, api.joybj.com, reject
 host-suffix, api.whizzone.com, reject
-host-suffix, mmstat.com, reject
 host-suffix, 4paradigm.com, reject
 host-suffix, catch.gift, reject
 host-suffix, pubnative.net, reject
@@ -9377,7 +9376,6 @@ host-suffix, log.star.ele.me, reject
 host-suffix, log.ys7.com, reject
 host-suffix, report.jpush.cn, reject
 host-suffix, static.jpush.cn, reject
-host-suffix, static.vuevideo.net, reject
 host-suffix, stats.jpush.cn, reject
 host-suffix, 3lift.com, reject
 host-suffix, 56txs4.com, reject
@@ -17702,8 +17700,6 @@ host, dma.15tianqi.com, reject
 host, jsa.15tianqi.com, reject
 host, 15yomodels.com, reject
 host, api.iplay.163.com, reject
-host, clientlog.music.163.com, reject
-host, clientlog3.music.163.com, reject
 host, www.163ren.com, reject
 host, ac.dun.163yun.com, reject
 host, 165a7c15380874ef3.com, reject

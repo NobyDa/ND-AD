@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt
 
 # Current total domain name : 69,000+ 
-# Update time : 2020.5.7 0154
+# Update time : 2020.5.19 1950
 
 host, yhcw.org.cn, reject
 host, vns4398.com, reject
@@ -9836,7 +9836,6 @@ host, mmauckxrzh.com, reject
 host, pc-care365.net, reject
 host, mmc.demdex.net, reject
 host, rehberim54.com, reject
-host, log.mmstat.com, reject
 host, o.fandango.com, reject
 host, map.zeotap.com, reject
 host, log.baomoi.com, reject
