@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.5.29 1853
+# Update time : 2020.6.4 2023
 
 # AdRule
 DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
@@ -9520,7 +9520,6 @@ DOMAIN-SUFFIX,video.c-ctrip.com,REJECT
 DOMAIN-SUFFIX,agn.aty.sohu.com,REJECT
 DOMAIN-SUFFIX,map-mobile-opnimg.cdn.bcebos.com,REJECT
 DOMAIN-SUFFIX,www.jinshanju.com,REJECT
-DOMAIN-SUFFIX,iesdouyin.com,REJECT
 DOMAIN-SUFFIX,test-www.douyin.com,REJECT
 DOMAIN-SUFFIX,safebrowsing.urlsec.qq.com,REJECT
 DOMAIN-SUFFIX,adserver-ad.321mh.com,REJECT
