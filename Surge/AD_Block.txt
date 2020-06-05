@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.6.4 2023
+# Update time : 2020.6.6 0036
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -2250,7 +2250,6 @@
 .cocounion.com
 .cod.southmoney.com
 .code.3shangyou.com
-.code.createjs.com
 .code.fastclick.net
 .code.hajuwang.cn
 .code.hot-mob.com
