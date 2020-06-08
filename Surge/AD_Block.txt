@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.6.6 0036
+# Update time : 2020.6.8 2026
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -9369,7 +9369,6 @@
 .zjuwjdc.com
 .zszrb.com
 .zz2.hslyqs.com
-.ad.10010.com
 .log.snssdk.com
 .log.star.ele.me
 .log.ys7.com
@@ -40603,6 +40602,7 @@ visadd.com
 visiads.com
 visibility-stats.com
 visiblegains.com
+ad.10010.com
 audience.visiblemeasures.com
 visiblemeasures.com
 visibli.com

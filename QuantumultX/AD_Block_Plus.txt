@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt
 
 # Current total domain name : 69,000+ 
-# Update time : 2020.5.29 1853
+# Update time : 2020.6.8 2026
 
 DOMAIN,yhcw.org.cn,REJECT
 DOMAIN,vns4398.com,REJECT
@@ -45455,8 +45455,6 @@ DOMAIN,timebus2.112.2o7.net,REJECT
 DOMAIN,somoto.go2affise.com,REJECT
 DOMAIN,ssl.cdne.cpmstar.com,REJECT
 DOMAIN,tractiontiresusa.com,REJECT
-DOMAIN,tx2play1.douyucdn.cn,REJECT
-DOMAIN,tx2play2.douyucdn.cn,REJECT
 DOMAIN,survey.chartbeat.net,REJECT
 DOMAIN,tylko-dla-ciebie.com,REJECT
 DOMAIN,statistic.ads24h.net,REJECT
