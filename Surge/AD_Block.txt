@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.6.11 0704
+# Update time : 2020.6.22 1903
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -1424,7 +1424,6 @@
 .api-game.meizu.com
 .apihk.growingio.com
 .api-push.meizu.com
-.api-shoulei-ssl.xunlei.com
 .apisoft.df0535.com
 .apk.idate520.com
 .apk.supfast.net
