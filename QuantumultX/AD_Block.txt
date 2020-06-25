@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.6.22 1903
+# Update time : 2020.6.25 1536
 
 # AdRule
 DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
@@ -37498,7 +37498,6 @@ DOMAIN,shengushi.cn,REJECT
 DOMAIN,www.shenyun.com,REJECT
 DOMAIN,www.shenyun.org,REJECT
 DOMAIN,www.shenyunperformingarts.org,REJECT
-DOMAIN,ecard.shenzhentong.com,REJECT
 DOMAIN,shermore.info,REJECT
 DOMAIN,shesubscriptions.com,REJECT
 DOMAIN,mo.shezhuang.top,REJECT
