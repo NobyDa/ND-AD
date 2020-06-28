@@ -6120,7 +6120,6 @@
 .rotator.tradetracker.net
 .router.bittorrent.com
 .router.gwdang.com
-.rovio-news-app.angrybirdsgame.com
 .rp.crasheye.cn
 .rp.gwallet.com
 .rpaulfrank.com
