@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.6.25 1536
+# Update time : 2020.6.29 1323
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -2197,7 +2197,6 @@
 .clkservice.youdao.com
 .clkservice2.dict.youdao.com
 .cloud.codenow.cn
-.cloud.rovio.com
 .cloud.zyiis.net
 .cloudad.asia
 .cloudcdn.yousee.com

@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.6.25 1536
+# Update time : 2020.6.29 1323
 
 # AdRule
 DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
@@ -2197,7 +2197,6 @@ DOMAIN-SUFFIX,clkservice.union.youdao.com,REJECT
 DOMAIN-SUFFIX,clkservice.youdao.com,REJECT
 DOMAIN-SUFFIX,clkservice2.dict.youdao.com,REJECT
 DOMAIN-SUFFIX,cloud.codenow.cn,REJECT
-DOMAIN-SUFFIX,cloud.rovio.com,REJECT
 DOMAIN-SUFFIX,cloud.zyiis.net,REJECT
 DOMAIN-SUFFIX,cloudad.asia,REJECT
 DOMAIN-SUFFIX,cloudcdn.yousee.com,REJECT
