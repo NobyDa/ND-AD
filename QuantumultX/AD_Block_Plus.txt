@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt
 
 # Current total domain name : 69,000+ 
-# Update time : 2020.6.8 2026
+# Update time : 2020.07.21 1614
 
 DOMAIN,yhcw.org.cn,REJECT
 DOMAIN,vns4398.com,REJECT
@@ -7929,7 +7929,6 @@ DOMAIN,dldir2.qq.com,REJECT
 DOMAIN,gemverify.com,REJECT
 DOMAIN,coccheats.org,REJECT
 DOMAIN,cocaskins.net,REJECT
-DOMAIN,dldir1.qq.com,REJECT
 DOMAIN,desmovies.com,REJECT
 DOMAIN,fp.msedge.net,REJECT
 DOMAIN,euarbohjj.com,REJECT
@@ -27522,7 +27521,6 @@ DOMAIN,p218176.inclk.com,REJECT
 DOMAIN,p218588.inclk.com,REJECT
 DOMAIN,magazinevenda.com,REJECT
 DOMAIN,prime-d.openx.net,REJECT
-DOMAIN,login.sina.com.cn,REJECT
 DOMAIN,mistat.xiaomi.com,REJECT
 DOMAIN,maetherwallet.com,REJECT
 DOMAIN,pop.revimedia.com,REJECT
@@ -32526,7 +32524,6 @@ DOMAIN,nijksigqjzalcf.com,REJECT
 DOMAIN,mediafirefiles.net,REJECT
 DOMAIN,panther.adform.net,REJECT
 DOMAIN,pearlandblinds.com,REJECT
-DOMAIN,metrics.icloud.com,REJECT
 DOMAIN,paol.chartbeat.net,REJECT
 DOMAIN,metrics.health.com,REJECT
 DOMAIN,jp.doubleclick.net,REJECT
