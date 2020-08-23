@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.7.27 1538
+# Update time : 2020.8.23 1538
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -9454,7 +9454,6 @@
 .dfp.suning.com
 .huodonghezi.com
 .miniapp.bilibili.com
-.mtalk.google.com
 .pv.sohu.com
 .e.xroun.com
 .dflooring.com
@@ -9467,7 +9466,6 @@
 .gss0.bdstatic.com
 .sss.bxmns.com
 .extlog.snssdk.com
-.play.googleapis.com
 .dcps.nuomi.com
 .focusbaiduafp.allyes.com
 .m.simaba.taobao.com
@@ -9501,7 +9499,6 @@
 .log.moviebox.baofeng.com
 .ads.cdn.tvb.com
 .pq.stat.ku6.com
-.crunchyroll.com
 .go-mpulse
 .optimizely.com
 .umsns.com

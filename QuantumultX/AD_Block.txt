@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.7.27 1538
+# Update time : 2020.8.23 1538
 
 # AdRule
 DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
@@ -9453,7 +9453,6 @@ DOMAIN-SUFFIX,app.adjust.com,REJECT
 DOMAIN-SUFFIX,dfp.suning.com,REJECT
 DOMAIN-SUFFIX,huodonghezi.com,REJECT
 DOMAIN-SUFFIX,miniapp.bilibili.com,REJECT
-DOMAIN-SUFFIX,mtalk.google.com,REJECT
 DOMAIN-SUFFIX,pv.sohu.com,REJECT
 DOMAIN-SUFFIX,e.xroun.com,REJECT
 DOMAIN-SUFFIX,dflooring.com,REJECT
@@ -9466,7 +9465,6 @@ DOMAIN-SUFFIX,api.24kidea.com,REJECT
 DOMAIN-SUFFIX,gss0.bdstatic.com,REJECT
 DOMAIN-SUFFIX,sss.bxmns.com,REJECT
 DOMAIN-SUFFIX,extlog.snssdk.com,REJECT
-DOMAIN-SUFFIX,play.googleapis.com,REJECT
 DOMAIN-SUFFIX,dcps.nuomi.com,REJECT
 DOMAIN-SUFFIX,focusbaiduafp.allyes.com,REJECT
 DOMAIN-SUFFIX,m.simaba.taobao.com,REJECT
@@ -9500,7 +9498,6 @@ DOMAIN-SUFFIX,youtube.112.2o7.net,REJECT
 DOMAIN-SUFFIX,log.moviebox.baofeng.com,REJECT
 DOMAIN-SUFFIX,ads.cdn.tvb.com,REJECT
 DOMAIN-SUFFIX,pq.stat.ku6.com,REJECT
-DOMAIN-SUFFIX,crunchyroll.com,REJECT
 DOMAIN-SUFFIX,go-mpulse,REJECT
 DOMAIN-SUFFIX,optimizely.com,REJECT
 DOMAIN-SUFFIX,umsns.com,REJECT
