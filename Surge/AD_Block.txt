@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.8.23 1538
+# Update time : 2020.9.1
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -29545,7 +29545,6 @@ iqbfctebbzh.com
 iqdata.ai
 iqfcpnclcaaidy.com
 iqfp1.com
-act.vip.iqiyi.com
 baiducdncmn.inter.iqiyi.com
 cs-feige.iqiyi.com
 emoticon-sns.iqiyi.com

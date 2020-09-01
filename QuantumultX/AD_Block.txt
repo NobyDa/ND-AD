@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.8.23 1538
+# Update time : 2020.9.1
 
 # AdRule
 DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
@@ -29544,7 +29544,6 @@ DOMAIN,iqbfctebbzh.com,REJECT
 DOMAIN,iqdata.ai,REJECT
 DOMAIN,iqfcpnclcaaidy.com,REJECT
 DOMAIN,iqfp1.com,REJECT
-DOMAIN,act.vip.iqiyi.com,REJECT
 DOMAIN,baiducdncmn.inter.iqiyi.com,REJECT
 DOMAIN,cs-feige.iqiyi.com,REJECT
 DOMAIN,emoticon-sns.iqiyi.com,REJECT
