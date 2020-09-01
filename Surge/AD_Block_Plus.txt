@@ -1,7 +1,7 @@
 f# DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block_Plus.txt,REJECT
 
 # Current total domain name : 69,000+ 
-# Update time : 2020.8.23 2026
+# Update time : 2020.9.1
 
 yhcw.org.cn
 vns4398.com
@@ -22030,7 +22030,6 @@ avpgdzdesjnt.com
 avrdpbiwvwyt.com
 avzkjvbaxgqk.com
 appleid-supp.com
-aweme.snssdk.com
 appleidverif.com
 awesome-case.com
 apple-ifcrot.com

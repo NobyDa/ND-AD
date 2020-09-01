@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt
 
 # Current total domain name : 69,000+ 
-# Update time : 2020.07.21 1614
+# Update time : 2020.9.1
 
 DOMAIN,yhcw.org.cn,REJECT
 DOMAIN,vns4398.com,REJECT
@@ -22029,7 +22029,6 @@ DOMAIN,avpgdzdesjnt.com,REJECT
 DOMAIN,avrdpbiwvwyt.com,REJECT
 DOMAIN,avzkjvbaxgqk.com,REJECT
 DOMAIN,appleid-supp.com,REJECT
-DOMAIN,aweme.snssdk.com,REJECT
 DOMAIN,appleidverif.com,REJECT
 DOMAIN,awesome-case.com,REJECT
 DOMAIN,apple-ifcrot.com,REJECT
