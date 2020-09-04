@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.9.1
+# Update time : 2020.9.4
 
 # AdRule
 DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
@@ -29475,7 +29475,6 @@ DOMAIN,iouuorpkc.com,REJECT
 DOMAIN,iouxtayinkmu.com,REJECT
 DOMAIN,iozsmwjezobro.com,REJECT
 DOMAIN,ip-adress.com,REJECT
-DOMAIN,ip-api.com,REJECT
 DOMAIN,ip-label.net,REJECT
 DOMAIN,api.ip138.com,REJECT
 DOMAIN,ip2location.com,REJECT
