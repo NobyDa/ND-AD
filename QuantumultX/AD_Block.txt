@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.9.4
+# Update time : 2020.9.12
 
 # AdRule
 DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
@@ -21505,7 +21505,6 @@ DOMAIN,baidu-taobao-av.com,REJECT
 DOMAIN,ada.baidu.com,REJECT
 DOMAIN,aod-image.baidu.com,REJECT
 DOMAIN,as1.wenku.baidu.com,REJECT
-DOMAIN,boxer.baidu.com,REJECT
 DOMAIN,browserkernel.baidu.com,REJECT
 DOMAIN,caclick.baidu.com,REJECT
 DOMAIN,cir-smart.baidu.com,REJECT

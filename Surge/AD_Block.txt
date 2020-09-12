@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.9.4
+# Update time : 2020.9.12
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -21506,7 +21506,6 @@ baidu-taobao-av.com
 ada.baidu.com
 aod-image.baidu.com
 as1.wenku.baidu.com
-boxer.baidu.com
 browserkernel.baidu.com
 caclick.baidu.com
 cir-smart.baidu.com

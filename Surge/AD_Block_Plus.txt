@@ -1,7 +1,7 @@
 f# DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block_Plus.txt,REJECT
 
 # Current total domain name : 69,000+ 
-# Update time : 2020.9.1
+# Update time : 2020.9.12
 
 yhcw.org.cn
 vns4398.com
@@ -16707,7 +16707,6 @@ app.yesware.com
 ali.cityads.com
 a.rad.atdmt.com
 alhijaztrvl.com
-api.picsart.com
 afterheight.net
 ankusamarts.com
 ap.33across.com
