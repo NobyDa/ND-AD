@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.9.12
+# Update time : 2020.9.26
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -37603,7 +37603,6 @@ silvalliant.info
 silvergamed.com
 silverpop.com
 silverpush.co
-live.simcitybuildit.com
 aff.simibo.net
 simicaseros.pro
 similarsabine.com

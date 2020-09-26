@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.9.12
+# Update time : 2020.9.26
 
 # AdRule
 DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
@@ -37602,7 +37602,6 @@ DOMAIN,silvalliant.info,REJECT
 DOMAIN,silvergamed.com,REJECT
 DOMAIN,silverpop.com,REJECT
 DOMAIN,silverpush.co,REJECT
-DOMAIN,live.simcitybuildit.com,REJECT
 DOMAIN,aff.simibo.net,REJECT
 DOMAIN,simicaseros.pro,REJECT
 DOMAIN,similarsabine.com,REJECT
