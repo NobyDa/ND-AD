@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.9.26
+# Update time : 2020.10.3
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -8588,7 +8588,6 @@
 .cm.l.qq.com
 .dir.minigame.qq.com
 .etg.qq.com
-.ex.qq.com
 .fm.qzone.qq.com
 .fodder.qq.com
 .fodder.tc.qq.com
