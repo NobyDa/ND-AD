@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.10.3
+# Update time : 2021.1.30
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -8761,7 +8761,6 @@
 .cpro.tieba.baidu.com
 .cpro2.baidustatic.com
 .dup.baidustatic.com
-.f10.baidu.com
 .idm.bce.baidu.com
 .imageplus.baidu.com
 .itsdata.map.baidu.com
@@ -21019,6 +21018,7 @@ arcadeweb.com
 arcartall.club
 arcaukalb.site
 arccdyvgh.com
+api-access.pangolin-sdk-toutiao-b.com
 consent.subscriptions.archant.co.uk
 www.archigate.it
 are-ter.com
@@ -21513,8 +21513,6 @@ crab.baidu.com
 dlswbr.baidu.com
 eduad.baidu.com
 ext.baidu.com
-f11.baidu.com
-f12.baidu.com
 fcm.baidu.com
 goutong.baidu.com
 hao123union.baidu.com

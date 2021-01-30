@@ -1,7 +1,7 @@
 # https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
 
 # Current total domain name : 43,000+ 
-# Update time : 2020.10.3
+# Update time : 2021.1.30
 
 # AdRule
 DOMAIN-SUFFIX,mcupdate.gstarcad.com,REJECT
@@ -8760,7 +8760,6 @@ DOMAIN-SUFFIX,cpro.baidustatic.com,REJECT
 DOMAIN-SUFFIX,cpro.tieba.baidu.com,REJECT
 DOMAIN-SUFFIX,cpro2.baidustatic.com,REJECT
 DOMAIN-SUFFIX,dup.baidustatic.com,REJECT
-DOMAIN-SUFFIX,f10.baidu.com,REJECT
 DOMAIN-SUFFIX,idm.bce.baidu.com,REJECT
 DOMAIN-SUFFIX,imageplus.baidu.com,REJECT
 DOMAIN-SUFFIX,itsdata.map.baidu.com,REJECT
@@ -21512,8 +21511,6 @@ DOMAIN,crab.baidu.com,REJECT
 DOMAIN,dlswbr.baidu.com,REJECT
 DOMAIN,eduad.baidu.com,REJECT
 DOMAIN,ext.baidu.com,REJECT
-DOMAIN,f11.baidu.com,REJECT
-DOMAIN,f12.baidu.com,REJECT
 DOMAIN,fcm.baidu.com,REJECT
 DOMAIN,goutong.baidu.com,REJECT
 DOMAIN,hao123union.baidu.com,REJECT
@@ -30357,6 +30354,7 @@ DOMAIN,kang08.com,REJECT
 DOMAIN,kanglingjiu.com,REJECT
 DOMAIN,img2.user.kanimg.com,REJECT
 DOMAIN,www.kanjiantu.com,REJECT
+DOMAIN,api-access.pangolin-sdk-toutiao-b.com,REJECT
 DOMAIN,20200401.logic.cpm.cm.kankan.com,REJECT
 DOMAIN,20200402.logic.cpm.cm.kankan.com,REJECT
 DOMAIN,20200403.logic.cpm.cm.kankan.com,REJECT
