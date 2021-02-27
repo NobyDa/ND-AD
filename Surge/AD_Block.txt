@@ -1,7 +1,7 @@
 # DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
 
 # Current total domain name : 43,000+ 
-# Update time : 2021.1.30
+# Update time : 2021.2.27
 
 # AdRule
 .mcupdate.gstarcad.com
@@ -6368,7 +6368,6 @@
 .searchswapper.com
 .seavideo-ak.espn.go.com
 .sebar.thand.info
-.sec.resource.xiaomi.net
 .secpay.wostore.cn
 .secretmedia.s3.amazonaws.com
 .secure.dsp.com
