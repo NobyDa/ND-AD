@@ -9786,7 +9786,7 @@ DOMAIN-SUFFIX,2sh8fouhk84h.com,REJECT
 DOMAIN-SUFFIX,2shoushi.com,REJECT
 DOMAIN-SUFFIX,2st5ne.cn,REJECT
 DOMAIN-SUFFIX,2tpwcqot22mb.com,REJECT
-DOMAIN-SUFFIX,2txt.cc:8862,REJECT
+DOMAIN-SUFFIX,2txt.cc,REJECT
 DOMAIN-SUFFIX,2v0ni.cn,REJECT
 DOMAIN-SUFFIX,2v9ml.cn,REJECT
 DOMAIN-SUFFIX,2wxb5.cn,REJECT
@@ -9902,7 +9902,7 @@ DOMAIN-SUFFIX,605296.com,REJECT
 DOMAIN-SUFFIX,606w.cn,REJECT
 DOMAIN-SUFFIX,609623.com,REJECT
 DOMAIN-SUFFIX,614514.com,REJECT
-DOMAIN-SUFFIX,63xs.com:8016,REJECT
+DOMAIN-SUFFIX,63xs.com,REJECT
 DOMAIN-SUFFIX,643226.com,REJECT
 DOMAIN-SUFFIX,645yvcj6c8rn.com,REJECT
 DOMAIN-SUFFIX,64ri.cn,REJECT
@@ -14380,7 +14380,7 @@ DOMAIN-SUFFIX,xtianqi.com.cn,REJECT
 DOMAIN-SUFFIX,xtyizilaijx.cn,REJECT
 DOMAIN-SUFFIX,xu7b.com,REJECT
 DOMAIN-SUFFIX,xuehelei.com,REJECT
-DOMAIN-SUFFIX,xuehongxs.com:8862,REJECT
+DOMAIN-SUFFIX,xuehongxs.com,REJECT
 DOMAIN-SUFFIX,xuexi.hydcd.com,REJECT
 DOMAIN-SUFFIX,xueyanshan.com,REJECT
 DOMAIN-SUFFIX,xueyongbao.com,REJECT
@@ -15010,7 +15010,7 @@ DOMAIN-SUFFIX,analyzer52.fc2.com,REJECT
 DOMAIN-SUFFIX,anon-stats.eff.org,REJECT
 DOMAIN-SUFFIX,anti-bot.baidu.com,REJECT
 DOMAIN-SUFFIX,ape-tagit.timeinc.net,REJECT
-DOMAIN-SUFFIX,apester.com/event,REJECT
+DOMAIN-SUFFIX,apester.com,REJECT
 DOMAIN-SUFFIX,api.nobeta.com.br,REJECT
 DOMAIN-SUFFIX,api.wipmania.com,REJECT
 DOMAIN-SUFFIX,apple.www.letv.com,REJECT
@@ -15692,9 +15692,7 @@ DOMAIN-SUFFIX,gnar.grammarly.com,REJECT
 DOMAIN-SUFFIX,go.optifuze.com,REJECT
 DOMAIN-SUFFIX,go.techtarget.com,REJECT
 DOMAIN-SUFFIX,gobba.myeffect.net,REJECT
-DOMAIN-SUFFIX,google-analytics.com/batch,REJECT
-DOMAIN-SUFFIX,google-analytics.com/internal/collect,REJECT
-DOMAIN-SUFFIX,google-analytics.com/r/collect,REJECT
+DOMAIN-SUFFIX,google-analytics.com,REJECT
 DOMAIN-SUFFIX,graftpool.ovh,REJECT
 DOMAIN-SUFFIX,gramombird.com,REJECT
 DOMAIN-SUFFIX,green-griffin-860.appspot.com,REJECT
@@ -15921,7 +15919,7 @@ DOMAIN-SUFFIX,mdn.neowin.net,REJECT
 DOMAIN-SUFFIX,measure.ameblo.jp,REJECT
 DOMAIN-SUFFIX,mediametrics.mpsa.com,REJECT
 DOMAIN-SUFFIX,mediator.mail.ru,REJECT
-DOMAIN-SUFFIX,mercadolibre.com/tracks,REJECT
+DOMAIN-SUFFIX,mercadolibre.com,REJECT
 DOMAIN-SUFFIX,met.vgwort.de,REJECT
 DOMAIN-SUFFIX,metric-agent.i10c.net,REJECT
 DOMAIN-SUFFIX,metric.inetcore.com,REJECT
@@ -16273,7 +16271,7 @@ DOMAIN-SUFFIX,s.edeka.de,REJECT
 DOMAIN-SUFFIX,s.infogram.com,REJECT
 DOMAIN-SUFFIX,s.renren.com,REJECT
 DOMAIN-SUFFIX,s.sniphub.com,REJECT
-DOMAIN-SUFFIX,s24cloud.net/log,REJECT
+DOMAIN-SUFFIX,s24cloud.net,REJECT
 DOMAIN-SUFFIX,s3-tracking.synthasite.net.s3.amazonaws.com,REJECT
 DOMAIN-SUFFIX,sa.bbc.co.uk,REJECT
 DOMAIN-SUFFIX,sa.sky.it,REJECT
@@ -17216,7 +17214,6 @@ DOMAIN-SUFFIX,yjtag.yahoo.co.jp,REJECT
 DOMAIN-SUFFIX,ynuf.alibaba.com,REJECT
 DOMAIN-SUFFIX,yoc.younited-credit.com,REJECT
 DOMAIN-SUFFIX,yourlocalguardian-gb.yourlocalguardian.co.uk,REJECT
-DOMAIN-SUFFIX,yupptv.com/yupptvreports/stats.php,REJECT
 DOMAIN-SUFFIX,zam.nextinpact.com,REJECT
 DOMAIN-SUFFIX,zdlogs.sphereup.com,REJECT
 DOMAIN-SUFFIX,zeus.slader.com,REJECT

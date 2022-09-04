@@ -9787,7 +9787,7 @@
 .2shoushi.com
 .2st5ne.cn
 .2tpwcqot22mb.com
-.2txt.cc:8862
+.2txt.cc
 .2v0ni.cn
 .2v9ml.cn
 .2wxb5.cn
@@ -9903,7 +9903,7 @@
 .606w.cn
 .609623.com
 .614514.com
-.63xs.com:8016
+.63xs.com
 .643226.com
 .645yvcj6c8rn.com
 .64ri.cn
@@ -14381,7 +14381,7 @@
 .xtyizilaijx.cn
 .xu7b.com
 .xuehelei.com
-.xuehongxs.com:8862
+.xuehongxs.com
 .xuexi.hydcd.com
 .xueyanshan.com
 .xueyongbao.com
@@ -15011,7 +15011,7 @@
 .anon-stats.eff.org
 .anti-bot.baidu.com
 .ape-tagit.timeinc.net
-.apester.com/event
+.apester.com
 .api.nobeta.com.br
 .api.wipmania.com
 .apple.www.letv.com
@@ -15693,9 +15693,7 @@
 .go.optifuze.com
 .go.techtarget.com
 .gobba.myeffect.net
-.google-analytics.com/batch
-.google-analytics.com/internal/collect
-.google-analytics.com/r/collect
+.google-analytics.com
 .graftpool.ovh
 .gramombird.com
 .green-griffin-860.appspot.com
@@ -15922,7 +15920,7 @@
 .measure.ameblo.jp
 .mediametrics.mpsa.com
 .mediator.mail.ru
-.mercadolibre.com/tracks
+.mercadolibre.com
 .met.vgwort.de
 .metric-agent.i10c.net
 .metric.inetcore.com
@@ -16274,7 +16272,7 @@
 .s.infogram.com
 .s.renren.com
 .s.sniphub.com
-.s24cloud.net/log
+.s24cloud.net
 .s3-tracking.synthasite.net.s3.amazonaws.com
 .sa.bbc.co.uk
 .sa.sky.it
@@ -17217,7 +17215,6 @@
 .ynuf.alibaba.com
 .yoc.younited-credit.com
 .yourlocalguardian-gb.yourlocalguardian.co.uk
-.yupptv.com/yupptvreports/stats.php
 .zam.nextinpact.com
 .zdlogs.sphereup.com
 .zeus.slader.com
